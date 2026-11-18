@@ -1,0 +1,5258 @@
+[
+  {
+    "productId": "p175",
+    "source": "/images/catalog/alvero-dresuar/01.jpg",
+    "local": "/images/catalog-cutouts/alvero-dresuar/01.png",
+    "sourceSha256": "926be439b764f934bca0236ae632689e56bdc4b927ada6aeac3c763a9f25644b",
+    "sha256": "0427ff1894050639501657a72eb006a15adebadac07a50c874d3e0b807f92f17",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.786014231824417,
+    "foregroundFraction": 0.21277006172839505,
+    "foregroundBox": [
+      139,
+      0,
+      945,
+      906
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 0.9953703703703703,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p229",
+    "source": "/images/catalog/alviro-zigon-sehpa-seti/01.jpg",
+    "local": "/images/catalog-cutouts/alviro-zigon-sehpa-seti/01.png",
+    "sourceSha256": "2a879d9a1f150e8d5afc5f308b8c651f3c2f883bb72d47100943a4eaa2c3e045",
+    "sha256": "7e236f88855a79e815b885c150ad9003538bf944a7b22882a7b42fe3a4945f26",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8194641632373114,
+    "foregroundFraction": 0.1761059670781893,
+    "foregroundBox": [
+      158,
+      7,
+      936,
+      860
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p136",
+    "source": "/images/catalog/erelia-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/erelia-orta-sehpa/01.png",
+    "sourceSha256": "89c4f7698e0a24f26db754820b57de04cbfb3a7c339964733c9c376ecd3bfe94",
+    "sha256": "473d4a70d8a402d977d73d465837d616504691721f76141ee9b3f106b8fe8e7a",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.5782998971193416,
+    "foregroundFraction": 0.4198105281207133,
+    "foregroundBox": [
+      25,
+      0,
+      1071,
+      862
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 0.9699074074074074,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p86",
+    "source": "/images/catalog/ivara-zigon-sehpa-seti/01.jpg",
+    "local": "/images/catalog-cutouts/ivara-zigon-sehpa-seti/01.png",
+    "sourceSha256": "dc82387db28ef323df271e8d457cf624f36ccd468ea10fce5b1b61e6b60387e1",
+    "sha256": "3ce7d4894635d406e567064ae3737b8f975e9a3e6140325770dc92059a32b20a",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7772916666666667,
+    "foregroundFraction": 0.21953789437585733,
+    "foregroundBox": [
+      193,
+      0,
+      903,
+      866
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 0.9884259259259259,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p168",
+    "source": "/images/catalog/lareva-dekoratif-kitaplik/01.png",
+    "local": "/images/catalog-cutouts/lareva-dekoratif-kitaplik/01.png",
+    "sourceSha256": "085a889e228929856ba98f64e1b259585ee5e7b8aff8ce68f33c1ec2ff189eca",
+    "sha256": "1bfc9b7136e4ea5c726abf7e94e8c5ba897e7e34968c77690763a4941277b7d3",
+    "width": 1024,
+    "height": 1024,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8964862823486328,
+    "foregroundFraction": 0.10030269622802734,
+    "foregroundBox": [
+      396,
+      64,
+      628,
+      952
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      254,
+      254,
+      254
+    ]
+  },
+  {
+    "productId": "p168",
+    "source": "/images/catalog/lareva-dekoratif-kitaplik/02.png",
+    "local": "/images/catalog-cutouts/lareva-dekoratif-kitaplik/02.png",
+    "sourceSha256": "ed9ab96f8d8f0887448e4843ac81a4aa0f3c7e180b088a8de03ef30a7a77f373",
+    "sha256": "9106725e9ce3b4bb8c5d4889e44c69d1575b578f149b43e6bb1690b30ddfa03a",
+    "width": 1024,
+    "height": 1024,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8872108459472656,
+    "foregroundFraction": 0.11155319213867188,
+    "foregroundBox": [
+      402,
+      74,
+      613,
+      943
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      253,
+      253,
+      253
+    ]
+  },
+  {
+    "productId": "p72",
+    "source": "/images/catalog/nerova-yan-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/nerova-yan-sehpa/01.png",
+    "sourceSha256": "c53873ce5059980626479634f1c84d42dd8a99566994202ed3c101b5580e2fd0",
+    "sha256": "a6ab5d9a158caf39bce971f4d4fc4b5dceb0673a8c57728b43fa953c98784a9f",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7083590534979424,
+    "foregroundFraction": 0.29076731824417007,
+    "foregroundBox": [
+      277,
+      9,
+      803,
+      893
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p128",
+    "source": "/images/catalog/novian-dresuar/01.jpg",
+    "local": "/images/catalog-cutouts/novian-dresuar/01.png",
+    "sourceSha256": "2f43989e794a716d33127f4f140558ddf39c7b679e8fa4c546343c12dcdb2e19",
+    "sha256": "d43f294c2e87a47f2bb65fece51804885eec68a33771637fd37046d8e762e194",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8353480795610425,
+    "foregroundFraction": 0.16415637860082305,
+    "foregroundBox": [
+      222,
+      85,
+      884,
+      945
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p143",
+    "source": "/images/catalog/ravira-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/ravira-orta-sehpa/01-clean.png",
+    "sourceSha256": "aea3f298c2d4811ddd6ddd25e6cbd0c915ca3573ba583a73d9bca17ad1dab2bd",
+    "sha256": "cb38d3f4eb7419bc32fd204e094a49a587a8740f0bf1ef4c2ce42b579d795baa",
+    "width": 1024,
+    "height": 1024,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.6279067993164062,
+    "foregroundFraction": 0.3710947036743164,
+    "foregroundBox": [
+      64,
+      129,
+      958,
+      760
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      254,
+      254,
+      254
+    ],
+    "groundCleanup": "reviewed-floor-v1"
+  },
+  {
+    "productId": "p143",
+    "source": "/images/catalog/ravira-orta-sehpa/02.jpg",
+    "local": "/images/catalog-cutouts/ravira-orta-sehpa/02.png",
+    "sourceSha256": "d11a6501ea88d0c066ec896645fffe179b8691daffcc0ca95620437d700d92c4",
+    "sha256": "d5825ab3cefc19f7dd34c2749e7fc3b22d624ff3459d2fb1df961ff5e890227f",
+    "width": 1730,
+    "height": 1730,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8442270039092519,
+    "foregroundFraction": 0.11525577199371846,
+    "foregroundBox": [
+      245,
+      898,
+      1243,
+      1495
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": false,
+    "borderWhiteFraction": 0,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p143",
+    "source": "/images/catalog/ravira-orta-sehpa/03.jpg",
+    "local": "/images/catalog-cutouts/ravira-orta-sehpa/03.png",
+    "sourceSha256": "ef804250d93a6823f6876cd9c2bfaa27acb71826263f11bb8b1b5086ba0bf506",
+    "sha256": "1e378ed5eb8a0b39548a3249b62c3576d866a613ca12b82a99b671a9f910b6e9",
+    "width": 2048,
+    "height": 2048,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8106429576873779,
+    "foregroundFraction": 0.1580202579498291,
+    "foregroundBox": [
+      473,
+      883,
+      1583,
+      1635
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": false,
+    "borderWhiteFraction": 0,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p232",
+    "source": "/images/catalog/serivo-tv-sehpasi/01.jpeg",
+    "local": "/images/catalog-cutouts/serivo-tv-sehpasi/01.png",
+    "sourceSha256": "bf8332c62d9677eab88aa7ab64eb0ff030bdcf24d19f99af547e683e07c5ae51",
+    "sha256": "58075f684c48fc65acf9061e8d66365513a3a625be3b85bc3782706a161052ab",
+    "width": 1024,
+    "height": 1024,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8040103912353516,
+    "foregroundFraction": 0.19479846954345703,
+    "foregroundBox": [
+      91,
+      152,
+      933,
+      718
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p232",
+    "source": "/images/catalog/serivo-tv-sehpasi/02.jpeg",
+    "local": "/images/catalog-cutouts/serivo-tv-sehpasi/02.png",
+    "sourceSha256": "f7fcc03c01339bf0ae1049165b0722ee13db56573cd48ace68fbc5399989eade",
+    "sha256": "f7caa91cb22ebfe46d8a744c14e247754e025e955771f787e2d91317f5c0f32b",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8450060013717421,
+    "foregroundFraction": 0.08989283264746227,
+    "foregroundBox": [
+      93,
+      287,
+      1018,
+      617
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": false,
+    "borderWhiteFraction": 0,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p232",
+    "source": "/images/catalog/serivo-tv-sehpasi/03.jpeg",
+    "local": "/images/catalog-cutouts/serivo-tv-sehpasi/03.png",
+    "sourceSha256": "b2b9c805213f2a5f39361046e6072eb03006444564e5f9a2c493959d756fd3ae",
+    "sha256": "8da1504f8cac7a5771e7adb995b1a82cfbd456a844a1b539c2ad3a28cc78a344",
+    "width": 1024,
+    "height": 1024,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.6091699600219727,
+    "foregroundFraction": 0.3244962692260742,
+    "foregroundBox": [
+      28,
+      59,
+      894,
+      843
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": false,
+    "borderWhiteFraction": 0,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p232",
+    "source": "/images/catalog/serivo-tv-sehpasi/04.jpeg",
+    "local": "/images/catalog-cutouts/serivo-tv-sehpasi/04.png",
+    "sourceSha256": "138dec2a4d8e794e0b7463217cc6ace53a10b4b3a41af40d41e4f0b419cb11c6",
+    "sha256": "a80e8d80e11f0f72742c0a4c923d524f1b9bc927e1d9089dfe612c335c0aafcf",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8715706447187929,
+    "foregroundFraction": 0.1275034293552812,
+    "foregroundBox": [
+      87,
+      232,
+      989,
+      680
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p4",
+    "source": "/images/catalog/solvia-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/solvia-orta-sehpa/01.png",
+    "sourceSha256": "7a07bc7cb634004d3faaa09581d172ed99bbb8e7213c84e01805bb8caac4fa87",
+    "sha256": "7071c5d1c8715b2c0494053cc502119abe323324e584784983bd10ea1d87614c",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7604681069958847,
+    "foregroundFraction": 0.23780606995884773,
+    "foregroundBox": [
+      67,
+      58,
+      1013,
+      911
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p242",
+    "source": "/images/catalog/taveon-orta-sehpa/01.jpeg",
+    "local": "/images/catalog-cutouts/taveon-orta-sehpa/01.png",
+    "sourceSha256": "1805667205a08b1de6a8e25a349022667c7ab9ec7e81759dc9dbc4e9dd79ebd6",
+    "sha256": "e4eea4960b7b9fa7d81a6cc59b356da34c66cdcec28ea6aaea8397cfdde30e6f",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7763554526748971,
+    "foregroundFraction": 0.20408179012345679,
+    "foregroundBox": [
+      130,
+      267,
+      944,
+      780
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": false,
+    "borderWhiteFraction": 0.49537037037037035,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p242",
+    "source": "/images/catalog/taveon-orta-sehpa/02.jpeg",
+    "local": "/images/catalog-cutouts/taveon-orta-sehpa/02.png",
+    "sourceSha256": "eaaa93351f82caffd4e764b9a7a7895d720e2431c687f0c7a1d1659570fc06ef",
+    "sha256": "9fcaaead7091e3869dc2fc3e009b0542ec1f31063b57b2efdd9397882be0c406",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.6287457133058985,
+    "foregroundFraction": 0.3689308984910837,
+    "foregroundBox": [
+      88,
+      0,
+      990,
+      800
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 0.9953703703703703,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p242",
+    "source": "/images/catalog/taveon-orta-sehpa/03.jpeg",
+    "local": "/images/catalog-cutouts/taveon-orta-sehpa/03.png",
+    "sourceSha256": "4bb4c50fcd6778fcf4ba4fa39af4d3cc6a8ba83dab6a88710d51f9351bb5247c",
+    "sha256": "8299953b6023933ab97ca92192cdad668de1ad32d8013062ac1b3951b7ed4890",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7396347736625515,
+    "foregroundFraction": 0.25845421810699587,
+    "foregroundBox": [
+      129,
+      54,
+      950,
+      785
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p242",
+    "source": "/images/catalog/taveon-orta-sehpa/04.jpeg",
+    "local": "/images/catalog-cutouts/taveon-orta-sehpa/04.png",
+    "sourceSha256": "281828a5dca3c90702ca62a66697bedf482b0c18ec9109963df1e5f0eef1a660",
+    "sha256": "2c6567a5643487bcecfa4579c1fa0e10fd0bcdc28557cf836ef0563e35e81899",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7168364197530864,
+    "foregroundFraction": 0.28131601508916326,
+    "foregroundBox": [
+      138,
+      0,
+      944,
+      837
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 0.9884259259259259,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p241",
+    "source": "/images/catalog/tavira-servis-arabasi/01.jpeg",
+    "local": "/images/catalog-cutouts/tavira-servis-arabasi/01.png",
+    "sourceSha256": "3a91591fd97cba822b89652982314a0b4f87afb22b5c586c45f22e6650bfa9bd",
+    "sha256": "12a361b7f732f7e8e1841a04c99975eb6e1296b67140ff02caa9a4c12e8f0af4",
+    "width": 2160,
+    "height": 2160,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.778306541495199,
+    "foregroundFraction": 0.21786179698216734,
+    "foregroundBox": [
+      321,
+      234,
+      1840,
+      1855
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p233",
+    "source": "/images/catalog/alvero-tv-sehpasi/01.png",
+    "local": "/images/catalog-cutouts/alvero-tv-sehpasi/01.png",
+    "sourceSha256": "6aface702b6b24eed581e0279d7e9b826e8d20794494c07cd28ea436a9a44d68",
+    "sha256": "5c1ec88e3f7b999b86519a089c8ef699fdcd0c6c77c1cca813494ed5b2546450",
+    "width": 2048,
+    "height": 2048,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8623580932617188,
+    "foregroundFraction": 0.13695478439331055,
+    "foregroundBox": [
+      107,
+      454,
+      1926,
+      1263
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p233",
+    "source": "/images/catalog/alvero-tv-sehpasi/02.jpeg",
+    "local": "/images/catalog-cutouts/alvero-tv-sehpasi/02.png",
+    "sourceSha256": "a2a0a4790e144aec01c76ad64a372abb1cacc2f4fb040e349d18a3f73615155c",
+    "sha256": "a4810929d84e2163d3aca2efb0a0a2c60ac780111450de8a6cade0ddfdd7c740",
+    "width": 2048,
+    "height": 2048,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7731385231018066,
+    "foregroundFraction": 0.21398210525512695,
+    "foregroundBox": [
+      70,
+      479,
+      1932,
+      1561
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": false,
+    "borderWhiteFraction": 0,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p186",
+    "source": "/images/catalog/alveta-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/alveta-orta-sehpa/01.png",
+    "sourceSha256": "e2898ae74360ebdcd905a061670b39711763f8bf92bbc3c042b639f514861275",
+    "sha256": "d3ed719b06feae90761d9ef42c1d0c73abf72f4044d3f99adc4255a13d9c1f5b",
+    "width": 1524,
+    "height": 1524,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7680433277533222,
+    "foregroundFraction": 0.23067060023008934,
+    "foregroundBox": [
+      53,
+      308,
+      1488,
+      1174
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p176",
+    "source": "/images/catalog/alvian-dresuar/01.jpg",
+    "local": "/images/catalog-cutouts/alvian-dresuar/01.png",
+    "sourceSha256": "6331acb42b404acd84720b97b7578cdd5cf78b67948477fe477697fcdd04162f",
+    "sha256": "95457d348d22f2c1c9cca906070f8ddaa6d171212ce6d44e6a38e689a4c0e757",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8282570301783265,
+    "foregroundFraction": 0.17065329218106995,
+    "foregroundBox": [
+      111,
+      5,
+      936,
+      911
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p131",
+    "source": "/images/catalog/anviro-orta-sehpa/01.jpeg",
+    "local": "/images/catalog-cutouts/anviro-orta-sehpa/01.png",
+    "sourceSha256": "8d03b7319b579a8a014ebf64a8c11560b1a29964242238f3ddf1452ef1c13c12",
+    "sha256": "e4b209fd235f05699f8091bf4327a7caabac3537fb825563ff600f20b86eab50",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7283933470507544,
+    "foregroundFraction": 0.2708101851851852,
+    "foregroundBox": [
+      81,
+      161,
+      1006,
+      796
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p148",
+    "source": "/images/catalog/arevio-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/arevio-orta-sehpa/01.png",
+    "sourceSha256": "ea313a992dc3c4559be6eea287a760f496506f86e2fe346de831583e8484b165",
+    "sha256": "71ea437739d3d62ad24bc3cc3e11bb8c7a435a529829944ad4473da1ff45c7d4",
+    "width": 2160,
+    "height": 2160,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7368529235253772,
+    "foregroundFraction": 0.2615745027434842,
+    "foregroundBox": [
+      33,
+      273,
+      2130,
+      1704
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p213",
+    "source": "/images/catalog/arevio-yan-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/arevio-yan-sehpa/01.png",
+    "sourceSha256": "399f2210701392697271c2badef7cab76b38e8c1ae36499b7c05a58162acdfa7",
+    "sha256": "9bd6554ad3b9b830234c0f292f2a67c74dfd5d9ad503cf35317f16ba2bdc2c12",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7964531893004115,
+    "foregroundFraction": 0.20328960905349794,
+    "foregroundBox": [
+      267,
+      111,
+      882,
+      923
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p173",
+    "source": "/images/catalog/arvelo-dresuar/01.jpg",
+    "local": "/images/catalog-cutouts/arvelo-dresuar/01.png",
+    "sourceSha256": "467da35ae112bc815c02e3714e937fd6f5f8b95c7daaa5ef2329b641d7ec4cbb",
+    "sha256": "068ba16dbaa5270cd48e79b949cf664f02008fc58fa738a51750c746e57495a8",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7201217421124828,
+    "foregroundFraction": 0.27920524691358023,
+    "foregroundBox": [
+      98,
+      16,
+      983,
+      886
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p43",
+    "source": "/images/catalog/arven-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/arven-orta-sehpa/01-clean.png",
+    "sourceSha256": "0bdd45ec48e64a651ec1f172e14316c936ac48f3530080ed1eba04130d90264e",
+    "sha256": "de94520574817722507c48b62fc435793d145f2465b908555e89d3cea9f775d0",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7240363511659808,
+    "foregroundFraction": 0.2755941358024691,
+    "foregroundBox": [
+      99,
+      166,
+      987,
+      843
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ],
+    "groundCleanup": "reviewed-floor-v1"
+  },
+  {
+    "productId": "p43",
+    "source": "/images/catalog/arven-orta-sehpa/02.jpg",
+    "local": "/images/catalog-cutouts/arven-orta-sehpa/02.png",
+    "sourceSha256": "5dca091886d8901eb7377f3c87d68077202eb1ab54afada000f0b38bed210a06",
+    "sha256": "bfb83011fb29a4074a4464e4aded2f84a6602ff833a2a82d1e320edc138393a3",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.722434842249657,
+    "foregroundFraction": 0.2767781207133059,
+    "foregroundBox": [
+      121,
+      225,
+      960,
+      839
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p180",
+    "source": "/images/catalog/arveta-dresuar/01.jpeg",
+    "local": "/images/catalog-cutouts/arveta-dresuar/01.png",
+    "sourceSha256": "2329b36cfea4efc94e73d28aca38b2d804d6914a3a9f2c041a88a22f361040d0",
+    "sha256": "7689e951d1b44324ab864466d123a760e656cd29b52a5e45f985075f2b485e31",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7405898491083677,
+    "foregroundFraction": 0.25776663237311387,
+    "foregroundBox": [
+      94,
+      87,
+      1006,
+      944
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p200",
+    "source": "/images/catalog/arvian-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/arvian-orta-sehpa/01.png",
+    "sourceSha256": "5184c7ab4d94a6e813d9be178861e6e800b4351d8846155de3f57beeb049e65a",
+    "sha256": "a9c06a23a38057c3bbd4c1d8f31ef39568b9d4c7e1233c6afa5c4aa437d83520",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.737627743484225,
+    "foregroundFraction": 0.25232853223593965,
+    "foregroundBox": [
+      120,
+      90,
+      960,
+      785
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p206",
+    "source": "/images/catalog/avelio-dresuar/01.jpeg",
+    "local": "/images/catalog-cutouts/avelio-dresuar/01.png",
+    "sourceSha256": "3552e7da7d8b23740366a54dcb8c56baa6ac597bf677a2fb4207e20cb68b28c7",
+    "sha256": "00f3c2f2d40c571ed1930f4dcdd8a6fd2d8ac4ffaa5d534181721a4ba022b94b",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7995318930041152,
+    "foregroundFraction": 0.1974579903978052,
+    "foregroundBox": [
+      127,
+      0,
+      936,
+      900
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 0.9722222222222222,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p134",
+    "source": "/images/catalog/averio-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/averio-orta-sehpa/01.png",
+    "sourceSha256": "7b13dae5ec86214de302319a9dbb96f242c6ff520e17c6a7e8977af0b1a25c80",
+    "sha256": "db672be1844e7a20db915c59c8224637b71087bcb6c9f63f2ce607a01ddae9f5",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8176303155006859,
+    "foregroundFraction": 0.18156550068587105,
+    "foregroundBox": [
+      107,
+      88,
+      991,
+      875
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p215",
+    "source": "/images/catalog/averio-yan-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/averio-yan-sehpa/01.png",
+    "sourceSha256": "7345920be4702fe8e31adef747084da98ef7a11d31152156ff038e89442c6b85",
+    "sha256": "40eb5044deac770f83348270a72ed0ebf59ac2d3b84ab499147e32ba04ba3e1e",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8824785665294924,
+    "foregroundFraction": 0.11618569958847737,
+    "foregroundBox": [
+      261,
+      127,
+      819,
+      863
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p169",
+    "source": "/images/catalog/averis-dekoratif-kitaplik/01.png",
+    "local": "/images/catalog-cutouts/averis-dekoratif-kitaplik/01-clean.png",
+    "sourceSha256": "fca3269cc9f307569cd264bb68966b46c7fb532021abdc375a3a95fe2ebf523b",
+    "sha256": "66de7fa5fa3690dda50429b0c021d603086645b58274fd7d35a3a3d17082e380",
+    "width": 2048,
+    "height": 2048,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8976221084594727,
+    "foregroundFraction": 0.09315133094787598,
+    "foregroundBox": [
+      683,
+      125,
+      1372,
+      1888
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 0.9805825242718447,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ],
+    "groundCleanup": "reviewed-floor-v1"
+  },
+  {
+    "productId": "p97",
+    "source": "/images/catalog/belvia-zigon-sehpa-seti/01.jpg",
+    "local": "/images/catalog-cutouts/belvia-zigon-sehpa-seti/01.png",
+    "sourceSha256": "cacd7a21a2fe8c3bb3671a76a84c331e04eeb77e9598380b55ea448dd1526893",
+    "sha256": "1b60bd80d9352a695216e5c4e51011a9afeba05ad7bcfce8539d8e5797bb847d",
+    "width": 2160,
+    "height": 2160,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.759022848079561,
+    "foregroundFraction": 0.23886445473251028,
+    "foregroundBox": [
+      432,
+      0,
+      1799,
+      1808
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 0.9781553398058253,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p61",
+    "source": "/images/catalog/belvio-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/belvio-orta-sehpa/01.png",
+    "sourceSha256": "772711333677be8a0c8c5c1e4413a0d62081e7a7a751f76895e6ffa20067bc38",
+    "sha256": "7d208a24183796968d95402245994819eaa7f9a32c3a22213bc2d22f74771793",
+    "width": 1024,
+    "height": 1024,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.6580772399902344,
+    "foregroundFraction": 0.3405294418334961,
+    "foregroundBox": [
+      105,
+      0,
+      918,
+      773
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 0.9514563106796117,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p61",
+    "source": "/images/catalog/belvio-orta-sehpa/02.jpeg",
+    "local": "/images/catalog-cutouts/belvio-orta-sehpa/02.png",
+    "sourceSha256": "1fe6c6752b1cc82204a051d22d48c1f518469b1ccf21dfc426eae66a694e2669",
+    "sha256": "0f52b33f4a542b507e1a1e91c69c85654a449855f94e0f0b1799c47902d5d377",
+    "width": 2056,
+    "height": 2048,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.6514144481851897,
+    "foregroundFraction": 0.347515892889713,
+    "foregroundBox": [
+      168,
+      0,
+      1888,
+      1527
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 0.9805825242718447,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p231",
+    "source": "/images/catalog/berivo-zigon-sehpa-seti/01.jpg",
+    "local": "/images/catalog-cutouts/berivo-zigon-sehpa-seti/01.png",
+    "sourceSha256": "d58df7cdf3f58270cf2cc91abb25f1d847f7b49eb52e37483d629eee8eef88cc",
+    "sha256": "6caac2e18affbaec31850151a4a7d2e5b37a1aaa7f5faff6312b090f9f7c0f63",
+    "width": 4320,
+    "height": 4320,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8732823216735254,
+    "foregroundFraction": 0.1260756923010974,
+    "foregroundBox": [
+      869,
+      384,
+      3506,
+      3440
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p231",
+    "source": "/images/catalog/berivo-zigon-sehpa-seti/02.jpg",
+    "local": "/images/catalog-cutouts/berivo-zigon-sehpa-seti/02.png",
+    "sourceSha256": "366c183da0ec2ce6221b3d049de68eafdc183d4270d157ce3305d9d067f451bb",
+    "sha256": "3b195d513c90189f3ff4a8c097b82ca06cfeb6e4fecebeef02c2e2aa928b2d6f",
+    "width": 2160,
+    "height": 2160,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.804562328532236,
+    "foregroundFraction": 0.1931545781893004,
+    "foregroundBox": [
+      480,
+      42,
+      1736,
+      1800
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p123",
+    "source": "/images/catalog/berova-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/berova-orta-sehpa/01.png",
+    "sourceSha256": "16d4e01092d48e35359f6ae2baea8e4add248a58466ba4b47dc472ce2c53bb56",
+    "sha256": "66aff5cd1db19bdc3d885b88e54d4c54659fd8e3bcda9308c68836bb91052c08",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.6311454046639232,
+    "foregroundFraction": 0.3676157407407407,
+    "foregroundBox": [
+      79,
+      79,
+      1020,
+      879
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p123",
+    "source": "/images/catalog/berova-orta-sehpa/02.jpeg",
+    "local": "/images/catalog-cutouts/berova-orta-sehpa/02.png",
+    "sourceSha256": "0156279425b0a5cc41a6fc7f643bfedd2419f9e3a911d6b16633c96898bab522",
+    "sha256": "826d144c92ad5f4ae49c47e0198f9407513059c32f2ebeb660712c9967e30bcc",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.661423182441701,
+    "foregroundFraction": 0.3372487997256516,
+    "foregroundBox": [
+      90,
+      123,
+      1000,
+      846
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p87",
+    "source": "/images/catalog/calira-zigon-sehpa-seti/01.jpg",
+    "local": "/images/catalog-cutouts/calira-zigon-sehpa-seti/01.png",
+    "sourceSha256": "526efa10fc72d08ae1f463a17ca1494a283ebb1e6ff35042cbe1f64c102c490f",
+    "sha256": "cc50bd3af24328a36fd292e2fd2a9040d17fbb729a92b6f7f46cb185b63e48a1",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8314746227709191,
+    "foregroundFraction": 0.1677014746227709,
+    "foregroundBox": [
+      259,
+      0,
+      854,
+      910
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 0.9768518518518519,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p87",
+    "source": "/images/catalog/calira-zigon-sehpa-seti/02.jpg",
+    "local": "/images/catalog-cutouts/calira-zigon-sehpa-seti/02.png",
+    "sourceSha256": "0a0f5d85f6c1a7863350a77a2e0f1d8e4018e52dd0846233723a05204cd37e7c",
+    "sha256": "d4612bca56b8d288b547e571d2b371397013e4c742392887c23b937cd7178148",
+    "width": 2160,
+    "height": 2160,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8234072788065844,
+    "foregroundFraction": 0.17249014060356652,
+    "foregroundBox": [
+      320,
+      211,
+      1791,
+      1727
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p87",
+    "source": "/images/catalog/calira-zigon-sehpa-seti/03.jpg",
+    "local": "/images/catalog-cutouts/calira-zigon-sehpa-seti/03-clean.png",
+    "sourceSha256": "0d6f3b72b27cf48f447c766109a5aec4903aa588af8fb465ff9a840b9cdbed5a",
+    "sha256": "e5882d636285d30a522d3ad60af7fa759b4872f2abd91282708b6d1a73d93e2f",
+    "width": 2160,
+    "height": 2160,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8452492712620028,
+    "foregroundFraction": 0.15172882373113855,
+    "foregroundBox": [
+      556,
+      14,
+      1760,
+      1764
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ],
+    "groundCleanup": "reviewed-floor-v1"
+  },
+  {
+    "productId": "p222",
+    "source": "/images/catalog/calven-yan-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/calven-yan-sehpa/01-clean.png",
+    "sourceSha256": "c085e4af21343a8563b442df0f47c580f81592536c3dcf823304a4d7e2704c40",
+    "sha256": "dae53c0d3c66c2250d393acd6b8bef4c7c71980bc92b668f777bca6330dfab50",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8875557270233196,
+    "foregroundFraction": 0.10940757887517147,
+    "foregroundBox": [
+      283,
+      140,
+      832,
+      933
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ],
+    "groundCleanup": "reviewed-floor-v1"
+  },
+  {
+    "productId": "p93",
+    "source": "/images/catalog/calvio-zigon-sehpa-seti/01.jpeg",
+    "local": "/images/catalog-cutouts/calvio-zigon-sehpa-seti/01.png",
+    "sourceSha256": "687bd654f7d1dcb96dd10ea13c9297b8a2e8a5c8d7672a456e4dc22f6b8ff424",
+    "sha256": "ca39ca44c4f92deccd226330f02a4b1864997b85330e342adbbea5729f7f3530",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8337671467764061,
+    "foregroundFraction": 0.16301954732510288,
+    "foregroundBox": [
+      307,
+      121,
+      799,
+      902
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p224",
+    "source": "/images/catalog/carivo-ikili-yan-sehpa-seti/01.jpg",
+    "local": "/images/catalog-cutouts/carivo-ikili-yan-sehpa-seti/01.png",
+    "sourceSha256": "fff0dbddccca117e855360d09cf4ed64967515baa1a69bdd56abaa82dd1fd258",
+    "sha256": "e3e9e021a3134d77bd6ac5ee654ba617d37de329e5f523cc91599a1581835fc2",
+    "width": 2160,
+    "height": 2160,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7930999228395061,
+    "foregroundFraction": 0.20534679355281207,
+    "foregroundBox": [
+      361,
+      0,
+      1766,
+      1695
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 0.9854368932038835,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p238",
+    "source": "/images/catalog/cevira-orta-sehpa/01.jpeg",
+    "local": "/images/catalog-cutouts/cevira-orta-sehpa/01.png",
+    "sourceSha256": "3329e46d49a3891a6d3784bfd728f233aef08b0eec17c5078236b1714ba59589",
+    "sha256": "779dfe9c4d6f2231d40a5e61f719239cac5dae9d76f4c028dbf6bac4c0c26078",
+    "width": 2160,
+    "height": 2160,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.732957390260631,
+    "foregroundFraction": 0.2666047239368999,
+    "foregroundBox": [
+      138,
+      327,
+      2023,
+      1558
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p204",
+    "source": "/images/catalog/corena-yan-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/corena-yan-sehpa/01.png",
+    "sourceSha256": "e923a918427d4c31968f474c66ded5fbc5dabb51ed99d674241bdff2651f4314",
+    "sha256": "1dca57b91e3e593743356f36f76adc2571e4f4dd425037fae5efe7f7b6a8d714",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8567189643347051,
+    "foregroundFraction": 0.14118827160493827,
+    "foregroundBox": [
+      293,
+      91,
+      848,
+      841
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p35",
+    "source": "/images/catalog/corven-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/corven-orta-sehpa/01.png",
+    "sourceSha256": "c641cef331785d76dd2f783dd8b98d8c9b89c52c5baf4f2925423577158a5875",
+    "sha256": "dafa69b58cb56a0bfcfebe21a44a8391ebd43b7a1b19fb86e69690ed0c6867b8",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.658244170096022,
+    "foregroundFraction": 0.34146090534979423,
+    "foregroundBox": [
+      126,
+      0,
+      954,
+      894
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 0.9884259259259259,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p172",
+    "source": "/images/catalog/corvia-dresuar/01.jpeg",
+    "local": "/images/catalog-cutouts/corvia-dresuar/01.png",
+    "sourceSha256": "82196ef96f32bd4c7d2ee68a6e5beb8f2dc91a7e5c0927f8555ee25d230afb19",
+    "sha256": "69472bc97cbfcecac7c1460887fddaa01ea131c1ccf2169a937273cece217a5d",
+    "width": 2160,
+    "height": 2160,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7375634430727024,
+    "foregroundFraction": 0.25965384945130315,
+    "foregroundBox": [
+      249,
+      0,
+      1944,
+      1808
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 0.9878640776699029,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p120",
+    "source": "/images/catalog/darvio-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/darvio-orta-sehpa/01-clean.png",
+    "sourceSha256": "43cab2cdda1098c44f0b82140875d531d1836ab9fc89f23361623ea02b346077",
+    "sha256": "7773d0411f853666ab86186e766e47f8d79a6c8b723422e9b0998e7ab85ddff9",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7196150548696845,
+    "foregroundFraction": 0.27930555555555553,
+    "foregroundBox": [
+      86,
+      227,
+      989,
+      762
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ],
+    "groundCleanup": "reviewed-floor-v1"
+  },
+  {
+    "productId": "p120",
+    "source": "/images/catalog/darvio-orta-sehpa/02.jpg",
+    "local": "/images/catalog-cutouts/darvio-orta-sehpa/02.png",
+    "sourceSha256": "933bdb97154e4598516ebe1ceb25acb1eee3058e4744d448345b05e511cc638f",
+    "sha256": "bb44fc5bbddb6dee4835cc53caf91ac7b2040c1fc2f19b0a7b7e34c5cae0d180",
+    "width": 2160,
+    "height": 2160,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7215449245541838,
+    "foregroundFraction": 0.27764531893004113,
+    "foregroundBox": [
+      209,
+      366,
+      1953,
+      1655
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p59",
+    "source": "/images/catalog/delvia-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/delvia-orta-sehpa/01.png",
+    "sourceSha256": "61cae51782024a3870579525e6a1d425c3cb83db1199b8da1a7a7eb577325308",
+    "sha256": "4953b30ad141e49edaf27140445c25bff50547db819f9c44f7ca57a374c90764",
+    "width": 2160,
+    "height": 2160,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.838710348079561,
+    "foregroundFraction": 0.1596246999314129,
+    "foregroundBox": [
+      24,
+      328,
+      2144,
+      1480
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p208",
+    "source": "/images/catalog/delvia-yan-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/delvia-yan-sehpa/01.png",
+    "sourceSha256": "9771af2aeeb11005a681a6f1455791ed8121f75c544663e9b24a1c740c6de5e8",
+    "sha256": "13e54f2b811ff38e4e3a74c01a6107879dd2e8817a372821d5c75c07f2b1d38c",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.889874828532236,
+    "foregroundFraction": 0.10942215363511659,
+    "foregroundBox": [
+      273,
+      187,
+      866,
+      895
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p170",
+    "source": "/images/catalog/elvian-dekoratif-kitaplik/01.jpeg",
+    "local": "/images/catalog-cutouts/elvian-dekoratif-kitaplik/01.png",
+    "sourceSha256": "92c63fabbe94c759e58e5015e191ec77d40127d8c81e7126bd1a5244c874fc2b",
+    "sha256": "9bb2b412895118d5896673f70aa08fc83b24cf32f40980f49164e46675a3df3c",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8179878257887517,
+    "foregroundFraction": 0.17881772976680385,
+    "foregroundBox": [
+      313,
+      119,
+      750,
+      968
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p170",
+    "source": "/images/catalog/elvian-dekoratif-kitaplik/02.jpeg",
+    "local": "/images/catalog-cutouts/elvian-dekoratif-kitaplik/02.png",
+    "sourceSha256": "2008de48ee3b018abb618af9cfe151d0af84bad1329466c74cf3c8918b0eb5a8",
+    "sha256": "580930fa3ffbd35158fbfa7a721d1ae0d3307a5e170533ee142b19763f6d9bba",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8249314128943759,
+    "foregroundFraction": 0.17171896433470507,
+    "foregroundBox": [
+      344,
+      87,
+      733,
+      1014
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p52",
+    "source": "/images/catalog/ervian-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/ervian-orta-sehpa/01-clean.png",
+    "sourceSha256": "4d873c7a2d7b6c797a8d7221b738c34ec7dd3c23e5a5750daa3b479cb78c45e8",
+    "sha256": "8b17d13646ff88b172afa4c864d044bd24d39540a611c812ea00a3c24e7fc823",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.6665423525377229,
+    "foregroundFraction": 0.33336848422496573,
+    "foregroundBox": [
+      84,
+      226,
+      994,
+      781
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ],
+    "groundCleanup": "reviewed-floor-v1"
+  },
+  {
+    "productId": "p90",
+    "source": "/images/catalog/evania-zigon-sehpa-seti/01.jpg",
+    "local": "/images/catalog-cutouts/evania-zigon-sehpa-seti/01.png",
+    "sourceSha256": "be22aa6d3dc44aef8e880925828cb867ba838b9af9937a4c457f45667a0045bc",
+    "sha256": "d6e4a14cc41c3d5afb7e2703fc47b2f9026b69c9b62161230639bd6f0753ebe9",
+    "width": 2160,
+    "height": 2160,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8532235939643347,
+    "foregroundFraction": 0.14247792352537722,
+    "foregroundBox": [
+      496,
+      0,
+      1665,
+      1691
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 0.9927184466019418,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p90",
+    "source": "/images/catalog/evania-zigon-sehpa-seti/02.jpg",
+    "local": "/images/catalog-cutouts/evania-zigon-sehpa-seti/02.png",
+    "sourceSha256": "c5faa9e873511348aa49c1ed78b0d6a3f3998e6129b7bb649642d506bd12907b",
+    "sha256": "da9da176ba1bd4e80a1ac392222458d9547b8505fe2ccc547086bffd44de4087",
+    "width": 2160,
+    "height": 2160,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8255553412208505,
+    "foregroundFraction": 0.16982874657064473,
+    "foregroundBox": [
+      442,
+      0,
+      1728,
+      1779
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 0.9733009708737864,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p36",
+    "source": "/images/catalog/evario-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/evario-orta-sehpa/01-clean.png",
+    "sourceSha256": "a16decc4cdc71a3826c893de21a3573645946f59749fc2444237824024f5c997",
+    "sha256": "199d03459f3e3b7216c1aff27e827ae0c6ecf57c9b6c2c08f14fbdc6ce20b99f",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.724792524005487,
+    "foregroundFraction": 0.25054869684499315,
+    "foregroundBox": [
+      119,
+      120,
+      961,
+      802
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ],
+    "groundCleanup": "reviewed-floor-v1"
+  },
+  {
+    "productId": "p74",
+    "source": "/images/catalog/evaris-yan-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/evaris-yan-sehpa/01.png",
+    "sourceSha256": "07d96e1f34460f5dbb0613a8e4e1970dda1cc782e2b791bad8e7b93c861b03f0",
+    "sha256": "dbc624eda4a4d9d27eb90a1a27457c8ccbfb15216bdce39f3f509bcb316ea782",
+    "width": 2160,
+    "height": 2160,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8633641975308642,
+    "foregroundFraction": 0.13291881001371741,
+    "foregroundBox": [
+      512,
+      313,
+      1648,
+      1768
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p205",
+    "source": "/images/catalog/evelio-dresuar/01.jpeg",
+    "local": "/images/catalog-cutouts/evelio-dresuar/01.png",
+    "sourceSha256": "f5e15e02abfedb3b050216af680090561947e0b8cd472c422379d3755ad5069f",
+    "sha256": "8405d43e08f5a644a2104e6fdcf7c7fc4483b0aebd04035222461dca2dc5f783",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8402606310013717,
+    "foregroundFraction": 0.15692986968449932,
+    "foregroundBox": [
+      49,
+      0,
+      926,
+      812
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 0.9907407407407407,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p195",
+    "source": "/images/catalog/evrina-orta-sehpa/01.jpeg",
+    "local": "/images/catalog-cutouts/evrina-orta-sehpa/01.png",
+    "sourceSha256": "d15badf79ea313842892e39a462db6c6f25c8425951c2d7fa7a435650985ce08",
+    "sha256": "4c8c9869a843eb7d7ba214fbdcb1f3943c670dbe82c4ac939902f31647615a6b",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7436145404663923,
+    "foregroundFraction": 0.2553489368998628,
+    "foregroundBox": [
+      122,
+      139,
+      985,
+      752
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p216",
+    "source": "/images/catalog/ivenio-yan-sehpa/01.png",
+    "local": "/images/catalog-cutouts/ivenio-yan-sehpa/01.png",
+    "sourceSha256": "47393d86efc17c0e13dabd6a51c851a9532613a630f3cfed61989f51ddf609a5",
+    "sha256": "595236bc39ac2d195440ab9bc26f92b9306a4ecd1b8b23283f32c6b747316bf6",
+    "width": 1024,
+    "height": 1024,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.9045028686523438,
+    "foregroundFraction": 0.09519767761230469,
+    "foregroundBox": [
+      274,
+      140,
+      751,
+      846
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      251,
+      252,
+      251
+    ]
+  },
+  {
+    "productId": "p216",
+    "source": "/images/catalog/ivenio-yan-sehpa/02.jpg",
+    "local": "/images/catalog-cutouts/ivenio-yan-sehpa/02.png",
+    "sourceSha256": "62c509e294437e6bc1d620cbab7ce63f0ff9532ec9597145f816e5959313aee3",
+    "sha256": "6de01df9e942e16a471ebfc2106aac1830b0d88da7b9f49a0c2cad3f9ee6044e",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.9238871742112483,
+    "foregroundFraction": 0.07235168038408779,
+    "foregroundBox": [
+      289,
+      148,
+      791,
+      893
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p236",
+    "source": "/images/catalog/iveris-yan-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/iveris-yan-sehpa/01.png",
+    "sourceSha256": "0b0b0236423fcebd5e0ddab57d09045fd5297d775c00382a8d055482d428c984",
+    "sha256": "d0ea54e3be31e2d93696b2337d48998223f4d34714e297525e36de9165458e18",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8890689300411523,
+    "foregroundFraction": 0.10939643347050755,
+    "foregroundBox": [
+      263,
+      84,
+      829,
+      915
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p141",
+    "source": "/images/catalog/karelo-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/karelo-orta-sehpa/01.png",
+    "sourceSha256": "17f9eea201d1eaa3ff2fe8355d0f84f73b135d4e26b2195d5536d7d27d9df790",
+    "sha256": "9198e75ffcc6060b10d0b3d20e3d9888e64940983717237b939b7664b5fd7d04",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7473173868312757,
+    "foregroundFraction": 0.25180384087791496,
+    "foregroundBox": [
+      80,
+      127,
+      1007,
+      785
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p34",
+    "source": "/images/catalog/kavelo-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/kavelo-orta-sehpa/01.png",
+    "sourceSha256": "cf8880c5fa998d5dc1bb5a5237d506765e5a0ec3d23570292aea7f23719bfc4a",
+    "sha256": "f1098ad408944e7fb6b4f068250ff8f04333796cc46b6f6a2680a83511f69f83",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7551303155006859,
+    "foregroundFraction": 0.24426097393689986,
+    "foregroundBox": [
+      89,
+      130,
+      993,
+      786
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p34",
+    "source": "/images/catalog/kavelo-orta-sehpa/02.jpg",
+    "local": "/images/catalog-cutouts/kavelo-orta-sehpa/02.png",
+    "sourceSha256": "8e8ca9eb6f317c2d2b9d045b232ebc9ba12cf20a7b20adf2a12981c4275c1c61",
+    "sha256": "6f8379a32b0a276d01870f203f79befbf1079fdfe866a5accf3cd3cc72bd2916",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7092489711934157,
+    "foregroundFraction": 0.29012345679012347,
+    "foregroundBox": [
+      81,
+      273,
+      1002,
+      764
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p139",
+    "source": "/images/catalog/kavira-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/kavira-orta-sehpa/01.png",
+    "sourceSha256": "63ba4dbac79e793a1d9349f7287f18cca6ad1484a88f4f24b38488691d1c5bd4",
+    "sha256": "935039f6d00f7600c0ecf7dd465c9afd8b1747590f52db7d2bb3f94d1b0af301",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8231061385459534,
+    "foregroundFraction": 0.17640946502057614,
+    "foregroundBox": [
+      89,
+      174,
+      991,
+      728
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p209",
+    "source": "/images/catalog/kavira-yan-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/kavira-yan-sehpa/01.png",
+    "sourceSha256": "f81f251922d269881d8af88b396cbfd90cabf9cd27c27ec44e5b7bd15881c6fd",
+    "sha256": "0b2d567e5f1990598c0caceb925054c87f76eb5849b94f163b438c946edc1c69",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8818758573388203,
+    "foregroundFraction": 0.11739626200274349,
+    "foregroundBox": [
+      283,
+      146,
+      837,
+      871
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p221",
+    "source": "/images/catalog/kelvia-yan-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/kelvia-yan-sehpa/01.png",
+    "sourceSha256": "25cb8bf53f4ae829be22949a064156a3e0e6df0ac7de0892ea93e775794dfc42",
+    "sha256": "6b7a941291b920db12ce94f71dfeea96259a021db8cbf032aafe6d96ba521eaa",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8895644718792867,
+    "foregroundFraction": 0.10881772976680384,
+    "foregroundBox": [
+      295,
+      129,
+      798,
+      933
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p88",
+    "source": "/images/catalog/kireva-zigon-sehpa-seti/01.jpg",
+    "local": "/images/catalog-cutouts/kireva-zigon-sehpa-seti/01.png",
+    "sourceSha256": "22db54220653f414d30895392d9c0dfc8b5a08d554168763082111ad7ddeb257",
+    "sha256": "3f3a28db8f5ddf64fdee024e87f80c45f65e9c57108d7de43c1bfc38c0a1ba13",
+    "width": 2160,
+    "height": 2160,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8038509516460906,
+    "foregroundFraction": 0.19067172496570645,
+    "foregroundBox": [
+      391,
+      0,
+      1784,
+      1798
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 0.9902912621359223,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p196",
+    "source": "/images/catalog/larelio-orta-sehpa/01.jpeg",
+    "local": "/images/catalog-cutouts/larelio-orta-sehpa/01.png",
+    "sourceSha256": "e621558b094f7b8ff72920e67b0f15f29058bca5028d18c101f16bbcfe0160d2",
+    "sha256": "9739c6b8ecd74df0d6c9d42ae32a61347fc8dad117a192f129f81aa0921b7f0a",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8443235596707819,
+    "foregroundFraction": 0.15419324417009603,
+    "foregroundBox": [
+      95,
+      55,
+      998,
+      710
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p223",
+    "source": "/images/catalog/larevo-ikili-yan-sehpa-seti/01.jpg",
+    "local": "/images/catalog-cutouts/larevo-ikili-yan-sehpa-seti/01.png",
+    "sourceSha256": "9f1498010c24cd072760587ea74e41dd6d002220ad75b1975099cc0bcced6f87",
+    "sha256": "90f0f0400b2ebc8fa42f649237afe31dcdc026eb743d6f5748aa163bf4dba4d9",
+    "width": 2160,
+    "height": 2160,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7950707304526748,
+    "foregroundFraction": 0.20381172839506173,
+    "foregroundBox": [
+      352,
+      0,
+      1856,
+      1752
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 0.9878640776699029,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p197",
+    "source": "/images/catalog/laviro-orta-sehpa/01.png",
+    "local": "/images/catalog-cutouts/laviro-orta-sehpa/01.png",
+    "sourceSha256": "64034506248b3ad19d9b3c7b57126869848d0ffbcbe66033a5e6b022ea4568c4",
+    "sha256": "367de63d4f751cacd48f26b662ee108d3c32d21cd65c33c44f4c560cae3b96f6",
+    "width": 1024,
+    "height": 1024,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.726191520690918,
+    "foregroundFraction": 0.2722616195678711,
+    "foregroundBox": [
+      112,
+      53,
+      919,
+      740
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      254,
+      254,
+      254
+    ]
+  },
+  {
+    "productId": "p197",
+    "source": "/images/catalog/laviro-orta-sehpa/02.jpeg",
+    "local": "/images/catalog-cutouts/laviro-orta-sehpa/02.png",
+    "sourceSha256": "99ea78b585fc454e9c86322696dc07f5b7ee44dba0c7c87c2f220cbcba26d889",
+    "sha256": "0b007a3a95929c7af0912a9922bd014368a008f44bc7633ce1a0f020d04dda59",
+    "width": 1536,
+    "height": 1536,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.6329477098253038,
+    "foregroundFraction": 0.36521021525065106,
+    "foregroundBox": [
+      65,
+      222,
+      1471,
+      1233
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p166",
+    "source": "/images/catalog/levian-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/levian-orta-sehpa/01.png",
+    "sourceSha256": "c444190fc8fb4446b549be779e8a87b5e8ee91de83b273aa9065769e3f00407d",
+    "sha256": "a0ffdd3fdf5deb2e97b269a955c1f420d4db14dfcc5f2c0546980eff213a8d86",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7283247599451304,
+    "foregroundFraction": 0.27051183127572015,
+    "foregroundBox": [
+      69,
+      21,
+      1003,
+      933
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p33",
+    "source": "/images/catalog/malvero-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/malvero-orta-sehpa/01.png",
+    "sourceSha256": "3a7035cd5fc47d860bda4bc23f913ceaf2e8c24e5d6971f089f7a5e7ba1651cf",
+    "sha256": "4b19a9fd98e89450f49781492ea45da589cd149f0e4c706329596d97758eecea",
+    "width": 2160,
+    "height": 2160,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.6184679355281207,
+    "foregroundFraction": 0.3806044238683128,
+    "foregroundBox": [
+      50,
+      426,
+      2128,
+      1736
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p48",
+    "source": "/images/catalog/manvero-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/manvero-orta-sehpa/01.png",
+    "sourceSha256": "c643ea6457de0099c74a2afaec3836d733a8341ed7403d746d8051c1a2839c53",
+    "sha256": "79dae94eca7ca4473e0e2dec3da9e702cd2ff8387816df08e1f77bbc8e2029b3",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.814610768175583,
+    "foregroundFraction": 0.18483110425240054,
+    "foregroundBox": [
+      72,
+      58,
+      992,
+      804
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p156",
+    "source": "/images/catalog/manvero-zigon-sehpa-seti/01.jpg",
+    "local": "/images/catalog-cutouts/manvero-zigon-sehpa-seti/01.png",
+    "sourceSha256": "a8d927e8aaeac8dece62a23ded26d92e658e83a93e0b65646f995a2a635bea6c",
+    "sha256": "02c6a3da6e3ac15c4998ae7ddd4ac130acaeedad5a995c4636cf6095b33bac96",
+    "width": 2160,
+    "height": 2160,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8304443158436214,
+    "foregroundFraction": 0.16599065500685872,
+    "foregroundBox": [
+      378,
+      192,
+      1760,
+      1735
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p156",
+    "source": "/images/catalog/manvero-zigon-sehpa-seti/02.jpg",
+    "local": "/images/catalog-cutouts/manvero-zigon-sehpa-seti/02.png",
+    "sourceSha256": "123648e985a5b4419a28b7a7f7b4184ec940e6c850dbfa3722dedad7463f701a",
+    "sha256": "daa63a5fdc7e267220f777d67bb0d0665c8e0519ccf5da01f0fd63c40d447ab7",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8267481138545953,
+    "foregroundFraction": 0.17130401234567902,
+    "foregroundBox": [
+      145,
+      0,
+      922,
+      847
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 0.9884259259259259,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p199",
+    "source": "/images/catalog/mareno-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/mareno-orta-sehpa/01.png",
+    "sourceSha256": "e0b032d7711860e666daa1d80005c15884d0e78257b811a0b4c3f4d33a0d135b",
+    "sha256": "5147116348c5313206fff1684c4736da9e1a39d1e62b49e2ab75c2468a738c6c",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.6870396090534979,
+    "foregroundFraction": 0.3119675925925926,
+    "foregroundBox": [
+      105,
+      89,
+      977,
+      801
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p53",
+    "source": "/images/catalog/marevo-orta-sehpa/01.jpeg",
+    "local": "/images/catalog-cutouts/marevo-orta-sehpa/01-clean.png",
+    "sourceSha256": "fbb38999adf38c0fa903f8267a260dc3f87aad4e7462205a62d79dad42c4722c",
+    "sha256": "445f53e8750c7b1fb794c7cfae5e6e4b94bb11cf9b77f093c06f4c037c6c8ca6",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.632264231824417,
+    "foregroundFraction": 0.36433213305898493,
+    "foregroundBox": [
+      139,
+      7,
+      942,
+      881
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      254,
+      253,
+      254
+    ],
+    "groundCleanup": "reviewed-floor-v1"
+  },
+  {
+    "productId": "p53",
+    "source": "/images/catalog/marevo-orta-sehpa/02.jpeg",
+    "local": "/images/catalog-cutouts/marevo-orta-sehpa/02.png",
+    "sourceSha256": "29511a2037353b8c974085383fbc484b4ec5dafee935829762161753a077f075",
+    "sha256": "40a697a01afa3120697c71b0da6df8a3889a0dba127160654633fd65d0cc6f0b",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7664797668038409,
+    "foregroundFraction": 0.22805469821673524,
+    "foregroundBox": [
+      113,
+      21,
+      966,
+      822
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": false,
+    "borderWhiteFraction": 0.7453703703703703,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p53",
+    "source": "/images/catalog/marevo-orta-sehpa/03.png",
+    "local": "/images/catalog-cutouts/marevo-orta-sehpa/03.png",
+    "sourceSha256": "9fb46efedbdade6e3f52ae7d58187c4daf1e4945464ec2b53d895beae145bb15",
+    "sha256": "55a65c4a3779b5345dc58dcc68eb53d2bc559c5dbb9ffb70133f90b1087e7c62",
+    "width": 1254,
+    "height": 1254,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.5381185310674105,
+    "foregroundFraction": 0.4614108854854259,
+    "foregroundBox": [
+      126,
+      64,
+      1127,
+      1190
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      254,
+      254,
+      254
+    ]
+  },
+  {
+    "productId": "p53",
+    "source": "/images/catalog/marevo-orta-sehpa/04.jpeg",
+    "local": "/images/catalog-cutouts/marevo-orta-sehpa/04-clean.png",
+    "sourceSha256": "eb3af5dfd4c26ba91bf56e240da27de8ef8cb4e64820dac319ea33cdc041e536",
+    "sha256": "330b1a57010628cda1b9dd4fdd4db1b4cb8c481176b396c68f458bdde64a24ac",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.6861325445816187,
+    "foregroundFraction": 0.2658093278463649,
+    "foregroundBox": [
+      80,
+      257,
+      1008,
+      948
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": false,
+    "borderWhiteFraction": 0,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ],
+    "groundCleanup": "reviewed-floor-v1"
+  },
+  {
+    "productId": "p212",
+    "source": "/images/catalog/marevo-yan-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/marevo-yan-sehpa/01.png",
+    "sourceSha256": "bdd03a174bfbc2d6deb3d516f759490456b7e4c40736913decfc99a9af0e51e5",
+    "sha256": "0e94cc9aa619ddae9c495643d22742d04d755ddbeaa1fd254743f0e2f606fffb",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8066349451303155,
+    "foregroundFraction": 0.19294581618655693,
+    "foregroundBox": [
+      272,
+      65,
+      850,
+      925
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p178",
+    "source": "/images/catalog/marvia-dresuar/01.jpg",
+    "local": "/images/catalog-cutouts/marvia-dresuar/01.png",
+    "sourceSha256": "7d39a01e47065dacb9a01559b16bcc09704822ceb3c7910968a6ed979365559c",
+    "sha256": "12a3e2f1cd317b61fe3412295835dc7738a7cea7b8fba9851f7fc1dfb915190e",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8108127572016461,
+    "foregroundFraction": 0.18651491769547326,
+    "foregroundBox": [
+      175,
+      0,
+      929,
+      871
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 0.9699074074074074,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p41",
+    "source": "/images/catalog/melora-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/melora-orta-sehpa/01.png",
+    "sourceSha256": "f042c024114bacbd39a7cd4355514914cc37ca33d533ff2230fc75c4886f6021",
+    "sha256": "87f74e5d011ec2d2ba09bd8927e61055186d68a6c073da011756484a1ef93905",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7559619341563786,
+    "foregroundFraction": 0.2411539780521262,
+    "foregroundBox": [
+      113,
+      217,
+      968,
+      796
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p41",
+    "source": "/images/catalog/melora-orta-sehpa/02.jpg",
+    "local": "/images/catalog-cutouts/melora-orta-sehpa/02.png",
+    "sourceSha256": "b60d7cd6820b61d1243c40df7fd75eb91feb2bdeeff58ac252d08a206394e55e",
+    "sha256": "015293e88e73475cc5883b08fb9b7aa26897dfaead4c75421a1272a3a10dec2f",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.6961359739368999,
+    "foregroundFraction": 0.2919315843621399,
+    "foregroundBox": [
+      86,
+      60,
+      986,
+      833
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p41",
+    "source": "/images/catalog/melora-orta-sehpa/03.jpg",
+    "local": "/images/catalog-cutouts/melora-orta-sehpa/03.png",
+    "sourceSha256": "56a9a1fe04a47296ba677cc2802bc738941b8147925ddeec680595ff7829ef5d",
+    "sha256": "f2ee90f12aaffb672a42e67e0367b79ebace0364a4f392913690cd9adfd63c8d",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.6785013717421124,
+    "foregroundFraction": 0.3176929012345679,
+    "foregroundBox": [
+      89,
+      28,
+      1013,
+      810
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p167",
+    "source": "/images/catalog/melvio-orta-sehpa/01.jpeg",
+    "local": "/images/catalog-cutouts/melvio-orta-sehpa/01.png",
+    "sourceSha256": "500959a6afa4b4c5f1da29c739a5f3cecdbedd20808b0a0564fca671f52b1119",
+    "sha256": "3febdb9e81f039a8f20727179ece820648e4046908394736de828c3f4cdf93d3",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.6441881001371742,
+    "foregroundFraction": 0.35438957475994515,
+    "foregroundBox": [
+      84,
+      168,
+      996,
+      816
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p142",
+    "source": "/images/catalog/merian-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/merian-orta-sehpa/01-clean.png",
+    "sourceSha256": "efe6bc36f078cb8bb01569dfada3731a287779217964813e6069d727105c3d8f",
+    "sha256": "73025be021152480ee93aceb3b7b3a29c20f33013fabcfed0e8bb81eaa94a840",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.6168432784636488,
+    "foregroundFraction": 0.381929012345679,
+    "foregroundBox": [
+      13,
+      3,
+      1065,
+      944
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ],
+    "groundCleanup": "reviewed-floor-v1"
+  },
+  {
+    "productId": "p189",
+    "source": "/images/catalog/meriva-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/meriva-orta-sehpa/01.png",
+    "sourceSha256": "2f8bb07d04939f804980a188b6106c557bbf4e7eedbe98d6c75e148eefd455de",
+    "sha256": "758b29e6b4772d65fc75e48be13046350192dddc379ba9d413e1d45b3ed578ae",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.6286625514403292,
+    "foregroundFraction": 0.3637285665294925,
+    "foregroundBox": [
+      32,
+      118,
+      990,
+      837
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p189",
+    "source": "/images/catalog/meriva-orta-sehpa/02.jpg",
+    "local": "/images/catalog-cutouts/meriva-orta-sehpa/02.png",
+    "sourceSha256": "3803f7985811e500f0ca89d9401307199fc708e22fa5f50398447546b141cc6a",
+    "sha256": "61116f99c838882a053b88c8ab35f5a918fa583ccf21f5bbd9c5840b19fe6b04",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7462602880658437,
+    "foregroundFraction": 0.25246141975308645,
+    "foregroundBox": [
+      102,
+      230,
+      989,
+      778
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p189",
+    "source": "/images/catalog/meriva-orta-sehpa/03.jpg",
+    "local": "/images/catalog-cutouts/meriva-orta-sehpa/03.png",
+    "sourceSha256": "48e5b033b975dae11ed1dcec0d423131f9cfb7f4e19cf1a4ccd067bd31f45953",
+    "sha256": "835cb2a57d6ff9d0caf78bdd4424a397db34f1f1a06591894a1b42f7c894848d",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7360390946502058,
+    "foregroundFraction": 0.26314900548696846,
+    "foregroundBox": [
+      107,
+      194,
+      980,
+      753
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p189",
+    "source": "/images/catalog/meriva-orta-sehpa/04.jpg",
+    "local": "/images/catalog-cutouts/meriva-orta-sehpa/04.png",
+    "sourceSha256": "1f421aca04c844e0027ba342e07c2c0fe9fce5e9466a7827dca60e4ba12c01ec",
+    "sha256": "fe6f6be3ed5692044e6d215ca5bb233c8147c8c62bc734c2793b5c97ed379235",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.6630889917695473,
+    "foregroundFraction": 0.3351011659807956,
+    "foregroundBox": [
+      99,
+      218,
+      989,
+      863
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p228",
+    "source": "/images/catalog/mevian-zigon-sehpa-seti/01.jpg",
+    "local": "/images/catalog-cutouts/mevian-zigon-sehpa-seti/01.png",
+    "sourceSha256": "bdcd55aca382c3b505155fabbf9e6ee55107e9181d667119bb6173ac9431b163",
+    "sha256": "128ca54c4ef7ada769cf8080ad61a8725103a962a2fbd27670e8c9bd9e4ff2bc",
+    "width": 2160,
+    "height": 2160,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7650617283950617,
+    "foregroundFraction": 0.23224965706447187,
+    "foregroundBox": [
+      444,
+      148,
+      1670,
+      1792
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p201",
+    "source": "/images/catalog/milven-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/milven-orta-sehpa/01.png",
+    "sourceSha256": "aab35358a1d4946895891a451094ae6a9355d87b8127e26bc309d3688be3ed09",
+    "sha256": "c17438e919dce369419aa83c2d21cca9e034a385bad96ae92c231c4e925c99a0",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8288563100137174,
+    "foregroundFraction": 0.17012174211248285,
+    "foregroundBox": [
+      71,
+      21,
+      999,
+      781
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p149",
+    "source": "/images/catalog/mirevo-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/mirevo-orta-sehpa/01.png",
+    "sourceSha256": "5b8e9f686053b4196380aa32130e9d2225739f33344292b48dfd2dfe0d88e33c",
+    "sha256": "c59702b26ac61435e269a03df00077df6521a60ed4a0dd10a9a4b38bb981816d",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.6983316186556927,
+    "foregroundFraction": 0.29977537722908093,
+    "foregroundBox": [
+      33,
+      129,
+      1049,
+      760
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      254,
+      254,
+      254
+    ]
+  },
+  {
+    "productId": "p111",
+    "source": "/images/catalog/morvia-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/morvia-orta-sehpa/01.png",
+    "sourceSha256": "28a5c616feeed118cfb45de913225ebf3fc77877f67d7c6200035457d572219f",
+    "sha256": "6c2fda57efdc19f31136230420e88fae86732ab93ebb61f7696dc164890c1a71",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7400360082304527,
+    "foregroundFraction": 0.2578240740740741,
+    "foregroundBox": [
+      103,
+      0,
+      978,
+      797
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 0.9722222222222222,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p210",
+    "source": "/images/catalog/morvia-yan-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/morvia-yan-sehpa/01.png",
+    "sourceSha256": "48b58d668e79718d0d7d145c9b77372896fbb9ab53a7fb3d9f3caac869148d41",
+    "sha256": "efe946848030bd2d869cb399676fb6ee5d990a96dbc6ec5989c3491bf18b5b70",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.863423353909465,
+    "foregroundFraction": 0.13346021947873798,
+    "foregroundBox": [
+      310,
+      50,
+      796,
+      899
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p210",
+    "source": "/images/catalog/morvia-yan-sehpa/02.jpg",
+    "local": "/images/catalog-cutouts/morvia-yan-sehpa/02.png",
+    "sourceSha256": "8747baf23034862a1e9a0b7ca44f9b5bb7b5a42aeff1465b94b5dacd2e5c9500",
+    "sha256": "f8206ca4eb976f84f65bc5e6e3ff081496d1019948b512f2bf60d0c8faaa3cce",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8412551440329218,
+    "foregroundFraction": 0.1571219135802469,
+    "foregroundBox": [
+      239,
+      55,
+      795,
+      870
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p210",
+    "source": "/images/catalog/morvia-yan-sehpa/03.jpg",
+    "local": "/images/catalog-cutouts/morvia-yan-sehpa/03-clean.png",
+    "sourceSha256": "6c13cd9ed97b17149b363a70a449eb98a80c5ce1da5e2464bf6579f3f39a0890",
+    "sha256": "51385762c69194edb269ca7095667c2f6e1331aedc7c66526226e39b052be30e",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8639909122085048,
+    "foregroundFraction": 0.12239026063100138,
+    "foregroundBox": [
+      319,
+      26,
+      789,
+      849
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ],
+    "groundCleanup": "reviewed-floor-v1"
+  },
+  {
+    "productId": "p210",
+    "source": "/images/catalog/morvia-yan-sehpa/04.jpg",
+    "local": "/images/catalog-cutouts/morvia-yan-sehpa/04-clean.png",
+    "sourceSha256": "67c1bbb2b485479b0238ee2e84ed6f05964f8ba6bc52a60ad07cfe8a58e99168",
+    "sha256": "7ec16dc226374a98f3073135a476115843f1ff11688d5b87b138a4891dd9ab47",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8810022290809327,
+    "foregroundFraction": 0.11766803840877915,
+    "foregroundBox": [
+      313,
+      10,
+      766,
+      836
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ],
+    "groundCleanup": "reviewed-floor-v1"
+  },
+  {
+    "productId": "p210",
+    "source": "/images/catalog/morvia-yan-sehpa/05.jpg",
+    "local": "/images/catalog-cutouts/morvia-yan-sehpa/05.png",
+    "sourceSha256": "05e22c5aaa472ddcc43298b7e2389eb5106907c7c9119c7e774ddbcccc5964fc",
+    "sha256": "4144a1367e3989fddc524f94e691a80d69864741eca894a0605c50ea1adb5fa1",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8696356310013718,
+    "foregroundFraction": 0.12510631001371741,
+    "foregroundBox": [
+      302,
+      136,
+      778,
+      885
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p158",
+    "source": "/images/catalog/narelo-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/narelo-orta-sehpa/01.png",
+    "sourceSha256": "80d8a39e786df6564a30f9ab5f1641591a54e9643cd254ef7de8f313698b3f18",
+    "sha256": "dc90122da534e931e377cb2f21d394eec3850fc257433c4a5a008a747a56f658",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.6661325445816186,
+    "foregroundFraction": 0.3321373456790123,
+    "foregroundBox": [
+      86,
+      0,
+      991,
+      827
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 0.9884259259259259,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p207",
+    "source": "/images/catalog/nareva-dekoratif-kitaplik/01.jpeg",
+    "local": "/images/catalog-cutouts/nareva-dekoratif-kitaplik/01.png",
+    "sourceSha256": "18cfea009eb3488fea8108db48943c7fa65b345e538d18e4adff55786e8d9c7b",
+    "sha256": "726d9439a841129ed819a17e88608e3c691e39c5c9d0a31ab589ef446f02a661",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8382544581618656,
+    "foregroundFraction": 0.15830847050754457,
+    "foregroundBox": [
+      297,
+      85,
+      749,
+      966
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p207",
+    "source": "/images/catalog/nareva-dekoratif-kitaplik/02.jpeg",
+    "local": "/images/catalog-cutouts/nareva-dekoratif-kitaplik/02.png",
+    "sourceSha256": "7688eb23e3333b7f45080edb028dddce60653c677e7503f8186d836809025aba",
+    "sha256": "1d1bd806bb5e094d837817785f34cb81765423a7e1cc7ec076b14f765555068e",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8818278463648834,
+    "foregroundFraction": 0.1153849451303155,
+    "foregroundBox": [
+      350,
+      104,
+      718,
+      961
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p121",
+    "source": "/images/catalog/narven-orta-sehpa/01.png",
+    "local": "/images/catalog-cutouts/narven-orta-sehpa/01.png",
+    "sourceSha256": "3c0bbedb3910246f4beeaf862ee3905db35381f2a104d936489a2caee5be55ba",
+    "sha256": "1720b89793ee63ea9166662f33174dafa44dad5612847363462c9a5bfc4b2db3",
+    "width": 2048,
+    "height": 2048,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.6522908210754395,
+    "foregroundFraction": 0.34694623947143555,
+    "foregroundBox": [
+      26,
+      212,
+      2020,
+      1470
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p121",
+    "source": "/images/catalog/narven-orta-sehpa/02.jpeg",
+    "local": "/images/catalog-cutouts/narven-orta-sehpa/02.png",
+    "sourceSha256": "45a12ab8ecc450e481fe1a2bb2139bd761ae8d2b0ab68fc0faa6e49043d0653b",
+    "sha256": "6c1a57bb1cf278ec21a2d5f6f424ec0e346a388c3fc403084d1f53c469935763",
+    "width": 2048,
+    "height": 2048,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.6256399154663086,
+    "foregroundFraction": 0.37296319007873535,
+    "foregroundBox": [
+      11,
+      197,
+      2038,
+      1795
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p80",
+    "source": "/images/catalog/nerelio-yan-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/nerelio-yan-sehpa/01.png",
+    "sourceSha256": "44ef7f14fa08670bdd0af36863f536baf953c81d1d288fbd02f67bd57385ccd2",
+    "sha256": "4262d4b46da9384bfaf3d99f825775e9b4a57ee5d9c6e56673c0a48fb3641bd8",
+    "width": 2160,
+    "height": 2160,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8893972908093278,
+    "foregroundFraction": 0.10504651063100137,
+    "foregroundBox": [
+      626,
+      74,
+      1584,
+      1783
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p187",
+    "source": "/images/catalog/neriva-orta-sehpa/01.png",
+    "local": "/images/catalog-cutouts/neriva-orta-sehpa/01.png",
+    "sourceSha256": "dac553f85fe174f8be46f3b4167f49cc5bcc62a9f2bc0089b51cb84b3072c413",
+    "sha256": "21d6e8c1489a112e2502e26afeb1cbf0252dec2964ef79e68a0b8bdf7d6b2240",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8199554183813443,
+    "foregroundFraction": 0.17609139231824417,
+    "foregroundBox": [
+      76,
+      92,
+      1012,
+      825
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p187",
+    "source": "/images/catalog/neriva-orta-sehpa/02.jpg",
+    "local": "/images/catalog-cutouts/neriva-orta-sehpa/02-clean.png",
+    "sourceSha256": "763d79d05d821e68d2612ea7dec94b74894c46270cd887b0e7824135c046ccbf",
+    "sha256": "696f4e7495c7e340b63b0150a6019560eb6bc31577b31ae630004c974e728e20",
+    "width": 2160,
+    "height": 2160,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.6334128515089164,
+    "foregroundFraction": 0.3635678155006859,
+    "foregroundBox": [
+      48,
+      8,
+      2160,
+      1872
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 0.9101941747572816,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ],
+    "groundCleanup": "reviewed-floor-v1"
+  },
+  {
+    "productId": "p187",
+    "source": "/images/catalog/neriva-orta-sehpa/03.jpg",
+    "local": "/images/catalog-cutouts/neriva-orta-sehpa/03-clean.png",
+    "sourceSha256": "13f9c06742c728ce5bd3ece25dd3a2e3880007b25c93345966bce0da0b8047da",
+    "sha256": "8ce4a7a8e3e1f3a2feb4636f928256ca80068ee17e553cbc9e5390bfc2e53e4e",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.5668278463648834,
+    "foregroundFraction": 0.4286411179698217,
+    "foregroundBox": [
+      0,
+      0,
+      1032,
+      1027
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 0.8773148148148148,
+    "backgroundColour": [
+      254,
+      254,
+      254
+    ],
+    "groundCleanup": "reviewed-floor-v1"
+  },
+  {
+    "productId": "p37",
+    "source": "/images/catalog/nerova-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/nerova-orta-sehpa/01.png",
+    "sourceSha256": "7d8bccc31fe5eeb493b80ea9a54e658de3923c3c9ccc4aadc999fff7c3931515",
+    "sha256": "509e5b9051ad53fb7bd6206d0d434b8dc3d00fef4adf1164f8dfd489fcf9f46d",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.6898413923182442,
+    "foregroundFraction": 0.30948559670781894,
+    "foregroundBox": [
+      108,
+      90,
+      973,
+      772
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p230",
+    "source": "/images/catalog/nevio-ikili-yan-sehpa-seti/01.jpg",
+    "local": "/images/catalog-cutouts/nevio-ikili-yan-sehpa-seti/01.png",
+    "sourceSha256": "f6c4d8217c47872a79a446abb21110cb32eba69444824eddc9bb4813d7964891",
+    "sha256": "1f68f0b9695bcd3b3beef28ecc426777fdb67a53a6f9053b20062f1bb2b4c9af",
+    "width": 2160,
+    "height": 2160,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7958204732510288,
+    "foregroundFraction": 0.20225244341563786,
+    "foregroundBox": [
+      392,
+      0,
+      1840,
+      1798
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 0.9878640776699029,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p230",
+    "source": "/images/catalog/nevio-ikili-yan-sehpa-seti/02.jpg",
+    "local": "/images/catalog-cutouts/nevio-ikili-yan-sehpa-seti/02.png",
+    "sourceSha256": "677540a37e569bdcfdf027dbc79cee6d223c0f2ccc426286b85af0979b2e7f83",
+    "sha256": "0a8ac2c7f5638477027bf9d5ae821405c1d6da66e9e6ac64279e44b2ab24994d",
+    "width": 2160,
+    "height": 2160,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7811376886145405,
+    "foregroundFraction": 0.21738597393689987,
+    "foregroundBox": [
+      420,
+      0,
+      1767,
+      1786
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 0.9878640776699029,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p230",
+    "source": "/images/catalog/nevio-ikili-yan-sehpa-seti/03.jpg",
+    "local": "/images/catalog-cutouts/nevio-ikili-yan-sehpa-seti/03.png",
+    "sourceSha256": "4b38588ccb91c363d81712e92f6769e3e204af1989e76d784f8789fdd7ea1234",
+    "sha256": "13a0f3d9c8ab9b2c3ad499a4280acad04472cdba5c7597ea10dbfa74b2c115a9",
+    "width": 2160,
+    "height": 2160,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7803622256515775,
+    "foregroundFraction": 0.21764381858710563,
+    "foregroundBox": [
+      411,
+      0,
+      1800,
+      1816
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 0.9927184466019418,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p181",
+    "source": "/images/catalog/nireva-zigon-sehpa-seti/01.jpg",
+    "local": "/images/catalog-cutouts/nireva-zigon-sehpa-seti/01.png",
+    "sourceSha256": "0b3805659f7907e43719cf7f481d3dc2603d45fe91effcf7aef05add1a9bda4c",
+    "sha256": "74d82d8471fac98fcb9da9ee8e0339c30e3713929abcdeab64d8dd5a3524a5dd",
+    "width": 2160,
+    "height": 2160,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7602627743484225,
+    "foregroundFraction": 0.23779020919067215,
+    "foregroundBox": [
+      329,
+      200,
+      1856,
+      1746
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p51",
+    "source": "/images/catalog/olenia-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/olenia-orta-sehpa/01.png",
+    "sourceSha256": "b141221c6abf5fff11fdb74a982b0d048105eaa5f077a9f958604652c50d020a",
+    "sha256": "04569e215f55579c91c80262a81e3d7d00165f64b8e00b852e1f1e489fe0dd25",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7902992112482853,
+    "foregroundFraction": 0.20900634430727022,
+    "foregroundBox": [
+      75,
+      168,
+      1006,
+      684
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p191",
+    "source": "/images/catalog/olvero-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/olvero-orta-sehpa/01.png",
+    "sourceSha256": "8da28feb86482de115d611f720d26f51d736f2c7e0fa4709fe7e69c97ba3d2d4",
+    "sha256": "72ea2349129d87010e3b4780118fb9b7a097cc57fcdcde36257506c0f1ac8f3e",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8581635802469135,
+    "foregroundFraction": 0.13724451303155008,
+    "foregroundBox": [
+      73,
+      276,
+      1009,
+      800
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p191",
+    "source": "/images/catalog/olvero-orta-sehpa/02.jpg",
+    "local": "/images/catalog-cutouts/olvero-orta-sehpa/02.png",
+    "sourceSha256": "e3ce4e1732e634e567d3cdcfec22e97e80a99219639d44ed54920317ae71ac6e",
+    "sha256": "9b3d4fb75e56fa4d61c3a01331bc98768a5fffb8f4dffeb9492aab3832de1660",
+    "width": 2000,
+    "height": 2000,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.82475125,
+    "foregroundFraction": 0.17015425,
+    "foregroundBox": [
+      144,
+      570,
+      1856,
+      1448
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p191",
+    "source": "/images/catalog/olvero-orta-sehpa/03.jpg",
+    "local": "/images/catalog-cutouts/olvero-orta-sehpa/03.png",
+    "sourceSha256": "d36eff031f51676d1957e788a7bf100354847de225730961e1d8ad8645ab3737",
+    "sha256": "b2109d817ac6f33eeeed2511aaefc1cccbf6d995c4438cfa58bd6d62166e96ed",
+    "width": 2048,
+    "height": 2048,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.9098846912384033,
+    "foregroundFraction": 0.08768177032470703,
+    "foregroundBox": [
+      159,
+      355,
+      1887,
+      1413
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p211",
+    "source": "/images/catalog/olvian-yan-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/olvian-yan-sehpa/01.png",
+    "sourceSha256": "b252f4f946a9e187c09516197c0748c63d5456f1104bc678561e0523143ce89f",
+    "sha256": "90b5306166336604de929efa7ac0d1dd0d40b5c88b86e24f57c5ea4a1536274e",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.9276637517146776,
+    "foregroundFraction": 0.07140860768175583,
+    "foregroundBox": [
+      334,
+      151,
+      747,
+      916
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p179",
+    "source": "/images/catalog/omelia-dresuar/01.jpeg",
+    "local": "/images/catalog-cutouts/omelia-dresuar/01.png",
+    "sourceSha256": "2b18101df9e46808a1c7cd01e1b1ab105cae6b605151d108cf8872809295e7ff",
+    "sha256": "5c716f2b0aedd866370431ae9759992da54d063a97edf8ceadeeadf69c27387b",
+    "width": 4320,
+    "height": 4320,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7497872728052126,
+    "foregroundFraction": 0.24964366855281206,
+    "foregroundBox": [
+      296,
+      96,
+      4026,
+      3730
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p225",
+    "source": "/images/catalog/omelia-ikili-yan-sehpa-seti/01.jpg",
+    "local": "/images/catalog-cutouts/omelia-ikili-yan-sehpa-seti/01.png",
+    "sourceSha256": "accf44e9ac22250b1e129b62f513dd03182e01e0aae1424f8d259382406cf5f1",
+    "sha256": "70d58bdb20fa21dd05539516f18d721d8f2f3ce3e42d7097c2626406ecb29ce1",
+    "width": 2160,
+    "height": 2160,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7331095679012346,
+    "foregroundFraction": 0.265249914266118,
+    "foregroundBox": [
+      310,
+      51,
+      1795,
+      1769
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p203",
+    "source": "/images/catalog/omelia-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/omelia-orta-sehpa/01.png",
+    "sourceSha256": "7fa85cd2109499e7b7a025438da3068192aaa1859482f1afd72a03eda1219a4d",
+    "sha256": "ac0548ae59964e34865eff699558d515588e05deddeaafb20ecb17d8a0c0579c",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7272067901234568,
+    "foregroundFraction": 0.2716160836762689,
+    "foregroundBox": [
+      72,
+      73,
+      1006,
+      738
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p92",
+    "source": "/images/catalog/orelia-zigon-sehpa-seti/01.jpg",
+    "local": "/images/catalog-cutouts/orelia-zigon-sehpa-seti/01-clean.png",
+    "sourceSha256": "674acf79385316f9a8673aea96a2c3c100d87be618509b2772b3e6062326161f",
+    "sha256": "682acc8bf845a451587efa5dfccc700f958474e1ebf802fccae00c78ac9d3403",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8178275034293553,
+    "foregroundFraction": 0.17682013031550067,
+    "foregroundBox": [
+      150,
+      67,
+      906,
+      878
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ],
+    "groundCleanup": "reviewed-floor-v1"
+  },
+  {
+    "productId": "p92",
+    "source": "/images/catalog/orelia-zigon-sehpa-seti/02.png",
+    "local": "/images/catalog-cutouts/orelia-zigon-sehpa-seti/02.png",
+    "sourceSha256": "4e2d087d67b961e07bbcc814df8696c78694470b6d8a178c171870ee52aa4fa5",
+    "sha256": "8642fc32156042995bbbfa6e2c3ea0f53e429150cce35bd12c211cb116dbb1ba",
+    "width": 1024,
+    "height": 1024,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8176660537719727,
+    "foregroundFraction": 0.18072509765625,
+    "foregroundBox": [
+      231,
+      51,
+      813,
+      825
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      254,
+      254,
+      254
+    ]
+  },
+  {
+    "productId": "p26",
+    "source": "/images/catalog/orelio-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/orelio-orta-sehpa/01.png",
+    "sourceSha256": "c8173d6e204ed2b0bd7c3168c09e963ea01996fbefcbd0add9e4ce622af77d35",
+    "sha256": "e07bd030a267aa8ba93327c01fcb168d9b1e68a922f0210686fb79c085301e51",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8261642661179698,
+    "foregroundFraction": 0.17300925925925925,
+    "foregroundBox": [
+      126,
+      59,
+      953,
+      831
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p237",
+    "source": "/images/catalog/orelio-zigon-sehpa-seti/01.jpg",
+    "local": "/images/catalog-cutouts/orelio-zigon-sehpa-seti/01.png",
+    "sourceSha256": "310a5eec1673e1ba771669c68205762b2a8c8fd171dfacf8632fb7b57b1686b9",
+    "sha256": "9ade8b37235a970adeff5626a6e93da63d85069137f46672d8651c5fec9b52b2",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7635082304526749,
+    "foregroundFraction": 0.23466735253772292,
+    "foregroundBox": [
+      185,
+      116,
+      885,
+      943
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p95",
+    "source": "/images/catalog/ovaris-zigon-sehpa-seti/01.jpg",
+    "local": "/images/catalog-cutouts/ovaris-zigon-sehpa-seti/01.png",
+    "sourceSha256": "6cbb1ec63176aba3c2052f0cb12ee5fbaf22583c2a47a0028ba22ca03be07be4",
+    "sha256": "cfd8f292893fb2ba31fd35ef991be519d114c62951ba5e777e2d53e36c3f22ab",
+    "width": 4320,
+    "height": 4320,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8345643647119342,
+    "foregroundFraction": 0.16324518818587105,
+    "foregroundBox": [
+      1072,
+      35,
+      3535,
+      3403
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p138",
+    "source": "/images/catalog/ovelia-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/ovelia-orta-sehpa/01.png",
+    "sourceSha256": "b057cf46ad0eaf2623cafdb0ae4ebb6256c6843fa569cdd181243e36e03a130c",
+    "sha256": "d00d3ead865a8d9ffb9b9d6f49ab0f58c2283bcafc6022c69d00e642b94f9356",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.494880829903978,
+    "foregroundFraction": 0.45825274348422496,
+    "foregroundBox": [
+      37,
+      7,
+      1027,
+      993
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p47",
+    "source": "/images/catalog/perivo-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/perivo-orta-sehpa/01.png",
+    "sourceSha256": "dadb2147d8c6337575389d8639d525f3da2b479c4a6ba4e3d0a95a0afbc1301e",
+    "sha256": "ac4b624a3e8713c66f13f4901cabf3f886b703a7e04656ed8c345bdf8abc7d50",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7030521262002744,
+    "foregroundFraction": 0.29666752400548696,
+    "foregroundBox": [
+      174,
+      40,
+      945,
+      812
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p47",
+    "source": "/images/catalog/perivo-orta-sehpa/02.jpg",
+    "local": "/images/catalog-cutouts/perivo-orta-sehpa/02.png",
+    "sourceSha256": "bed11f452ead61f5ee944a48b0fdbd26fee29648c1061e5304dfb9c5459b14c2",
+    "sha256": "d6d8095689cf62f50e40beeab969cee1e3d045fc281f471bd8361b59af5d7be8",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7079518175582991,
+    "foregroundFraction": 0.2915989368998628,
+    "foregroundBox": [
+      168,
+      43,
+      926,
+      853
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p46",
+    "source": "/images/catalog/ravena-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/ravena-orta-sehpa/01-clean.png",
+    "sourceSha256": "687e989ef3bc93ddbf722760e7df0de0c443fa8bcbc2044731322c0a4e0baf94",
+    "sha256": "c6248a81fa8031b8320758a0836ffae4061d43c2b56beeb46a1a5e3db33077c2",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7620353223593964,
+    "foregroundFraction": 0.23766289437585733,
+    "foregroundBox": [
+      74,
+      245,
+      1002,
+      792
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ],
+    "groundCleanup": "reviewed-floor-v1"
+  },
+  {
+    "productId": "p150",
+    "source": "/images/catalog/raveon-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/raveon-orta-sehpa/01.png",
+    "sourceSha256": "330c12c3e41b25d56e256206acbb17f23b2791cf7f24cef1ad56b719c4ee74e6",
+    "sha256": "7e783c86bc34e17f94a413683c5934b31be23ba7a106312af51cf44b56934ac1",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.6105984224965706,
+    "foregroundFraction": 0.3891383744855967,
+    "foregroundBox": [
+      73,
+      67,
+      1005,
+      839
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p226",
+    "source": "/images/catalog/ravia-zigon-sehpa-seti/01.jpg",
+    "local": "/images/catalog-cutouts/ravia-zigon-sehpa-seti/01.png",
+    "sourceSha256": "35b25575e7d2246b952c4e950b739eeeb0b26f5b86bc24a52d278c3152f0de9c",
+    "sha256": "86033d5cfb3d1099c942b0aad336767651e7becc8f46384ac84da200c398181b",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8446656378600823,
+    "foregroundFraction": 0.15434670781893003,
+    "foregroundBox": [
+      171,
+      85,
+      905,
+      871
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p226",
+    "source": "/images/catalog/ravia-zigon-sehpa-seti/02.jpg",
+    "local": "/images/catalog-cutouts/ravia-zigon-sehpa-seti/02.png",
+    "sourceSha256": "05940151735cd6736160b2b6cd30c7d70c91b0fdfc29a273ba7c52006a0563ba",
+    "sha256": "4660fcccbefc3df34572f1ca56fd4efea562c0d487f4c6811fa25caeb445ea56",
+    "width": 2160,
+    "height": 2160,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8706445044581619,
+    "foregroundFraction": 0.12518197016460905,
+    "foregroundBox": [
+      368,
+      304,
+      1792,
+      1776
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p226",
+    "source": "/images/catalog/ravia-zigon-sehpa-seti/03.jpg",
+    "local": "/images/catalog-cutouts/ravia-zigon-sehpa-seti/03.png",
+    "sourceSha256": "d470d9541b1ad09251346959372c2f013b8c7641100245a40afdea21e49923d6",
+    "sha256": "a513cc279b3aa4ad563b3f00595bc9261e8ef13b5385ec452ed3d6fd5ff33543",
+    "width": 2160,
+    "height": 2160,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8408787722908093,
+    "foregroundFraction": 0.15709962277091907,
+    "foregroundBox": [
+      321,
+      0,
+      1770,
+      1826
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 0.9854368932038835,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p71",
+    "source": "/images/catalog/relven-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/relven-orta-sehpa/01.png",
+    "sourceSha256": "14c0dd59c9a36ba9a5a91b2683eff57402a08c58a7a2ae9f555785445d338df3",
+    "sha256": "1f3acbc7f2ca3168f29d423b4ecb631d42968801ef29e563b46fc42ce5974b28",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7626328875171468,
+    "foregroundFraction": 0.2349957133058985,
+    "foregroundBox": [
+      66,
+      0,
+      1015,
+      834
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 0.9976851851851852,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p55",
+    "source": "/images/catalog/renova-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/renova-orta-sehpa/01.png",
+    "sourceSha256": "9c87fc04178d2ddee3964672c645f037a9bc46cefa0895b4283180d1208cbb64",
+    "sha256": "7f94961c52e96528fc374c2fd3a0f3d5a5dda9b9d9e88434793cf4383d82a9e2",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.6948739711934157,
+    "foregroundFraction": 0.30421296296296296,
+    "foregroundBox": [
+      129,
+      127,
+      970,
+      846
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p227",
+    "source": "/images/catalog/revalio-zigon-sehpa-seti/01.jpg",
+    "local": "/images/catalog-cutouts/revalio-zigon-sehpa-seti/01.png",
+    "sourceSha256": "8bdf6f10a263abe2143e13f51a07d87dbf6def21cf98816627eddc4753cef58c",
+    "sha256": "b3e1e54fe1d505468d5ff6d68edb9f79e0cdd8b3b306a18d164e42d381466fa1",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7558633401920439,
+    "foregroundFraction": 0.2424031207133059,
+    "foregroundBox": [
+      200,
+      0,
+      898,
+      904
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 0.9953703703703703,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p240",
+    "source": "/images/catalog/selvia-dresuar/01.jpeg",
+    "local": "/images/catalog-cutouts/selvia-dresuar/01-clean.png",
+    "sourceSha256": "37123400ab800612a4b3fe70df3bd15fd75fc6c0509e83f04198f46e37eaeadf",
+    "sha256": "f9ff70ffce08272cb23db973ee06cbfe4c086958c555738b2907d01a5d9d3769",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7100780178326475,
+    "foregroundFraction": 0.27984053497942385,
+    "foregroundBox": [
+      0,
+      94,
+      989,
+      902
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 0.8935185185185185,
+    "backgroundColour": [
+      254,
+      254,
+      254
+    ],
+    "groundCleanup": "reviewed-floor-v1"
+  },
+  {
+    "productId": "p76",
+    "source": "/images/catalog/selvian-yan-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/selvian-yan-sehpa/01.png",
+    "sourceSha256": "23641385be2f98470d4166a2a6f8dc33944e67fa5310f3f942727f2394b3c326",
+    "sha256": "2a8498c9da1c408acfb67e9cbdd698a50671b2c8241a7af59b1d967f540adaf2",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8787422839506173,
+    "foregroundFraction": 0.11225651577503429,
+    "foregroundBox": [
+      329,
+      44,
+      768,
+      876
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p193",
+    "source": "/images/catalog/senvia-orta-sehpa/01.jpeg",
+    "local": "/images/catalog-cutouts/senvia-orta-sehpa/01.png",
+    "sourceSha256": "950860a5009e22e5986f18118ddc3f73573177081ae7ff29459d59e269a1781a",
+    "sha256": "c0756267ba98b27b164f74eca6aea33a9730bbaf09db3a6c9ae2a0027d91b1f3",
+    "width": 1800,
+    "height": 1800,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8373925925925926,
+    "foregroundFraction": 0.16149506172839506,
+    "foregroundBox": [
+      139,
+      403,
+      1679,
+      1341
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p162",
+    "source": "/images/catalog/serivo-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/serivo-orta-sehpa/01.png",
+    "sourceSha256": "6afc27437c516c0d6576ba12521cc23a92078829c20d234bc979cf40156eefe5",
+    "sha256": "6841f1b1639f674390227eb1e33a2f4fb072466b55ab5671430b839e37276fdf",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.6024725651577504,
+    "foregroundFraction": 0.396639231824417,
+    "foregroundBox": [
+      17,
+      0,
+      1067,
+      880
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 0.9907407407407407,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p217",
+    "source": "/images/catalog/sevria-yan-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/sevria-yan-sehpa/01.png",
+    "sourceSha256": "0a345f5c9b3a6507c582dd1a4760efd62b4a6a3d57b23532609c809d210f0405",
+    "sha256": "c2b09e68abd5d771907051c158790056eaa189b5790096ee8a97f14f26548d1f",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8396133401920439,
+    "foregroundFraction": 0.15606824417009602,
+    "foregroundBox": [
+      265,
+      114,
+      819,
+      904
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p182",
+    "source": "/images/catalog/silven-zigon-sehpa-seti/01.jpg",
+    "local": "/images/catalog-cutouts/silven-zigon-sehpa-seti/01.png",
+    "sourceSha256": "91418cd74fa89f3549f2781fc4d1bd5d1d36d54f01a87c186c68e3d12f08fb94",
+    "sha256": "7f2f2692b589f8c3609457e094562c5255f41e74f9534b24c84c67b7735c2a31",
+    "width": 4320,
+    "height": 4320,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.824856717249657,
+    "foregroundFraction": 0.1735647076474623,
+    "foregroundBox": [
+      689,
+      375,
+      3807,
+      3471
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p60",
+    "source": "/images/catalog/solvero-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/solvero-orta-sehpa/01.png",
+    "sourceSha256": "b4d4a03ba94833a95b34657b9dce822be36d2eb33e5746156fb906aa394bfc40",
+    "sha256": "f7d13b7466fc148a284c3f7059a30c3dee91d78959fe7bb87554e9b198986c8b",
+    "width": 2048,
+    "height": 2048,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7885677814483643,
+    "foregroundFraction": 0.20969319343566895,
+    "foregroundBox": [
+      152,
+      504,
+      1896,
+      1440
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p60",
+    "source": "/images/catalog/solvero-orta-sehpa/02.jpg",
+    "local": "/images/catalog-cutouts/solvero-orta-sehpa/02.png",
+    "sourceSha256": "7d37d4d02e905781332b34620d595de92ca4baade52ebfc4771fc249e85ce307",
+    "sha256": "bed063c30daf241063446bd5071f5ad0812ae899db3eb74ded2819a7c892ccac",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7488734567901234,
+    "foregroundFraction": 0.24982938957475995,
+    "foregroundBox": [
+      97,
+      166,
+      986,
+      814
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p60",
+    "source": "/images/catalog/solvero-orta-sehpa/03.jpg",
+    "local": "/images/catalog-cutouts/solvero-orta-sehpa/03.png",
+    "sourceSha256": "75a422d8bc56d395f803fb832c4e23413a8e276d62c0fd51a776d151a35abc17",
+    "sha256": "dd8ca3adb01bb3d295981275c6c484d66382cc96ce2063383ee2d314ab8d909a",
+    "width": 2160,
+    "height": 2160,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7723926183127572,
+    "foregroundFraction": 0.2269795953360768,
+    "foregroundBox": [
+      137,
+      300,
+      1988,
+      1495
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p60",
+    "source": "/images/catalog/solvero-orta-sehpa/04.jpg",
+    "local": "/images/catalog-cutouts/solvero-orta-sehpa/04.png",
+    "sourceSha256": "683620a03fb073ab429ead7cbeaa58e7bae272abad05ccdd5ed1697e77aeaeb9",
+    "sha256": "38e33587a9292717ab198d1b11c8f1d47958153edde7e64217bc0b94bb92f774",
+    "width": 2160,
+    "height": 2160,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8453210733882031,
+    "foregroundFraction": 0.15361068244170095,
+    "foregroundBox": [
+      256,
+      430,
+      1944,
+      1362
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p60",
+    "source": "/images/catalog/solvero-orta-sehpa/05.jpg",
+    "local": "/images/catalog-cutouts/solvero-orta-sehpa/05.png",
+    "sourceSha256": "0f0d2c8a8db52def680f5f721784acccd960787326606411bbfd1b6a4b12366d",
+    "sha256": "51ff979219f5820559518c0c881436831cd533c67d30b8c4eda3352b9fa51d9e",
+    "width": 2160,
+    "height": 2160,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8200883058984911,
+    "foregroundFraction": 0.1791019375857339,
+    "foregroundBox": [
+      188,
+      450,
+      1960,
+      1444
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p234",
+    "source": "/images/catalog/solvero-tv-sehpasi/01.jpeg",
+    "local": "/images/catalog-cutouts/solvero-tv-sehpasi/01.png",
+    "sourceSha256": "e22c444bb321a00fcd2b3b6039542cd78aa8e900c202582d813bf5fdd4aed3aa",
+    "sha256": "215eb6faa19dbf2181d708db6782f04ea69a83c9bbd8e0524557a23e5bf53164",
+    "width": 1024,
+    "height": 1024,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7865104675292969,
+    "foregroundFraction": 0.21216964721679688,
+    "foregroundBox": [
+      77,
+      190,
+      946,
+      773
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p234",
+    "source": "/images/catalog/solvero-tv-sehpasi/02.jpeg",
+    "local": "/images/catalog-cutouts/solvero-tv-sehpasi/02.png",
+    "sourceSha256": "b6966316bcb7c409d64065b00f9c9c54e56c1d2c4eb1f87128f04c6d42c2a1ee",
+    "sha256": "5d5b94b033976e92d5e7d0eae862e94e99400f6c854dfc070f98c514d75ee249",
+    "width": 1024,
+    "height": 1024,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7589035034179688,
+    "foregroundFraction": 0.19210529327392578,
+    "foregroundBox": [
+      70,
+      359,
+      936,
+      845
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": false,
+    "borderWhiteFraction": 0,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p234",
+    "source": "/images/catalog/solvero-tv-sehpasi/03.jpeg",
+    "local": "/images/catalog-cutouts/solvero-tv-sehpasi/03.png",
+    "sourceSha256": "80b5055d0387cd2dd52a354062c1d84c6baddb315fc360a36579de50eb9d9eab",
+    "sha256": "88cd7e4a61ff68ecf060d6a10c0b3cbc03e882e2ed91751b1e1843ffe05c1b46",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7066640946502057,
+    "foregroundFraction": 0.2794633058984911,
+    "foregroundBox": [
+      122,
+      331,
+      950,
+      882
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": false,
+    "borderWhiteFraction": 0,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p234",
+    "source": "/images/catalog/solvero-tv-sehpasi/04.jpeg",
+    "local": "/images/catalog-cutouts/solvero-tv-sehpasi/04.png",
+    "sourceSha256": "8ef4fe90b0f26a9648489befcd5e0457bbf5a5db682a690e8e03fe8aa7ee29a7",
+    "sha256": "ca3d86ee353278ce8179d0df06db3b8349bd1e8e88f2c793a5334f23c3e62948",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.5270824759945131,
+    "foregroundFraction": 0.22535665294924553,
+    "foregroundBox": [
+      78,
+      18,
+      982,
+      829
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": false,
+    "borderWhiteFraction": 0,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p58",
+    "source": "/images/catalog/solvian-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/solvian-orta-sehpa/01.png",
+    "sourceSha256": "65ee37c41211073824437d45fb9b80b61335387e25997c3596ed6a087ac1f188",
+    "sha256": "0ed1e6c6f6a570a638f702f53d62a3363f1ae2a18d8af5c7f04035b6f07cfae9",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7336711248285323,
+    "foregroundFraction": 0.265389231824417,
+    "foregroundBox": [
+      72,
+      199,
+      1009,
+      784
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p58",
+    "source": "/images/catalog/solvian-orta-sehpa/02.jpg",
+    "local": "/images/catalog-cutouts/solvian-orta-sehpa/02.png",
+    "sourceSha256": "2079ffa7d27dcdda53acec3c7d4c9cc284889616ec8849dcc10de1be3d4d2e31",
+    "sha256": "1c8000ad8a7de46f07fe95386090469eeb01e3d36b0b087e450a3843c7d58bf5",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7086205418381344,
+    "foregroundFraction": 0.2892309670781893,
+    "foregroundBox": [
+      83,
+      72,
+      1005,
+      846
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p202",
+    "source": "/images/catalog/sorelio-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/sorelio-orta-sehpa/01.png",
+    "sourceSha256": "d91367da7f54a63e5977fd80c920588cbd42f4d673613ab425e9bce23a99c2ae",
+    "sha256": "9892764618515cfa9d11dd9979d019c6967a54a8a594919b62919f1fb9f213d4",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7591520919067215,
+    "foregroundFraction": 0.2380727023319616,
+    "foregroundBox": [
+      85,
+      157,
+      1000,
+      786
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p218",
+    "source": "/images/catalog/sorelio-yan-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/sorelio-yan-sehpa/01.png",
+    "sourceSha256": "aa32d4bb01da459cba99ec71d58d3a982a6380937bc296c2fa18657ab40a8b2a",
+    "sha256": "2a33430dbc7400cea3e9ace990e7374129227c1184c531b22a9e846f161ab1d7",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8802692043895748,
+    "foregroundFraction": 0.11868741426611797,
+    "foregroundBox": [
+      260,
+      162,
+      859,
+      899
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p63",
+    "source": "/images/catalog/soreno-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/soreno-orta-sehpa/01.png",
+    "sourceSha256": "3c08c4f6b2099f18ed3df66a9a6c964b9a88bba9e2afad18b5c6de668562a2c6",
+    "sha256": "c37be60bcf25e76140714f0c0a1167e3a288e14c4b1c89f2d783f60ee4c8cf13",
+    "width": 2160,
+    "height": 2160,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7208575531550069,
+    "foregroundFraction": 0.27823366769547325,
+    "foregroundBox": [
+      84,
+      627,
+      2080,
+      1529
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p214",
+    "source": "/images/catalog/soreno-yan-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/soreno-yan-sehpa/01.png",
+    "sourceSha256": "c532ccd51d868dc4f35e2e1a2e1d391fc03452ddea05cba8b29f442c4b4b483c",
+    "sha256": "eea8fba90851d9038ad234c6a300e665071bb9aa3f0ed22f1c7c63b56d4fb282",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7090955075445816,
+    "foregroundFraction": 0.29046982167352536,
+    "foregroundBox": [
+      147,
+      147,
+      931,
+      890
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p190",
+    "source": "/images/catalog/soreva-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/soreva-orta-sehpa/01.png",
+    "sourceSha256": "8f130f663fe774aa9a3e8c6631f27abb88f172ab40addb77aa5158969a050eb6",
+    "sha256": "6d847b4267373a77773900bcc1ea2d48e1bd73cf311b1cbdd7366a423ad0f9a0",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7647067901234568,
+    "foregroundFraction": 0.23366169410150892,
+    "foregroundBox": [
+      91,
+      133,
+      987,
+      790
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p40",
+    "source": "/images/catalog/soriva-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/soriva-orta-sehpa/01.png",
+    "sourceSha256": "524279b5d90b54dede0e8f4f8347ee824f40fac90a19f1e785d97dec48bd93df",
+    "sha256": "16d0662f902e32ca84fb0e9f72076a6177f54445f0d474058b6bba7bff758312",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.6584953703703704,
+    "foregroundFraction": 0.34117541152263375,
+    "foregroundBox": [
+      118,
+      151,
+      967,
+      824
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p40",
+    "source": "/images/catalog/soriva-orta-sehpa/02.jpg",
+    "local": "/images/catalog-cutouts/soriva-orta-sehpa/02.png",
+    "sourceSha256": "b4b9ec993a92fb6a10192a0db3b61ec602abe5b476c7a99d3ec7e528a19a6d68",
+    "sha256": "5746f22e4f4929fc2ee2eb273cda2c26f5423a16b294b302156998755e16fdff",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.6485176611796982,
+    "foregroundFraction": 0.3506601508916324,
+    "foregroundBox": [
+      87,
+      19,
+      994,
+      836
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p220",
+    "source": "/images/catalog/talino-yan-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/talino-yan-sehpa/01.png",
+    "sourceSha256": "604a38df792aac7b878edecdef6830405faab9c3aded98979ef5d56e91107a0b",
+    "sha256": "b455b821f9d0fcf89ca1912d6f402a5a10d0fe68056824175b0036dc1d2bd99c",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8802914951989026,
+    "foregroundFraction": 0.11027520576131687,
+    "foregroundBox": [
+      256,
+      56,
+      849,
+      911
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p198",
+    "source": "/images/catalog/talven-orta-sehpa/01.jpeg",
+    "local": "/images/catalog-cutouts/talven-orta-sehpa/01.png",
+    "sourceSha256": "1c4fbd2032583542eb03aa8e4621a6306f003bb4c0b7e301a6f70c6a1bf3b3c8",
+    "sha256": "8f3b65ad33ef1ab00f195d666ffeafb081f85c9cf2014833306d81f48b814bfd",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8697865226337449,
+    "foregroundFraction": 0.12885802469135801,
+    "foregroundBox": [
+      92,
+      213,
+      975,
+      729
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p98",
+    "source": "/images/catalog/talvero-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/talvero-orta-sehpa/01.png",
+    "sourceSha256": "3b03582220181fcf3644aa3f2460ebf11581e4af93db1506e437e5d9f094c05a",
+    "sha256": "ab31f0ac5ca9860c7cdd6e8ed80531c43af9832c35f326f30082ac0417967ec9",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.77997170781893,
+    "foregroundFraction": 0.21941272290809327,
+    "foregroundBox": [
+      81,
+      75,
+      997,
+      750
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p98",
+    "source": "/images/catalog/talvero-orta-sehpa/02.jpg",
+    "local": "/images/catalog-cutouts/talvero-orta-sehpa/02.png",
+    "sourceSha256": "3d6f158f597187f0bcd1bc9cb5de1a03df47e77341d9c46ed36f9915fb67af57",
+    "sha256": "62b5358f0fb44597a455fa176f8adc4137528fc984abb339b703ab11122753a6",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7833641975308642,
+    "foregroundFraction": 0.2153789437585734,
+    "foregroundBox": [
+      107,
+      80,
+      964,
+      730
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p174",
+    "source": "/images/catalog/talvia-dresuar/01.jpg",
+    "local": "/images/catalog-cutouts/talvia-dresuar/01.png",
+    "sourceSha256": "3f8198ead64e7e716e18e3ca32f26641f0a39c14a9f97c7db42df0d9d1be4215",
+    "sha256": "662fe6fdbf80f683a069bd665e2c0996d62ed8894b6c8bb6c826e6c59b44025d",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8110828189300412,
+    "foregroundFraction": 0.18772633744855968,
+    "foregroundBox": [
+      82,
+      0,
+      962,
+      862
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 0.9814814814814815,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p132",
+    "source": "/images/catalog/tarven-zigon-sehpa-seti/01.jpg",
+    "local": "/images/catalog-cutouts/tarven-zigon-sehpa-seti/01.png",
+    "sourceSha256": "231da7cce5c171cdda58453c6a748f3a69f9626ec495d56d7de78753954c52b7",
+    "sha256": "bd45de34baddf7bfc831a705986eeaccaa427baa9057d61eaa4f935dcf8e3ad8",
+    "width": 2160,
+    "height": 2160,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8094963134430727,
+    "foregroundFraction": 0.18764081790123457,
+    "foregroundBox": [
+      392,
+      14,
+      1775,
+      1759
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p219",
+    "source": "/images/catalog/tereno-yan-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/tereno-yan-sehpa/01.png",
+    "sourceSha256": "44b8418dfb4143ff660dcc4b238db5688c928b3a935b74adaeebb3ddc7821cf4",
+    "sha256": "0224ef40deb7e225106aa3f642abe71e766133abd173f347f29c67c6e39d92f3",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8029295267489712,
+    "foregroundFraction": 0.19464677640603567,
+    "foregroundBox": [
+      235,
+      160,
+      861,
+      920
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p137",
+    "source": "/images/catalog/tirena-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/tirena-orta-sehpa/01.png",
+    "sourceSha256": "d6a77be1c50696bcb2ea7e5f06a864c3b050f83865a369543feb0d0b6418c2e9",
+    "sha256": "0e357814e77777d0cea29afa1e4a53faed44d134e8b3406f67b5ebd02bf1f9b6",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7776603223593964,
+    "foregroundFraction": 0.2208170438957476,
+    "foregroundBox": [
+      105,
+      0,
+      974,
+      909
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 0.9768518518518519,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p137",
+    "source": "/images/catalog/tirena-orta-sehpa/02.jpg",
+    "local": "/images/catalog-cutouts/tirena-orta-sehpa/02.png",
+    "sourceSha256": "49d27aaa1ff0fbdb68348581dfe5a0699367b919c6b618c8ad137ec7bab7f482",
+    "sha256": "0bf9c35d231fec92380fa2ab987dde198bd07928de29d879415434ae870896f7",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7613940329218107,
+    "foregroundFraction": 0.23780949931412895,
+    "foregroundBox": [
+      110,
+      0,
+      973,
+      914
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 0.9652777777777778,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p137",
+    "source": "/images/catalog/tirena-orta-sehpa/03.jpg",
+    "local": "/images/catalog-cutouts/tirena-orta-sehpa/03.png",
+    "sourceSha256": "d326f6380793a44f2116c8c25e8c1996c3c8b437a3dc71796bc66d330aacde38",
+    "sha256": "2735d72fc980370aba074db9fbdd1198e9a77a5ff55d956c679740ea195968f3",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7007133058984911,
+    "foregroundFraction": 0.29780606995884773,
+    "foregroundBox": [
+      151,
+      2,
+      957,
+      885
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p77",
+    "source": "/images/catalog/tirena-yan-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/tirena-yan-sehpa/01.png",
+    "sourceSha256": "29af88dc6639e16b75cb75eae1fb7ed1319a02bded4444f9e80ce5fb261c2ccb",
+    "sha256": "c829197e6fba80d5b35f6ebf49baf97e1c04e3c387a9532df5d25724bc779fd5",
+    "width": 2160,
+    "height": 2160,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8537079903978052,
+    "foregroundFraction": 0.14427512002743484,
+    "foregroundBox": [
+      471,
+      188,
+      1752,
+      1797
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p235",
+    "source": "/images/catalog/tolvia-zigon-sehpa-seti/01.jpeg",
+    "local": "/images/catalog-cutouts/tolvia-zigon-sehpa-seti/01.png",
+    "sourceSha256": "01ccfe90d0ac36b201eadc50c519e7bd87d6f45b3346e7695b6347189e11215f",
+    "sha256": "b10668bd3898038a2b258c8cc5b0c3aa8379a7b12614e71cee5549309f959687",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.813488511659808,
+    "foregroundFraction": 0.18393432784636488,
+    "foregroundBox": [
+      202,
+      55,
+      901,
+      874
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      253,
+      253,
+      253
+    ]
+  },
+  {
+    "productId": "p239",
+    "source": "/images/catalog/torvia-orta-sehpa/01.jpeg",
+    "local": "/images/catalog-cutouts/torvia-orta-sehpa/01.png",
+    "sourceSha256": "ecfb73c8ec2fb40c504a55245082cca8b4aa439927b0ca00216ef69057c4e213",
+    "sha256": "dcef1f7b4e2078b4640e3d65b67de76ace136643a3b1d7d4240f3310b3ea1f77",
+    "width": 2160,
+    "height": 2160,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.718943329903978,
+    "foregroundFraction": 0.2802321244855967,
+    "foregroundBox": [
+      166,
+      408,
+      1995,
+      1606
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p194",
+    "source": "/images/catalog/vairel-orta-sehpa/01.jpeg",
+    "local": "/images/catalog-cutouts/vairel-orta-sehpa/01.png",
+    "sourceSha256": "e37084e10c0f036783c779baecb56ccf0b910151e5c54f9edef402f2105fe390",
+    "sha256": "8e137879de389d101a5f9ede3768d860fa65b2283da1f89e008e14ec2f49e590",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8321836419753087,
+    "foregroundFraction": 0.1669624485596708,
+    "foregroundBox": [
+      74,
+      251,
+      1009,
+      750
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p91",
+    "source": "/images/catalog/valeris-zigon-sehpa-seti/01.jpg",
+    "local": "/images/catalog-cutouts/valeris-zigon-sehpa-seti/01.png",
+    "sourceSha256": "718d9cb05fcbb481faf4184e811311ea6041641ef7e52bf1d2e036553ff2ca6d",
+    "sha256": "41622113e6d3ca929bc9c4cff96e3fd487a6373b2ef658258c6305c30ecbec37",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8062808641975309,
+    "foregroundFraction": 0.1922162208504801,
+    "foregroundBox": [
+      313,
+      0,
+      801,
+      874
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 0.9976851851851852,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p122",
+    "source": "/images/catalog/varelo-orta-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/varelo-orta-sehpa/01.png",
+    "sourceSha256": "427dae898c81048ea81825e6f3e5c0f11c7ed7bf1e1868b54378c5039b82fd80",
+    "sha256": "d61e7614b08ad00883595840aa4302391fe75ea3ce855bf7dab7faba13213a7c",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8198799725651578,
+    "foregroundFraction": 0.17285322359396432,
+    "foregroundBox": [
+      100,
+      141,
+      974,
+      821
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p122",
+    "source": "/images/catalog/varelo-orta-sehpa/02.jpg",
+    "local": "/images/catalog-cutouts/varelo-orta-sehpa/02.png",
+    "sourceSha256": "6b390f8e442ae9ef1730fe7a9f25dd4a88507f6f2c70a532ffd7d87519feb22f",
+    "sha256": "c660a55530b86b1730a6cc5235e98738a1194b7a2dd3682a7cdfe00eb9e7b3c4",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8016709533607682,
+    "foregroundFraction": 0.19700360082304527,
+    "foregroundBox": [
+      105,
+      95,
+      975,
+      820
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p122",
+    "source": "/images/catalog/varelo-orta-sehpa/03.jpg",
+    "local": "/images/catalog-cutouts/varelo-orta-sehpa/03.png",
+    "sourceSha256": "7e0311a644893aac0c325b6a201c2f21bf38905047395b329de08c201d54f254",
+    "sha256": "a170d3cab3ca65ccb1b176886fd5d66ede298a9057def5133fe0e760ffcdddf4",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7876217421124828,
+    "foregroundFraction": 0.20827417695473252,
+    "foregroundBox": [
+      82,
+      127,
+      1000,
+      850
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p140",
+    "source": "/images/catalog/velian-yan-sehpa/01.jpeg",
+    "local": "/images/catalog-cutouts/velian-yan-sehpa/01.png",
+    "sourceSha256": "98672da223fdb002994518be6713f16e7ee48256b9a7ec71f568a4152d106605",
+    "sha256": "a8d242495dceec47da723022eb4ca1d39d1bcef96a57d1fd25f4854eaefef743",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7400231481481482,
+    "foregroundFraction": 0.2575600137174211,
+    "foregroundBox": [
+      238,
+      0,
+      840,
+      963
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 0.9282407407407407,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p78",
+    "source": "/images/catalog/verdan-yan-sehpa/01.jpg",
+    "local": "/images/catalog-cutouts/verdan-yan-sehpa/01.png",
+    "sourceSha256": "6e38d1913313651655b3e4a3385b959b17c78f7fe014f19bf489d00ed5e94ac1",
+    "sha256": "fded490e8b0682571f6d70be6050f7417652bfdd5894d0792c52826e16f4cbc4",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.8892275377229081,
+    "foregroundFraction": 0.10483281893004115,
+    "foregroundBox": [
+      339,
+      5,
+      787,
+      863
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  },
+  {
+    "productId": "p177",
+    "source": "/images/catalog/vireon-dresuar/01.jpg",
+    "local": "/images/catalog-cutouts/vireon-dresuar/01.png",
+    "sourceSha256": "542ce081ba1b267b0de8b82b8e0fbe6951b6f1be95a46c0231dadacf8510b28d",
+    "sha256": "d9dcbf9013e8e195a958c2a9525a04580ae83bfe946dcfdf885c373266e7bc76",
+    "width": 1080,
+    "height": 1080,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.7720156035665295,
+    "foregroundFraction": 0.22276920438957476,
+    "foregroundBox": [
+      131,
+      41,
+      957,
+      867
+    ],
+    "refinement": "white-studio-detail-v2",
+    "whiteStudio": true,
+    "borderWhiteFraction": 1,
+    "backgroundColour": [
+      255,
+      255,
+      255
+    ]
+  }
+]

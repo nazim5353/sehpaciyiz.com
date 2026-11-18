@@ -1,0 +1,57 @@
+Sehpacıyız / Form kimliğinin web uygulaması
+17 Kasım 2026
+
+Onay
+Kullanıcı ilk yön araştırmasında Form'u seçti. Geliştirilmiş logo, slogan ve
+kimlik panosuna “evet güzel” yanıtıyla onay verdi. Web uygulaması bu kimliğe
+dayanır. İlk README'deki fiyat odaklı konumlandırma bu karar ile güncellendi.
+
+Uygulama yaklaşımı
+Tür: product / site-kind: other. Mevcut Next.js alışveriş arayüzünde yerel
+uyarlama. Hosting taşıması, yeni bir Sites projesi veya canlı yayın yapılmadı.
+Katalog, filtreleme, favoriler, sepet ve yönetim işlevleri korunur.
+
+Mürdüm #4D3147: Logo, ana eylemler, başlıklar ve alt bilgi zemini.
+Açık taş #F0E9DF: Giriş ve koleksiyon bulucu yüzeyleri; ters logo.
+Grafit #332E33: Ürün ve açıklama metinleri.
+Adaçayı #BCC9B1: Sınırlı vurgu ve koyu zeminde odak işareti.
+Renkler kullanıcı onaylıdır; becerinin otomatik palet önerileriyle değiştirilmedi.
+
+Başlıklar: Georgia Regular. Gövde: Yerel Manrope Regular/Semibold.
+Logo: Onaylı vektör dışa aktarımları; yazılar çizime dönüştürülmüş durumda.
+Georgia font dosyası kopyalanmadı; logo görünümü kurulu fonta bağlı değildir.
+
+Giriş: Mevcut ürün fotoğrafı ve iki sütun; mobilde metnin ardından ürün.
+Ana eylem: Koleksiyonu keşfet. Başlık: Onaylanan “Her açıdan özgün.” sloganı.
+Hareket: Mevcut giriş/hover katmanı ve Form-detay bölümündeki word-highlight
+korundu. Yeni shader, yapay ürün görseli veya dekoratif animasyon eklenmedi.
+Ses: Ölçülü, tasarım ve ürün detaylarını öne çıkaran, somut ve açık bir anlatım.
+Fiyat filtresi ve gerçek indirim bilgisi, ürün karşılaştırma aracı olarak kalır.
+
+Kapsam
+Üst/alt logo, gezinme, vitrin başlığı ve metinleri, renk sistemi, ürün/kategori
+kartları, koleksiyon, ürün detayı, hakkında sayfası ve alışveriş panelleri.
+Favicon, Apple simgesi, tarayıcı tema rengi ve sosyal paylaşım görseli.
+Varsayılan ayarlar ile mevcut yerel mağazanın marka metinleri birlikte güncellendi.
+Ürün fotoğrafları mevcut katalogdan; yeni stand-in veya uydurma ürün yoktur.
+Numara, yorum, müşteri, üretim geçmişi ya da kalite sertifikası uydurulmadı.
+
+Doğrulama kayıtları
+Üretim derlemesi, TypeScript, mevcut 25 test ve HTTP sayfa/varlık/sepet
+kontrolleri çalıştırıldı. Güncel sonuçlar output/qa/form-brand içindedir.
+Tasarım becerisinin tam ekran tanıtım sayfasına yönelik ritim ve yerleşim
+bulguları, mevcut kategori/ürün alışveriş düzeni kapsamında ayrıca raporlanır.
+Bu rapor, tasarım denetimindeki açık bulguları geçti olarak işaretlemez.
+
+Kaynaklar
+src/lib/brand.ts / ortak marka metinleri.
+src/app/(store)/form-brand.css / kimliğin web renk ve tipografi katmanı.
+public/brand / logo ve paylaşım varlıkları.
+scripts/apply-form-brand.ts / idempotent yerel içerik uygulaması.
+scripts/prepare-form-assets.mjs / onaylı dosyalardan web varlığı üretimi.
+.local/backups/before-form-brand.zip / uygulama öncesi yerel yedek.
+
+Çalışma sınırı
+Yerel geliştirme önizlemesidir. Üretim veri adaptörü ve gerçek tahsilat altyapısı
+bu kurumsal kimlik çalışmasının parçası değildir. Mevcut önizleme açıklamaları
+kullanıcının gerçek sipariş verildiğini düşünmemesi için korunmuştur.

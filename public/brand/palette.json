@@ -1,0 +1,15 @@
+{
+  "name": "Antrasit ve şampanya",
+  "revision": "2026-11-18",
+  "reference": "https://yergindesign.com/",
+  "ink": "#242321",
+  "paper": "#F5F2EB",
+  "text": "#302D28",
+  "metal": "#C7B38A",
+  "mist": "#EEEAE2",
+  "sand": "#E7DED0",
+  "bronze": "#887146",
+  "background": "#FAF9F6",
+  "muted": "#6D665C",
+  "line": "#DED8CC"
+}

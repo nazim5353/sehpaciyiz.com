@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Orta sehpalar",
+    "slug": "orta-sehpa",
+    "subtitle": "Salonun buluşma noktası",
+    "image": "/images/catalog-cutouts/solvia-orta-sehpa/01.png",
+    "navigationImage": "/images/categories/orta-sehpa-cutout.png"
+  },
+  {
+    "name": "Yan sehpalar",
+    "slug": "yan-sehpa",
+    "subtitle": "Koltuk yanında, hayatın içinde",
+    "image": "/images/catalog-cutouts/nerova-yan-sehpa/01.png",
+    "navigationImage": "/images/categories/yan-sehpa-cutout.png"
+  },
+  {
+    "name": "Zigon sehpalar",
+    "slug": "zigon-sehpa",
+    "subtitle": "Birlikte de ayrı da kullanışlı",
+    "image": "/images/catalog-cutouts/ivara-zigon-sehpa-seti/01.png",
+    "navigationImage": "/images/categories/zigon-sehpa-cutout.png"
+  },
+  {
+    "name": "Dresuarlar",
+    "slug": "dresuar",
+    "subtitle": "Evine güzel bir karşılama",
+    "image": "/images/catalog-cutouts/novian-dresuar/01.png",
+    "navigationImage": "/images/categories/dresuar-cutout.png"
+  },
+  {
+    "name": "TV sehpaları",
+    "slug": "tv-sehpasi",
+    "subtitle": "Ekranın etrafında yeni bir düzen",
+    "image": "/images/catalog-cutouts/serivo-tv-sehpasi/01.png",
+    "navigationImage": "/images/categories/tv-sehpasi-cutout.png"
+  },
+  {
+    "name": "Raf ve kitaplıklar",
+    "slug": "raf-kitaplik",
+    "subtitle": "Sevdiğin şeylere yer aç",
+    "image": "/images/catalog-cutouts/lareva-dekoratif-kitaplik/01.png",
+    "navigationImage": "/images/categories/raf-kitaplik-cutout.png"
+  },
+  {
+    "name": "Servis arabaları",
+    "slug": "servis-arabasi",
+    "subtitle": "Sunumlarına eşlik eden tasarımlar",
+    "image": "/images/catalog-cutouts/tavira-servis-arabasi/01.png",
+    "navigationImage": "/images/categories/servis-arabasi-cutout.png"
+  }
+]

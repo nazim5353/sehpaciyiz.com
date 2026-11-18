@@ -1,0 +1,4974 @@
+[
+  {
+    "id": "p4",
+    "sku": "QN-C103",
+    "slug": "solvia-orta-sehpa",
+    "name": "Solvia Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 2675000,
+    "previousPrice": 3000000,
+    "images": [
+      "/images/catalog-cutouts/solvia-orta-sehpa/01.png"
+    ],
+    "description": "Solvia Orta Sehpa. Salonun merkezinde kahveye, kitaplara ve sevdiğin objelere yer açar. Oturma alanının düzenini kendi yaşam ritmine göre tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Metal",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [
+      {
+        "label": "Malzeme",
+        "value": "Metal"
+      },
+      {
+        "label": "Ayak Malzemesi",
+        "value": "Metal"
+      },
+      {
+        "label": "Parça Sayısı",
+        "value": "3 parçadan oluşmaktadır"
+      },
+      {
+        "label": "Ayak Rengi",
+        "value": "Krom"
+      },
+      {
+        "label": "Renk",
+        "value": "Üst Tabla rengi Opsiyoneldir"
+      },
+      {
+        "label": "Temizlik Önerisi",
+        "value": "Yüzeyi hafif nemli bezle temizleyin. Doğrudan güneşten koruyun; sıcak yüzeylerin ve suyun uzun süre temas etmesini önleyin."
+      }
+    ],
+    "colorNote": "Üst Tabla rengi Opsiyoneldir",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": true,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/solvia-orta-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p26",
+    "sku": "QN-C106",
+    "slug": "orelio-orta-sehpa",
+    "name": "Orelio Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 2275000,
+    "previousPrice": 2650000,
+    "images": [
+      "/images/catalog-cutouts/orelio-orta-sehpa/01.png"
+    ],
+    "description": "Orelio Orta Sehpa. Oturma alanını tamamlamak ve sevdiğin detayları bir arada tutmak için bir seçenek. Salonuna, senin kullanım alışkanlıklarınla anlam kazanacak bir köşe ekle. Siparişe özel üretimle hazırlanır.",
+    "material": "Metal",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [
+      {
+        "label": "Malzeme",
+        "value": "Metal"
+      },
+      {
+        "label": "Parça Sayısı",
+        "value": "3"
+      },
+      {
+        "label": "Temizlik Önerisi",
+        "value": "Hafif nemli bir bezle temizleyin ve doğrudan güneş ışığından koruyun."
+      }
+    ],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/orelio-orta-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p33",
+    "sku": "QN-C110",
+    "slug": "malvero-orta-sehpa",
+    "name": "Malvero Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 2850000,
+    "previousPrice": 3150000,
+    "images": [
+      "/images/catalog-cutouts/malvero-orta-sehpa/01.png"
+    ],
+    "description": "Malvero Orta Sehpa. Günlük kullanım alanını salonun ortasında bir araya getirir. Kahve molalarından akşam sohbetlerine, evindeki anlara eşlik eder. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/malvero-orta-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p34",
+    "sku": "QN-C125",
+    "slug": "kavelo-orta-sehpa",
+    "name": "Kavelo Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 3750000,
+    "previousPrice": 4250000,
+    "images": [
+      "/images/catalog-cutouts/kavelo-orta-sehpa/01.png",
+      "/images/catalog-cutouts/kavelo-orta-sehpa/02.png"
+    ],
+    "description": "Kavelo Orta Sehpa. Oturma alanını tamamlamak ve sevdiğin detayları bir arada tutmak için bir seçenek. Salonuna, senin kullanım alışkanlıklarınla anlam kazanacak bir köşe ekle. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/kavelo-orta-sehpa/01.jpg",
+      "/images/catalog/kavelo-orta-sehpa/02.jpg"
+    ]
+  },
+  {
+    "id": "p35",
+    "sku": "QN-C136",
+    "slug": "corven-orta-sehpa",
+    "name": "Corven Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 3375000,
+    "previousPrice": 3950000,
+    "images": [
+      "/images/catalog-cutouts/corven-orta-sehpa/01.png"
+    ],
+    "description": "Corven Orta Sehpa. Kahveni, okuduğun kitabı ve dekoratif parçalarını bir araya getirebileceğin bir merkez oluşturur. Salon düzenini kişisel seçimlerinle tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/corven-orta-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p36",
+    "sku": "QN-C137",
+    "slug": "evario-orta-sehpa",
+    "name": "Evario Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 2975000,
+    "previousPrice": 3575000,
+    "images": [
+      "/images/catalog-cutouts/evario-orta-sehpa/01-clean.png"
+    ],
+    "description": "Evario Orta Sehpa. Salonun merkezinde kahveye, kitaplara ve sevdiğin objelere yer açar. Oturma alanının düzenini kendi yaşam ritmine göre tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Mdf ahşap üzeri lake boya",
+    "dimensions": "120 × 120 × 35 cm",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [
+      {
+        "label": "Malzeme",
+        "value": "Mdf ahşap üzeri lake boya"
+      },
+      {
+        "label": "Parça Sayısı",
+        "value": "1"
+      },
+      {
+        "label": "Renk",
+        "value": "Siyah. Diğer renk seçenekleri için bilgi alabilirsiniz."
+      },
+      {
+        "label": "Temizlik Önerisi",
+        "value": "Hafif nemli bir bezle temizleyin ve doğrudan güneş ışığından koruyun."
+      },
+      {
+        "label": "Ölçüler",
+        "value": "120x120x35 cm"
+      }
+    ],
+    "colorNote": "Siyah. Diğer renk seçenekleri için bilgi alabilirsiniz.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Siyah",
+        "color": "#292929",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/evario-orta-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p37",
+    "sku": "QN-C139",
+    "slug": "nerova-orta-sehpa",
+    "name": "Nerova Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 3375000,
+    "previousPrice": 3975000,
+    "images": [
+      "/images/catalog-cutouts/nerova-orta-sehpa/01.png"
+    ],
+    "description": "Nerova Orta Sehpa. Günlük kullanım alanını salonun ortasında bir araya getirir. Kahve molalarından akşam sohbetlerine, evindeki anlara eşlik eder. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/nerova-orta-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p40",
+    "sku": "QN-C152",
+    "slug": "soriva-orta-sehpa",
+    "name": "Soriva Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 3375000,
+    "previousPrice": 3975000,
+    "images": [
+      "/images/catalog-cutouts/soriva-orta-sehpa/01.png",
+      "/images/catalog-cutouts/soriva-orta-sehpa/02.png"
+    ],
+    "description": "Soriva Orta Sehpa. Salonun merkezinde kahveye, kitaplara ve sevdiğin objelere yer açar. Oturma alanının düzenini kendi yaşam ritmine göre tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/soriva-orta-sehpa/01.jpg",
+      "/images/catalog/soriva-orta-sehpa/02.jpg"
+    ]
+  },
+  {
+    "id": "p41",
+    "sku": "QN-C153",
+    "slug": "melora-orta-sehpa",
+    "name": "Melora Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 2875000,
+    "previousPrice": 3250000,
+    "images": [
+      "/images/catalog-cutouts/melora-orta-sehpa/01.png",
+      "/images/catalog-cutouts/melora-orta-sehpa/02.png",
+      "/images/catalog-cutouts/melora-orta-sehpa/03.png"
+    ],
+    "description": "Melora Orta Sehpa. Günlük kullanım alanını salonun ortasında bir araya getirir. Kahve molalarından akşam sohbetlerine, evindeki anlara eşlik eder. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/melora-orta-sehpa/01.jpg",
+      "/images/catalog/melora-orta-sehpa/02.jpg",
+      "/images/catalog/melora-orta-sehpa/03.jpg"
+    ]
+  },
+  {
+    "id": "p43",
+    "sku": "QN-C157",
+    "slug": "arven-orta-sehpa",
+    "name": "Arven Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 3375000,
+    "previousPrice": 3920000,
+    "images": [
+      "/images/catalog-cutouts/arven-orta-sehpa/01-clean.png",
+      "/images/catalog-cutouts/arven-orta-sehpa/02.png"
+    ],
+    "description": "Arven Orta Sehpa. Kahveni, okuduğun kitabı ve dekoratif parçalarını bir araya getirebileceğin bir merkez oluşturur. Salon düzenini kişisel seçimlerinle tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/arven-orta-sehpa/01.jpg",
+      "/images/catalog/arven-orta-sehpa/02.jpg"
+    ]
+  },
+  {
+    "id": "p46",
+    "sku": "QN-C169",
+    "slug": "ravena-orta-sehpa",
+    "name": "Ravena Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 3175000,
+    "previousPrice": 3675000,
+    "images": [
+      "/images/catalog-cutouts/ravena-orta-sehpa/01-clean.png"
+    ],
+    "description": "Ravena Orta Sehpa. Oturma alanını tamamlamak ve sevdiğin detayları bir arada tutmak için bir seçenek. Salonuna, senin kullanım alışkanlıklarınla anlam kazanacak bir köşe ekle. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/ravena-orta-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p47",
+    "sku": "QN-YC108",
+    "slug": "perivo-orta-sehpa",
+    "name": "Perivo Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 2975000,
+    "previousPrice": 3675000,
+    "images": [
+      "/images/catalog-cutouts/perivo-orta-sehpa/01.png",
+      "/images/catalog-cutouts/perivo-orta-sehpa/02.png"
+    ],
+    "description": "Perivo Orta Sehpa. Kahveni, okuduğun kitabı ve dekoratif parçalarını bir araya getirebileceğin bir merkez oluşturur. Salon düzenini kişisel seçimlerinle tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/perivo-orta-sehpa/01.jpg",
+      "/images/catalog/perivo-orta-sehpa/02.jpg"
+    ]
+  },
+  {
+    "id": "p48",
+    "sku": "QN-YC113",
+    "slug": "manvero-orta-sehpa",
+    "name": "Manvero Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 2750000,
+    "previousPrice": 3150000,
+    "images": [
+      "/images/catalog-cutouts/manvero-orta-sehpa/01.png"
+    ],
+    "description": "Manvero Orta Sehpa. Salonun merkezinde kahveye, kitaplara ve sevdiğin objelere yer açar. Oturma alanının düzenini kendi yaşam ritmine göre tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/manvero-orta-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p51",
+    "sku": "QN-C264",
+    "slug": "olenia-orta-sehpa",
+    "name": "Olenia Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 2575000,
+    "previousPrice": 2975000,
+    "images": [
+      "/images/catalog-cutouts/olenia-orta-sehpa/01.png"
+    ],
+    "description": "Olenia Orta Sehpa. Kahveni, okuduğun kitabı ve dekoratif parçalarını bir araya getirebileceğin bir merkez oluşturur. Salon düzenini kişisel seçimlerinle tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/olenia-orta-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p52",
+    "sku": "QN-C168",
+    "slug": "ervian-orta-sehpa",
+    "name": "Ervian Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 3350000,
+    "previousPrice": 4050000,
+    "images": [
+      "/images/catalog-cutouts/ervian-orta-sehpa/01-clean.png"
+    ],
+    "description": "Ervian Orta Sehpa. Salonun merkezinde kahveye, kitaplara ve sevdiğin objelere yer açar. Oturma alanının düzenini kendi yaşam ritmine göre tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/ervian-orta-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p53",
+    "sku": "QN-C041",
+    "slug": "marevo-orta-sehpa",
+    "name": "Marevo Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 2850000,
+    "previousPrice": 4150000,
+    "images": [
+      "/images/catalog-cutouts/marevo-orta-sehpa/01-clean.png",
+      "/images/catalog-cutouts/marevo-orta-sehpa/02.png",
+      "/images/catalog-cutouts/marevo-orta-sehpa/03.png",
+      "/images/catalog-cutouts/marevo-orta-sehpa/04-clean.png"
+    ],
+    "description": "Marevo Orta Sehpa. Günlük kullanım alanını salonun ortasında bir araya getirir. Kahve molalarından akşam sohbetlerine, evindeki anlara eşlik eder. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/marevo-orta-sehpa/01.jpeg",
+      "/images/catalog/marevo-orta-sehpa/02.jpeg",
+      "/images/catalog/marevo-orta-sehpa/03.png",
+      "/images/catalog/marevo-orta-sehpa/04.jpeg"
+    ]
+  },
+  {
+    "id": "p55",
+    "sku": "QN-C174",
+    "slug": "renova-orta-sehpa",
+    "name": "Renova Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 2950000,
+    "previousPrice": 3375000,
+    "images": [
+      "/images/catalog-cutouts/renova-orta-sehpa/01.png"
+    ],
+    "description": "Renova Orta Sehpa. Kahveni, okuduğun kitabı ve dekoratif parçalarını bir araya getirebileceğin bir merkez oluşturur. Salon düzenini kişisel seçimlerinle tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/renova-orta-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p58",
+    "sku": "QN-C170",
+    "slug": "solvian-orta-sehpa",
+    "name": "Solvian Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 3175000,
+    "previousPrice": 3875000,
+    "images": [
+      "/images/catalog-cutouts/solvian-orta-sehpa/01.png",
+      "/images/catalog-cutouts/solvian-orta-sehpa/02.png"
+    ],
+    "description": "Solvian Orta Sehpa. Oturma alanını tamamlamak ve sevdiğin detayları bir arada tutmak için bir seçenek. Salonuna, senin kullanım alışkanlıklarınla anlam kazanacak bir köşe ekle. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/solvian-orta-sehpa/01.jpg",
+      "/images/catalog/solvian-orta-sehpa/02.jpg"
+    ]
+  },
+  {
+    "id": "p59",
+    "sku": "QN-C258",
+    "slug": "delvia-orta-sehpa",
+    "name": "Delvia Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 2275000,
+    "previousPrice": 2800000,
+    "images": [
+      "/images/catalog-cutouts/delvia-orta-sehpa/01.png"
+    ],
+    "description": "Delvia Orta Sehpa. Kahveni, okuduğun kitabı ve dekoratif parçalarını bir araya getirebileceğin bir merkez oluşturur. Salon düzenini kişisel seçimlerinle tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/delvia-orta-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p60",
+    "sku": "QN-C158",
+    "slug": "solvero-orta-sehpa",
+    "name": "Solvero Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 3375000,
+    "previousPrice": 4050000,
+    "images": [
+      "/images/catalog-cutouts/solvero-orta-sehpa/01.png",
+      "/images/catalog-cutouts/solvero-orta-sehpa/02.png",
+      "/images/catalog-cutouts/solvero-orta-sehpa/03.png",
+      "/images/catalog-cutouts/solvero-orta-sehpa/04.png",
+      "/images/catalog-cutouts/solvero-orta-sehpa/05.png"
+    ],
+    "description": "Solvero Orta Sehpa. Salonun merkezinde kahveye, kitaplara ve sevdiğin objelere yer açar. Oturma alanının düzenini kendi yaşam ritmine göre tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/solvero-orta-sehpa/01.jpg",
+      "/images/catalog/solvero-orta-sehpa/02.jpg",
+      "/images/catalog/solvero-orta-sehpa/03.jpg",
+      "/images/catalog/solvero-orta-sehpa/04.jpg",
+      "/images/catalog/solvero-orta-sehpa/05.jpg"
+    ]
+  },
+  {
+    "id": "p61",
+    "sku": "QN-C024",
+    "slug": "belvio-orta-sehpa",
+    "name": "Belvio Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 3750000,
+    "previousPrice": 4150000,
+    "images": [
+      "/images/catalog-cutouts/belvio-orta-sehpa/01.png",
+      "/images/catalog-cutouts/belvio-orta-sehpa/02.png"
+    ],
+    "description": "Belvio Orta Sehpa. Günlük kullanım alanını salonun ortasında bir araya getirir. Kahve molalarından akşam sohbetlerine, evindeki anlara eşlik eder. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/belvio-orta-sehpa/01.jpg",
+      "/images/catalog/belvio-orta-sehpa/02.jpeg"
+    ]
+  },
+  {
+    "id": "p63",
+    "sku": "QN-C023",
+    "slug": "soreno-orta-sehpa",
+    "name": "Soreno Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 3350000,
+    "previousPrice": 3775000,
+    "images": [
+      "/images/catalog-cutouts/soreno-orta-sehpa/01.png"
+    ],
+    "description": "Soreno Orta Sehpa. Kahveni, okuduğun kitabı ve dekoratif parçalarını bir araya getirebileceğin bir merkez oluşturur. Salon düzenini kişisel seçimlerinle tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/soreno-orta-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p71",
+    "sku": "QN-C261",
+    "slug": "relven-orta-sehpa",
+    "name": "Relven Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 1875000,
+    "previousPrice": 2800000,
+    "images": [
+      "/images/catalog-cutouts/relven-orta-sehpa/01.png"
+    ],
+    "description": "Relven Orta Sehpa. Kahveni, okuduğun kitabı ve dekoratif parçalarını bir araya getirebileceğin bir merkez oluşturur. Salon düzenini kişisel seçimlerinle tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/relven-orta-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p72",
+    "sku": "QN-Y435",
+    "slug": "nerova-yan-sehpa",
+    "name": "Nerova Yan Sehpa",
+    "category": "Yan sehpalar",
+    "categorySlug": "yan-sehpa",
+    "price": 1675000,
+    "previousPrice": 1900000,
+    "images": [
+      "/images/catalog-cutouts/nerova-yan-sehpa/01.png"
+    ],
+    "description": "Nerova Yan Sehpa. Koltuk veya berjer yanında günlük ihtiyaçlarını yakında tutmak için bir alan oluşturur. Kahve kupana, kitabına ya da sevdiğin bir objeye yer ayır. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": true,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/nerova-yan-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p74",
+    "sku": "QN-Y407",
+    "slug": "evaris-yan-sehpa",
+    "name": "Evaris Yan Sehpa",
+    "category": "Yan sehpalar",
+    "categorySlug": "yan-sehpa",
+    "price": 875000,
+    "previousPrice": 1100000,
+    "images": [
+      "/images/catalog-cutouts/evaris-yan-sehpa/01.png"
+    ],
+    "description": "Evaris Yan Sehpa. Kahve molalarında ve okuma köşesinde elinin altında bir alan sunar. Evindeki yerleşimi, kendi ihtiyaçlarına göre tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 50,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/evaris-yan-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p76",
+    "sku": "QN-Y427",
+    "slug": "selvian-yan-sehpa",
+    "name": "Selvian Yan Sehpa",
+    "category": "Yan sehpalar",
+    "categorySlug": "yan-sehpa",
+    "price": 875000,
+    "previousPrice": 1100000,
+    "images": [
+      "/images/catalog-cutouts/selvian-yan-sehpa/01.png"
+    ],
+    "description": "Selvian Yan Sehpa. Oturma köşene eşlik eden bir tamamlayıcı. Yanına almak istediğin eşyaları, evindeki kullanım düzenine göre bir araya getir. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/selvian-yan-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p77",
+    "sku": "QN-Y415",
+    "slug": "tirena-yan-sehpa",
+    "name": "Tirena Yan Sehpa",
+    "category": "Yan sehpalar",
+    "categorySlug": "yan-sehpa",
+    "price": 1150000,
+    "previousPrice": 1425000,
+    "images": [
+      "/images/catalog-cutouts/tirena-yan-sehpa/01.png"
+    ],
+    "description": "Tirena Yan Sehpa. Kahve molalarında ve okuma köşesinde elinin altında bir alan sunar. Evindeki yerleşimi, kendi ihtiyaçlarına göre tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/tirena-yan-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p78",
+    "sku": "QN-Y408",
+    "slug": "verdan-yan-sehpa",
+    "name": "Verdan Yan Sehpa",
+    "category": "Yan sehpalar",
+    "categorySlug": "yan-sehpa",
+    "price": 675000,
+    "previousPrice": 850000,
+    "images": [
+      "/images/catalog-cutouts/verdan-yan-sehpa/01.png"
+    ],
+    "description": "Verdan Yan Sehpa. Koltuk veya berjer yanında günlük ihtiyaçlarını yakında tutmak için bir alan oluşturur. Kahve kupana, kitabına ya da sevdiğin bir objeye yer ayır. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/verdan-yan-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p80",
+    "sku": "QN-Y417",
+    "slug": "nerelio-yan-sehpa",
+    "name": "Nerelio Yan Sehpa",
+    "category": "Yan sehpalar",
+    "categorySlug": "yan-sehpa",
+    "price": 750000,
+    "previousPrice": 975000,
+    "images": [
+      "/images/catalog-cutouts/nerelio-yan-sehpa/01.png"
+    ],
+    "description": "Nerelio Yan Sehpa. Kahve molalarında ve okuma köşesinde elinin altında bir alan sunar. Evindeki yerleşimi, kendi ihtiyaçlarına göre tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/nerelio-yan-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p86",
+    "sku": "QN-Z304",
+    "slug": "ivara-zigon-sehpa-seti",
+    "name": "Ivara Zigon Sehpa Seti",
+    "category": "Zigon sehpalar",
+    "categorySlug": "zigon-sehpa",
+    "price": 1150000,
+    "previousPrice": 1425000,
+    "images": [
+      "/images/catalog-cutouts/ivara-zigon-sehpa-seti/01.png"
+    ],
+    "description": "Ivara Zigon Sehpa Seti. Günlük kullanım ve sunum için bir arada düşünülen parçalar. Oturma alanını, ihtiyaç duyduğun noktalarda kullanabileceğin bir setle tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": true,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/ivara-zigon-sehpa-seti/01.jpg"
+    ]
+  },
+  {
+    "id": "p87",
+    "sku": "QN-Z319",
+    "slug": "calira-zigon-sehpa-seti",
+    "name": "Calira Zigon Sehpa Seti",
+    "category": "Zigon sehpalar",
+    "categorySlug": "zigon-sehpa",
+    "price": 1300000,
+    "previousPrice": 1625000,
+    "images": [
+      "/images/catalog-cutouts/calira-zigon-sehpa-seti/01.png",
+      "/images/catalog-cutouts/calira-zigon-sehpa-seti/02.png",
+      "/images/catalog-cutouts/calira-zigon-sehpa-seti/03-clean.png"
+    ],
+    "description": "Calira Zigon Sehpa Seti. Sehpa setiyle oturma alanında birden fazla kullanım noktası oluşturabilirsin. Günlük yerleşimden misafir ağırlamaya, parçaları ihtiyacına göre değerlendir. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/calira-zigon-sehpa-seti/01.jpg",
+      "/images/catalog/calira-zigon-sehpa-seti/02.jpg",
+      "/images/catalog/calira-zigon-sehpa-seti/03.jpg"
+    ]
+  },
+  {
+    "id": "p88",
+    "sku": "QN-Z308",
+    "slug": "kireva-zigon-sehpa-seti",
+    "name": "Kireva Zigon Sehpa Seti",
+    "category": "Zigon sehpalar",
+    "categorySlug": "zigon-sehpa",
+    "price": 1275000,
+    "previousPrice": 1550000,
+    "images": [
+      "/images/catalog-cutouts/kireva-zigon-sehpa-seti/01.png"
+    ],
+    "description": "Kireva Zigon Sehpa Seti. Salonunda farklı noktalara eşlik eden bir sehpa seti. Kahve ve servis alanlarını, evindeki düzene göre birlikte planla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/kireva-zigon-sehpa-seti/01.jpg"
+    ]
+  },
+  {
+    "id": "p90",
+    "sku": "QN-Z305",
+    "slug": "evania-zigon-sehpa-seti",
+    "name": "Evania Zigon Sehpa Seti",
+    "category": "Zigon sehpalar",
+    "categorySlug": "zigon-sehpa",
+    "price": 1150000,
+    "previousPrice": 1375000,
+    "images": [
+      "/images/catalog-cutouts/evania-zigon-sehpa-seti/01.png",
+      "/images/catalog-cutouts/evania-zigon-sehpa-seti/02.png"
+    ],
+    "description": "Evania Zigon Sehpa Seti. Sehpa setiyle oturma alanında birden fazla kullanım noktası oluşturabilirsin. Günlük yerleşimden misafir ağırlamaya, parçaları ihtiyacına göre değerlendir. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/evania-zigon-sehpa-seti/01.jpg",
+      "/images/catalog/evania-zigon-sehpa-seti/02.jpg"
+    ]
+  },
+  {
+    "id": "p91",
+    "sku": "QN-Z303",
+    "slug": "valeris-zigon-sehpa-seti",
+    "name": "Valeris Zigon Sehpa Seti",
+    "category": "Zigon sehpalar",
+    "categorySlug": "zigon-sehpa",
+    "price": 1475000,
+    "previousPrice": 1750000,
+    "images": [
+      "/images/catalog-cutouts/valeris-zigon-sehpa-seti/01.png"
+    ],
+    "description": "Valeris Zigon Sehpa Seti. Salonunda farklı noktalara eşlik eden bir sehpa seti. Kahve ve servis alanlarını, evindeki düzene göre birlikte planla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/valeris-zigon-sehpa-seti/01.jpg"
+    ]
+  },
+  {
+    "id": "p92",
+    "sku": "QN-Z310",
+    "slug": "orelia-zigon-sehpa-seti",
+    "name": "Orelia Zigon Sehpa Seti",
+    "category": "Zigon sehpalar",
+    "categorySlug": "zigon-sehpa",
+    "price": 1475000,
+    "previousPrice": 1800000,
+    "images": [
+      "/images/catalog-cutouts/orelia-zigon-sehpa-seti/01-clean.png",
+      "/images/catalog-cutouts/orelia-zigon-sehpa-seti/02.png"
+    ],
+    "description": "Orelia Zigon Sehpa Seti. Günlük kullanım ve sunum için bir arada düşünülen parçalar. Oturma alanını, ihtiyaç duyduğun noktalarda kullanabileceğin bir setle tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/orelia-zigon-sehpa-seti/01.jpg",
+      "/images/catalog/orelia-zigon-sehpa-seti/02.png"
+    ]
+  },
+  {
+    "id": "p93",
+    "sku": "QN-Z354",
+    "slug": "calvio-zigon-sehpa-seti",
+    "name": "Calvio Zigon Sehpa Seti",
+    "category": "Zigon sehpalar",
+    "categorySlug": "zigon-sehpa",
+    "price": 975000,
+    "previousPrice": 1295000,
+    "images": [
+      "/images/catalog-cutouts/calvio-zigon-sehpa-seti/01.png"
+    ],
+    "description": "Calvio Zigon Sehpa Seti. Sehpa setiyle oturma alanında birden fazla kullanım noktası oluşturabilirsin. Günlük yerleşimden misafir ağırlamaya, parçaları ihtiyacına göre değerlendir. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/calvio-zigon-sehpa-seti/01.jpeg"
+    ]
+  },
+  {
+    "id": "p95",
+    "sku": "QN-Z318",
+    "slug": "ovaris-zigon-sehpa-seti",
+    "name": "Ovaris Zigon Sehpa Seti",
+    "category": "Zigon sehpalar",
+    "categorySlug": "zigon-sehpa",
+    "price": 1450000,
+    "previousPrice": 1750000,
+    "images": [
+      "/images/catalog-cutouts/ovaris-zigon-sehpa-seti/01.png"
+    ],
+    "description": "Ovaris Zigon Sehpa Seti. Günlük kullanım ve sunum için bir arada düşünülen parçalar. Oturma alanını, ihtiyaç duyduğun noktalarda kullanabileceğin bir setle tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/ovaris-zigon-sehpa-seti/01.jpg"
+    ]
+  },
+  {
+    "id": "p97",
+    "sku": "QN-Z359",
+    "slug": "belvia-zigon-sehpa-seti",
+    "name": "Belvia Zigon Sehpa Seti",
+    "category": "Zigon sehpalar",
+    "categorySlug": "zigon-sehpa",
+    "price": 1350000,
+    "previousPrice": 1650000,
+    "images": [
+      "/images/catalog-cutouts/belvia-zigon-sehpa-seti/01.png"
+    ],
+    "description": "Belvia Zigon Sehpa Seti. Salonunda farklı noktalara eşlik eden bir sehpa seti. Kahve ve servis alanlarını, evindeki düzene göre birlikte planla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/belvia-zigon-sehpa-seti/01.jpg"
+    ]
+  },
+  {
+    "id": "p98",
+    "sku": "QN-C161",
+    "slug": "talvero-orta-sehpa",
+    "name": "Talvero Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 3175000,
+    "previousPrice": 3675000,
+    "images": [
+      "/images/catalog-cutouts/talvero-orta-sehpa/01.png",
+      "/images/catalog-cutouts/talvero-orta-sehpa/02.png"
+    ],
+    "description": "Talvero Orta Sehpa. Oturma alanını tamamlamak ve sevdiğin detayları bir arada tutmak için bir seçenek. Salonuna, senin kullanım alışkanlıklarınla anlam kazanacak bir köşe ekle. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/talvero-orta-sehpa/01.jpg",
+      "/images/catalog/talvero-orta-sehpa/02.jpg"
+    ]
+  },
+  {
+    "id": "p111",
+    "sku": "QN-C267",
+    "slug": "morvia-orta-sehpa",
+    "name": "Morvia Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 2975000,
+    "previousPrice": 3550000,
+    "images": [
+      "/images/catalog-cutouts/morvia-orta-sehpa/01.png"
+    ],
+    "description": "Morvia Orta Sehpa. Kahveni, okuduğun kitabı ve dekoratif parçalarını bir araya getirebileceğin bir merkez oluşturur. Salon düzenini kişisel seçimlerinle tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 500,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/morvia-orta-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p120",
+    "sku": "QN-C266",
+    "slug": "darvio-orta-sehpa",
+    "name": "Darvio Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 2850000,
+    "previousPrice": 3375000,
+    "images": [
+      "/images/catalog-cutouts/darvio-orta-sehpa/01-clean.png",
+      "/images/catalog-cutouts/darvio-orta-sehpa/02.png"
+    ],
+    "description": "Darvio Orta Sehpa. Salonun merkezinde kahveye, kitaplara ve sevdiğin objelere yer açar. Oturma alanının düzenini kendi yaşam ritmine göre tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/darvio-orta-sehpa/01.jpg",
+      "/images/catalog/darvio-orta-sehpa/02.jpg"
+    ]
+  },
+  {
+    "id": "p121",
+    "sku": "QN-C117",
+    "slug": "narven-orta-sehpa",
+    "name": "Narven Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 2950000,
+    "previousPrice": 3675000,
+    "images": [
+      "/images/catalog-cutouts/narven-orta-sehpa/01.png",
+      "/images/catalog-cutouts/narven-orta-sehpa/02.png"
+    ],
+    "description": "Narven Orta Sehpa. Günlük kullanım alanını salonun ortasında bir araya getirir. Kahve molalarından akşam sohbetlerine, evindeki anlara eşlik eder. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/narven-orta-sehpa/01.png",
+      "/images/catalog/narven-orta-sehpa/02.jpeg"
+    ]
+  },
+  {
+    "id": "p122",
+    "sku": "QN-C130",
+    "slug": "varelo-orta-sehpa",
+    "name": "Varelo Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 2275000,
+    "previousPrice": 2575000,
+    "images": [
+      "/images/catalog-cutouts/varelo-orta-sehpa/01.png",
+      "/images/catalog-cutouts/varelo-orta-sehpa/02.png",
+      "/images/catalog-cutouts/varelo-orta-sehpa/03.png"
+    ],
+    "description": "Varelo Orta Sehpa. Oturma alanını tamamlamak ve sevdiğin detayları bir arada tutmak için bir seçenek. Salonuna, senin kullanım alışkanlıklarınla anlam kazanacak bir köşe ekle. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/varelo-orta-sehpa/01.jpg",
+      "/images/catalog/varelo-orta-sehpa/02.jpg",
+      "/images/catalog/varelo-orta-sehpa/03.jpg"
+    ]
+  },
+  {
+    "id": "p123",
+    "sku": "QN-YC104",
+    "slug": "berova-orta-sehpa",
+    "name": "Berova Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 3750000,
+    "previousPrice": 4075000,
+    "images": [
+      "/images/catalog-cutouts/berova-orta-sehpa/01.png",
+      "/images/catalog-cutouts/berova-orta-sehpa/02.png"
+    ],
+    "description": "Berova Orta Sehpa. Kahveni, okuduğun kitabı ve dekoratif parçalarını bir araya getirebileceğin bir merkez oluşturur. Salon düzenini kişisel seçimlerinle tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/berova-orta-sehpa/01.jpg",
+      "/images/catalog/berova-orta-sehpa/02.jpeg"
+    ]
+  },
+  {
+    "id": "p128",
+    "sku": "QN-D707",
+    "slug": "novian-dresuar",
+    "name": "Novian Dresuar",
+    "category": "Dresuarlar",
+    "categorySlug": "dresuar",
+    "price": 2275000,
+    "previousPrice": 2850000,
+    "images": [
+      "/images/catalog-cutouts/novian-dresuar/01.png"
+    ],
+    "description": "Novian Dresuar. Antrede veya yaşam alanında dekoratif objelerin için bir odak noktası oluşturur. Bir ayna, aydınlatma ya da sevdiğin aksesuarlarla kendi düzenini kur. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": true,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/novian-dresuar/01.jpg"
+    ]
+  },
+  {
+    "id": "p131",
+    "sku": "QN-C014",
+    "slug": "anviro-orta-sehpa",
+    "name": "Anviro Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 3750000,
+    "previousPrice": 4250000,
+    "images": [
+      "/images/catalog-cutouts/anviro-orta-sehpa/01.png"
+    ],
+    "description": "Anviro Orta Sehpa. Kahveni, okuduğun kitabı ve dekoratif parçalarını bir araya getirebileceğin bir merkez oluşturur. Salon düzenini kişisel seçimlerinle tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/anviro-orta-sehpa/01.jpeg"
+    ]
+  },
+  {
+    "id": "p132",
+    "sku": "QN-Z326",
+    "slug": "tarven-zigon-sehpa-seti",
+    "name": "Tarven Zigon Sehpa Seti",
+    "category": "Zigon sehpalar",
+    "categorySlug": "zigon-sehpa",
+    "price": 1350000,
+    "previousPrice": 1725000,
+    "images": [
+      "/images/catalog-cutouts/tarven-zigon-sehpa-seti/01.png"
+    ],
+    "description": "Tarven Zigon Sehpa Seti. Sehpa setiyle oturma alanında birden fazla kullanım noktası oluşturabilirsin. Günlük yerleşimden misafir ağırlamaya, parçaları ihtiyacına göre değerlendir. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/tarven-zigon-sehpa-seti/01.jpg"
+    ]
+  },
+  {
+    "id": "p134",
+    "sku": "QN-C241",
+    "slug": "averio-orta-sehpa",
+    "name": "Averio Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 1675000,
+    "previousPrice": 1875000,
+    "images": [
+      "/images/catalog-cutouts/averio-orta-sehpa/01.png"
+    ],
+    "description": "Averio Orta Sehpa. Oturma alanını tamamlamak ve sevdiğin detayları bir arada tutmak için bir seçenek. Salonuna, senin kullanım alışkanlıklarınla anlam kazanacak bir köşe ekle. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/averio-orta-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p136",
+    "sku": "QN-C018",
+    "slug": "erelia-orta-sehpa",
+    "name": "Erelia Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 3275000,
+    "previousPrice": 3850000,
+    "images": [
+      "/images/catalog-cutouts/erelia-orta-sehpa/01.png"
+    ],
+    "description": "Erelia Orta Sehpa. Salonun merkezinde kahveye, kitaplara ve sevdiğin objelere yer açar. Oturma alanının düzenini kendi yaşam ritmine göre tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": true,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/erelia-orta-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p137",
+    "sku": "QN-C151",
+    "slug": "tirena-orta-sehpa",
+    "name": "Tirena Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 2675000,
+    "previousPrice": 3075000,
+    "images": [
+      "/images/catalog-cutouts/tirena-orta-sehpa/01.png",
+      "/images/catalog-cutouts/tirena-orta-sehpa/02.png",
+      "/images/catalog-cutouts/tirena-orta-sehpa/03.png"
+    ],
+    "description": "Tirena Orta Sehpa. Günlük kullanım alanını salonun ortasında bir araya getirir. Kahve molalarından akşam sohbetlerine, evindeki anlara eşlik eder. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/tirena-orta-sehpa/01.jpg",
+      "/images/catalog/tirena-orta-sehpa/02.jpg",
+      "/images/catalog/tirena-orta-sehpa/03.jpg"
+    ]
+  },
+  {
+    "id": "p138",
+    "sku": "QN-C012",
+    "slug": "ovelia-orta-sehpa",
+    "name": "Ovelia Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 2975000,
+    "previousPrice": 3675000,
+    "images": [
+      "/images/catalog-cutouts/ovelia-orta-sehpa/01.png"
+    ],
+    "description": "Ovelia Orta Sehpa. Oturma alanını tamamlamak ve sevdiğin detayları bir arada tutmak için bir seçenek. Salonuna, senin kullanım alışkanlıklarınla anlam kazanacak bir köşe ekle. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/ovelia-orta-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p139",
+    "sku": "QN-YC114",
+    "slug": "kavira-orta-sehpa",
+    "name": "Kavira Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 4350000,
+    "previousPrice": 5100000,
+    "images": [
+      "/images/catalog-cutouts/kavira-orta-sehpa/01.png"
+    ],
+    "description": "Kavira Orta Sehpa. Kahveni, okuduğun kitabı ve dekoratif parçalarını bir araya getirebileceğin bir merkez oluşturur. Salon düzenini kişisel seçimlerinle tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/kavira-orta-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p140",
+    "sku": "QN-Y014",
+    "slug": "velian-yan-sehpa",
+    "name": "Velian Yan Sehpa",
+    "category": "Yan sehpalar",
+    "categorySlug": "yan-sehpa",
+    "price": 975000,
+    "previousPrice": 1150000,
+    "images": [
+      "/images/catalog-cutouts/velian-yan-sehpa/01.png"
+    ],
+    "description": "Velian Yan Sehpa. Kahve molalarında ve okuma köşesinde elinin altında bir alan sunar. Evindeki yerleşimi, kendi ihtiyaçlarına göre tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 149,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/velian-yan-sehpa/01.jpeg"
+    ]
+  },
+  {
+    "id": "p141",
+    "sku": "QN-C176",
+    "slug": "karelo-orta-sehpa",
+    "name": "Karelo Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 4350000,
+    "previousPrice": 4850000,
+    "images": [
+      "/images/catalog-cutouts/karelo-orta-sehpa/01.png"
+    ],
+    "description": "Karelo Orta Sehpa. Günlük kullanım alanını salonun ortasında bir araya getirir. Kahve molalarından akşam sohbetlerine, evindeki anlara eşlik eder. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/karelo-orta-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p142",
+    "sku": "QN-C013",
+    "slug": "merian-orta-sehpa",
+    "name": "Merian Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 3275000,
+    "previousPrice": 3850000,
+    "images": [
+      "/images/catalog-cutouts/merian-orta-sehpa/01-clean.png"
+    ],
+    "description": "Merian Orta Sehpa. Oturma alanını tamamlamak ve sevdiğin detayları bir arada tutmak için bir seçenek. Salonuna, senin kullanım alışkanlıklarınla anlam kazanacak bir köşe ekle. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/merian-orta-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p143",
+    "sku": "QN-C011",
+    "slug": "ravira-orta-sehpa",
+    "name": "Ravira Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 3450000,
+    "previousPrice": 3975000,
+    "images": [
+      "/images/catalog-cutouts/ravira-orta-sehpa/01-clean.png",
+      "/images/catalog-cutouts/ravira-orta-sehpa/02.png",
+      "/images/catalog-cutouts/ravira-orta-sehpa/03.png"
+    ],
+    "description": "Ravira Orta Sehpa. Kahveni, okuduğun kitabı ve dekoratif parçalarını bir araya getirebileceğin bir merkez oluşturur. Salon düzenini kişisel seçimlerinle tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 50,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": true,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/ravira-orta-sehpa/01.jpg",
+      "/images/catalog/ravira-orta-sehpa/02.jpg",
+      "/images/catalog/ravira-orta-sehpa/03.jpg"
+    ]
+  },
+  {
+    "id": "p148",
+    "sku": "QN-C015",
+    "slug": "arevio-orta-sehpa",
+    "name": "Arevio Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 2750000,
+    "previousPrice": 3000000,
+    "images": [
+      "/images/catalog-cutouts/arevio-orta-sehpa/01.png"
+    ],
+    "description": "Arevio Orta Sehpa. Salonun merkezinde kahveye, kitaplara ve sevdiğin objelere yer açar. Oturma alanının düzenini kendi yaşam ritmine göre tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/arevio-orta-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p149",
+    "sku": "QN-C020",
+    "slug": "mirevo-orta-sehpa",
+    "name": "Mirevo Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 2750000,
+    "previousPrice": 3330000,
+    "images": [
+      "/images/catalog-cutouts/mirevo-orta-sehpa/01.png"
+    ],
+    "description": "Mirevo Orta Sehpa. Günlük kullanım alanını salonun ortasında bir araya getirir. Kahve molalarından akşam sohbetlerine, evindeki anlara eşlik eder. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/mirevo-orta-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p150",
+    "sku": "QN-C022",
+    "slug": "raveon-orta-sehpa",
+    "name": "Raveon Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 2575000,
+    "previousPrice": 2975000,
+    "images": [
+      "/images/catalog-cutouts/raveon-orta-sehpa/01.png"
+    ],
+    "description": "Raveon Orta Sehpa. Oturma alanını tamamlamak ve sevdiğin detayları bir arada tutmak için bir seçenek. Salonuna, senin kullanım alışkanlıklarınla anlam kazanacak bir köşe ekle. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/raveon-orta-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p156",
+    "sku": "QN-Z014",
+    "slug": "manvero-zigon-sehpa-seti",
+    "name": "Manvero Zigon Sehpa Seti",
+    "category": "Zigon sehpalar",
+    "categorySlug": "zigon-sehpa",
+    "price": 1550000,
+    "previousPrice": 1950000,
+    "images": [
+      "/images/catalog-cutouts/manvero-zigon-sehpa-seti/01.png",
+      "/images/catalog-cutouts/manvero-zigon-sehpa-seti/02.png"
+    ],
+    "description": "Manvero Zigon Sehpa Seti. Sehpa setiyle oturma alanında birden fazla kullanım noktası oluşturabilirsin. Günlük yerleşimden misafir ağırlamaya, parçaları ihtiyacına göre değerlendir. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 50,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/manvero-zigon-sehpa-seti/01.jpg",
+      "/images/catalog/manvero-zigon-sehpa-seti/02.jpg"
+    ]
+  },
+  {
+    "id": "p158",
+    "sku": "QN-YC111",
+    "slug": "narelo-orta-sehpa",
+    "name": "Narelo Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 4450000,
+    "previousPrice": 5200000,
+    "images": [
+      "/images/catalog-cutouts/narelo-orta-sehpa/01.png"
+    ],
+    "description": "Narelo Orta Sehpa. Oturma alanını tamamlamak ve sevdiğin detayları bir arada tutmak için bir seçenek. Salonuna, senin kullanım alışkanlıklarınla anlam kazanacak bir köşe ekle. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/narelo-orta-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p162",
+    "sku": "QN-C016",
+    "slug": "serivo-orta-sehpa",
+    "name": "Serivo Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 2975000,
+    "previousPrice": 3400000,
+    "images": [
+      "/images/catalog-cutouts/serivo-orta-sehpa/01.png"
+    ],
+    "description": "Serivo Orta Sehpa. Oturma alanını tamamlamak ve sevdiğin detayları bir arada tutmak için bir seçenek. Salonuna, senin kullanım alışkanlıklarınla anlam kazanacak bir köşe ekle. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 49,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/serivo-orta-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p166",
+    "sku": "QN-C017",
+    "slug": "levian-orta-sehpa",
+    "name": "Levian Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 3750000,
+    "previousPrice": 4125000,
+    "images": [
+      "/images/catalog-cutouts/levian-orta-sehpa/01.png"
+    ],
+    "description": "Levian Orta Sehpa. Oturma alanını tamamlamak ve sevdiğin detayları bir arada tutmak için bir seçenek. Salonuna, senin kullanım alışkanlıklarınla anlam kazanacak bir köşe ekle. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 50,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/levian-orta-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p167",
+    "sku": "QN-C019",
+    "slug": "melvio-orta-sehpa",
+    "name": "Melvio Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 3175000,
+    "previousPrice": 3950000,
+    "images": [
+      "/images/catalog-cutouts/melvio-orta-sehpa/01.png"
+    ],
+    "description": "Melvio Orta Sehpa. Kahveni, okuduğun kitabı ve dekoratif parçalarını bir araya getirebileceğin bir merkez oluşturur. Salon düzenini kişisel seçimlerinle tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 50,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/melvio-orta-sehpa/01.jpeg"
+    ]
+  },
+  {
+    "id": "p168",
+    "sku": "QN-K606",
+    "slug": "lareva-dekoratif-kitaplik",
+    "name": "Lareva Dekoratif Kitaplık",
+    "category": "Raf ve kitaplıklar",
+    "categorySlug": "raf-kitaplik",
+    "price": 1475000,
+    "previousPrice": 1800000,
+    "images": [
+      "/images/catalog-cutouts/lareva-dekoratif-kitaplik/01.png",
+      "/images/catalog-cutouts/lareva-dekoratif-kitaplik/02.png"
+    ],
+    "description": "Lareva Dekoratif Kitaplık. Kitaplarına, küçük objelerine ve sergilemek istediğin parçalara yer ayır. Duvar önünde kişisel bir düzen kurarken evinin karakterini detaylarla tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 50,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": true,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/lareva-dekoratif-kitaplik/01.png",
+      "/images/catalog/lareva-dekoratif-kitaplik/02.png"
+    ]
+  },
+  {
+    "id": "p169",
+    "sku": "QN-K603",
+    "slug": "averis-dekoratif-kitaplik",
+    "name": "Averis Dekoratif Kitaplık",
+    "category": "Raf ve kitaplıklar",
+    "categorySlug": "raf-kitaplik",
+    "price": 1350000,
+    "previousPrice": 1575000,
+    "images": [
+      "/images/catalog-cutouts/averis-dekoratif-kitaplik/01-clean.png"
+    ],
+    "description": "Averis Dekoratif Kitaplık. Kitaplarla dekoratif parçaları bir araya getirebileceğin bir alan oluşturur. İçeriğini kendi seçtiklerinle doldur, evinde sana ait bir köşe kur. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 50,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/averis-dekoratif-kitaplik/01.png"
+    ]
+  },
+  {
+    "id": "p170",
+    "sku": "QN-K602",
+    "slug": "elvian-dekoratif-kitaplik",
+    "name": "Elvian Dekoratif Kitaplık",
+    "category": "Raf ve kitaplıklar",
+    "categorySlug": "raf-kitaplik",
+    "price": 2750000,
+    "previousPrice": 3150000,
+    "images": [
+      "/images/catalog-cutouts/elvian-dekoratif-kitaplik/01.png",
+      "/images/catalog-cutouts/elvian-dekoratif-kitaplik/02.png"
+    ],
+    "description": "Elvian Dekoratif Kitaplık. Kitaplarına, küçük objelerine ve sergilemek istediğin parçalara yer ayır. Duvar önünde kişisel bir düzen kurarken evinin karakterini detaylarla tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 58,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/elvian-dekoratif-kitaplik/01.jpeg",
+      "/images/catalog/elvian-dekoratif-kitaplik/02.jpeg"
+    ]
+  },
+  {
+    "id": "p172",
+    "sku": "QN-D720",
+    "slug": "corvia-dresuar",
+    "name": "Corvia Dresuar",
+    "category": "Dresuarlar",
+    "categorySlug": "dresuar",
+    "price": 1975000,
+    "previousPrice": 2200000,
+    "images": [
+      "/images/catalog-cutouts/corvia-dresuar/01.png"
+    ],
+    "description": "Corvia Dresuar. Antrede veya yaşam alanında dekoratif objelerin için bir odak noktası oluşturur. Bir ayna, aydınlatma ya da sevdiğin aksesuarlarla kendi düzenini kur. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 50,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/corvia-dresuar/01.jpeg"
+    ]
+  },
+  {
+    "id": "p173",
+    "sku": "QN-D013",
+    "slug": "arvelo-dresuar",
+    "name": "Arvelo Dresuar",
+    "category": "Dresuarlar",
+    "categorySlug": "dresuar",
+    "price": 2150000,
+    "previousPrice": 2325000,
+    "images": [
+      "/images/catalog-cutouts/arvelo-dresuar/01.png"
+    ],
+    "description": "Arvelo Dresuar. Evinin girişine veya tamamlamak istediğin bir duvara eşlik eder. Kişisel objelerinle, sana ait bir karşılama köşesi oluşturabilirsin. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 30,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/arvelo-dresuar/01.jpg"
+    ]
+  },
+  {
+    "id": "p174",
+    "sku": "QN-D703",
+    "slug": "talvia-dresuar",
+    "name": "Talvia Dresuar",
+    "category": "Dresuarlar",
+    "categorySlug": "dresuar",
+    "price": 2150000,
+    "previousPrice": 2450000,
+    "images": [
+      "/images/catalog-cutouts/talvia-dresuar/01.png"
+    ],
+    "description": "Talvia Dresuar. Antrede veya yaşam alanında dekoratif objelerin için bir odak noktası oluşturur. Bir ayna, aydınlatma ya da sevdiğin aksesuarlarla kendi düzenini kur. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 30,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/talvia-dresuar/01.jpg"
+    ]
+  },
+  {
+    "id": "p175",
+    "sku": "QN-D012",
+    "slug": "alvero-dresuar",
+    "name": "Alvero Dresuar",
+    "category": "Dresuarlar",
+    "categorySlug": "dresuar",
+    "price": 2150000,
+    "previousPrice": 2600000,
+    "images": [
+      "/images/catalog-cutouts/alvero-dresuar/01.png"
+    ],
+    "description": "Alvero Dresuar. Evinin girişine veya tamamlamak istediğin bir duvara eşlik eder. Kişisel objelerinle, sana ait bir karşılama köşesi oluşturabilirsin. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 30,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": true,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/alvero-dresuar/01.jpg"
+    ]
+  },
+  {
+    "id": "p176",
+    "sku": "QN-D704",
+    "slug": "alvian-dresuar",
+    "name": "Alvian Dresuar",
+    "category": "Dresuarlar",
+    "categorySlug": "dresuar",
+    "price": 1675000,
+    "previousPrice": 1875000,
+    "images": [
+      "/images/catalog-cutouts/alvian-dresuar/01.png"
+    ],
+    "description": "Alvian Dresuar. Antrede veya yaşam alanında dekoratif objelerin için bir odak noktası oluşturur. Bir ayna, aydınlatma ya da sevdiğin aksesuarlarla kendi düzenini kur. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 30,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/alvian-dresuar/01.jpg"
+    ]
+  },
+  {
+    "id": "p177",
+    "sku": "QN-D709",
+    "slug": "vireon-dresuar",
+    "name": "Vireon Dresuar",
+    "category": "Dresuarlar",
+    "categorySlug": "dresuar",
+    "price": 1775000,
+    "previousPrice": 1975000,
+    "images": [
+      "/images/catalog-cutouts/vireon-dresuar/01.png"
+    ],
+    "description": "Vireon Dresuar. Evinin girişine veya tamamlamak istediğin bir duvara eşlik eder. Kişisel objelerinle, sana ait bir karşılama köşesi oluşturabilirsin. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 30,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/vireon-dresuar/01.jpg"
+    ]
+  },
+  {
+    "id": "p178",
+    "sku": "QN-D711",
+    "slug": "marvia-dresuar",
+    "name": "Marvia Dresuar",
+    "category": "Dresuarlar",
+    "categorySlug": "dresuar",
+    "price": 1975000,
+    "previousPrice": 2200000,
+    "images": [
+      "/images/catalog-cutouts/marvia-dresuar/01.png"
+    ],
+    "description": "Marvia Dresuar. Antrede veya yaşam alanında dekoratif objelerin için bir odak noktası oluşturur. Bir ayna, aydınlatma ya da sevdiğin aksesuarlarla kendi düzenini kur. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 30,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/marvia-dresuar/01.jpg"
+    ]
+  },
+  {
+    "id": "p179",
+    "sku": "QN-D722",
+    "slug": "omelia-dresuar",
+    "name": "Omelia Dresuar",
+    "category": "Dresuarlar",
+    "categorySlug": "dresuar",
+    "price": 2850000,
+    "previousPrice": 3350000,
+    "images": [
+      "/images/catalog-cutouts/omelia-dresuar/01.png"
+    ],
+    "description": "Omelia Dresuar. Evinin girişine veya tamamlamak istediğin bir duvara eşlik eder. Kişisel objelerinle, sana ait bir karşılama köşesi oluşturabilirsin. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 50,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/omelia-dresuar/01.jpeg"
+    ]
+  },
+  {
+    "id": "p180",
+    "sku": "QN-YD724",
+    "slug": "arveta-dresuar",
+    "name": "Arveta Dresuar",
+    "category": "Dresuarlar",
+    "categorySlug": "dresuar",
+    "price": 1975000,
+    "previousPrice": 2175000,
+    "images": [
+      "/images/catalog-cutouts/arveta-dresuar/01.png"
+    ],
+    "description": "Arveta Dresuar. Antrede veya yaşam alanında dekoratif objelerin için bir odak noktası oluşturur. Bir ayna, aydınlatma ya da sevdiğin aksesuarlarla kendi düzenini kur. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 50,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/arveta-dresuar/01.jpeg"
+    ]
+  },
+  {
+    "id": "p181",
+    "sku": "QN-Z015",
+    "slug": "nireva-zigon-sehpa-seti",
+    "name": "Nireva Zigon Sehpa Seti",
+    "category": "Zigon sehpalar",
+    "categorySlug": "zigon-sehpa",
+    "price": 2150000,
+    "previousPrice": 2500000,
+    "images": [
+      "/images/catalog-cutouts/nireva-zigon-sehpa-seti/01.png"
+    ],
+    "description": "Nireva Zigon Sehpa Seti. Salonunda farklı noktalara eşlik eden bir sehpa seti. Kahve ve servis alanlarını, evindeki düzene göre birlikte planla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 50,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/nireva-zigon-sehpa-seti/01.jpg"
+    ]
+  },
+  {
+    "id": "p182",
+    "sku": "QN-Z016",
+    "slug": "silven-zigon-sehpa-seti",
+    "name": "Silven Zigon Sehpa Seti",
+    "category": "Zigon sehpalar",
+    "categorySlug": "zigon-sehpa",
+    "price": 1875000,
+    "previousPrice": 2200000,
+    "images": [
+      "/images/catalog-cutouts/silven-zigon-sehpa-seti/01.png"
+    ],
+    "description": "Silven Zigon Sehpa Seti. Günlük kullanım ve sunum için bir arada düşünülen parçalar. Oturma alanını, ihtiyaç duyduğun noktalarda kullanabileceğin bir setle tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 50,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/silven-zigon-sehpa-seti/01.jpg"
+    ]
+  },
+  {
+    "id": "p186",
+    "sku": "QN-C026",
+    "slug": "alveta-orta-sehpa",
+    "name": "Alveta Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 3250000,
+    "previousPrice": 3650000,
+    "images": [
+      "/images/catalog-cutouts/alveta-orta-sehpa/01.png"
+    ],
+    "description": "Alveta Orta Sehpa. Oturma alanını tamamlamak ve sevdiğin detayları bir arada tutmak için bir seçenek. Salonuna, senin kullanım alışkanlıklarınla anlam kazanacak bir köşe ekle. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 50,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/alveta-orta-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p187",
+    "sku": "QN-C028",
+    "slug": "neriva-orta-sehpa",
+    "name": "Neriva Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 2650000,
+    "previousPrice": 3050000,
+    "images": [
+      "/images/catalog-cutouts/neriva-orta-sehpa/01.png",
+      "/images/catalog-cutouts/neriva-orta-sehpa/02-clean.png",
+      "/images/catalog-cutouts/neriva-orta-sehpa/03-clean.png"
+    ],
+    "description": "Neriva Orta Sehpa. Kahveni, okuduğun kitabı ve dekoratif parçalarını bir araya getirebileceğin bir merkez oluşturur. Salon düzenini kişisel seçimlerinle tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 50,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/neriva-orta-sehpa/01.png",
+      "/images/catalog/neriva-orta-sehpa/02.jpg",
+      "/images/catalog/neriva-orta-sehpa/03.jpg"
+    ]
+  },
+  {
+    "id": "p189",
+    "sku": "QN-C031",
+    "slug": "meriva-orta-sehpa",
+    "name": "Meriva Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 3275000,
+    "previousPrice": 3975000,
+    "images": [
+      "/images/catalog-cutouts/meriva-orta-sehpa/01.png",
+      "/images/catalog-cutouts/meriva-orta-sehpa/02.png",
+      "/images/catalog-cutouts/meriva-orta-sehpa/03.png",
+      "/images/catalog-cutouts/meriva-orta-sehpa/04.png"
+    ],
+    "description": "Meriva Orta Sehpa. Günlük kullanım alanını salonun ortasında bir araya getirir. Kahve molalarından akşam sohbetlerine, evindeki anlara eşlik eder. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/meriva-orta-sehpa/01.jpg",
+      "/images/catalog/meriva-orta-sehpa/02.jpg",
+      "/images/catalog/meriva-orta-sehpa/03.jpg",
+      "/images/catalog/meriva-orta-sehpa/04.jpg"
+    ]
+  },
+  {
+    "id": "p190",
+    "sku": "QN-C032",
+    "slug": "soreva-orta-sehpa",
+    "name": "Soreva Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 3975000,
+    "previousPrice": 4675000,
+    "images": [
+      "/images/catalog-cutouts/soreva-orta-sehpa/01.png"
+    ],
+    "description": "Soreva Orta Sehpa. Oturma alanını tamamlamak ve sevdiğin detayları bir arada tutmak için bir seçenek. Salonuna, senin kullanım alışkanlıklarınla anlam kazanacak bir köşe ekle. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/soreva-orta-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p191",
+    "sku": "QN-C033",
+    "slug": "olvero-orta-sehpa",
+    "name": "Olvero Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 1850000,
+    "previousPrice": 2200000,
+    "images": [
+      "/images/catalog-cutouts/olvero-orta-sehpa/01.png",
+      "/images/catalog-cutouts/olvero-orta-sehpa/02.png",
+      "/images/catalog-cutouts/olvero-orta-sehpa/03.png"
+    ],
+    "description": "Olvero Orta Sehpa. Kahveni, okuduğun kitabı ve dekoratif parçalarını bir araya getirebileceğin bir merkez oluşturur. Salon düzenini kişisel seçimlerinle tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/olvero-orta-sehpa/01.jpg",
+      "/images/catalog/olvero-orta-sehpa/02.jpg",
+      "/images/catalog/olvero-orta-sehpa/03.jpg"
+    ]
+  },
+  {
+    "id": "p193",
+    "sku": "QN-C035",
+    "slug": "senvia-orta-sehpa",
+    "name": "Senvia Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 2575000,
+    "previousPrice": 3000000,
+    "images": [
+      "/images/catalog-cutouts/senvia-orta-sehpa/01.png"
+    ],
+    "description": "Senvia Orta Sehpa. Günlük kullanım alanını salonun ortasında bir araya getirir. Kahve molalarından akşam sohbetlerine, evindeki anlara eşlik eder. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/senvia-orta-sehpa/01.jpeg"
+    ]
+  },
+  {
+    "id": "p194",
+    "sku": "QN-C036",
+    "slug": "vairel-orta-sehpa",
+    "name": "Vairel Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 2550000,
+    "previousPrice": 3075000,
+    "images": [
+      "/images/catalog-cutouts/vairel-orta-sehpa/01.png"
+    ],
+    "description": "Vairel Orta Sehpa. Oturma alanını tamamlamak ve sevdiğin detayları bir arada tutmak için bir seçenek. Salonuna, senin kullanım alışkanlıklarınla anlam kazanacak bir köşe ekle. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/vairel-orta-sehpa/01.jpeg"
+    ]
+  },
+  {
+    "id": "p195",
+    "sku": "QN-C037",
+    "slug": "evrina-orta-sehpa",
+    "name": "Evrina Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 3250000,
+    "previousPrice": 3825000,
+    "images": [
+      "/images/catalog-cutouts/evrina-orta-sehpa/01.png"
+    ],
+    "description": "Evrina Orta Sehpa. Kahveni, okuduğun kitabı ve dekoratif parçalarını bir araya getirebileceğin bir merkez oluşturur. Salon düzenini kişisel seçimlerinle tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/evrina-orta-sehpa/01.jpeg"
+    ]
+  },
+  {
+    "id": "p196",
+    "sku": "QN-C038",
+    "slug": "larelio-orta-sehpa",
+    "name": "Larelio Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 2550000,
+    "previousPrice": 3075000,
+    "images": [
+      "/images/catalog-cutouts/larelio-orta-sehpa/01.png"
+    ],
+    "description": "Larelio Orta Sehpa. Salonun merkezinde kahveye, kitaplara ve sevdiğin objelere yer açar. Oturma alanının düzenini kendi yaşam ritmine göre tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/larelio-orta-sehpa/01.jpeg"
+    ]
+  },
+  {
+    "id": "p197",
+    "sku": "QN-C039",
+    "slug": "laviro-orta-sehpa",
+    "name": "Laviro Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 2275000,
+    "previousPrice": 2725000,
+    "images": [
+      "/images/catalog-cutouts/laviro-orta-sehpa/01.png",
+      "/images/catalog-cutouts/laviro-orta-sehpa/02.png"
+    ],
+    "description": "Laviro Orta Sehpa. Günlük kullanım alanını salonun ortasında bir araya getirir. Kahve molalarından akşam sohbetlerine, evindeki anlara eşlik eder. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/laviro-orta-sehpa/01.png",
+      "/images/catalog/laviro-orta-sehpa/02.jpeg"
+    ]
+  },
+  {
+    "id": "p198",
+    "sku": "QN-C040",
+    "slug": "talven-orta-sehpa",
+    "name": "Talven Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 2275000,
+    "previousPrice": 2700000,
+    "images": [
+      "/images/catalog-cutouts/talven-orta-sehpa/01.png"
+    ],
+    "description": "Talven Orta Sehpa. Oturma alanını tamamlamak ve sevdiğin detayları bir arada tutmak için bir seçenek. Salonuna, senin kullanım alışkanlıklarınla anlam kazanacak bir köşe ekle. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/talven-orta-sehpa/01.jpeg"
+    ]
+  },
+  {
+    "id": "p199",
+    "sku": "QN-YC116",
+    "slug": "mareno-orta-sehpa",
+    "name": "Mareno Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 2950000,
+    "previousPrice": 3375000,
+    "images": [
+      "/images/catalog-cutouts/mareno-orta-sehpa/01.png"
+    ],
+    "description": "Mareno Orta Sehpa. Kahveni, okuduğun kitabı ve dekoratif parçalarını bir araya getirebileceğin bir merkez oluşturur. Salon düzenini kişisel seçimlerinle tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/mareno-orta-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p200",
+    "sku": "QN-C123",
+    "slug": "arvian-orta-sehpa",
+    "name": "Arvian Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 1675000,
+    "previousPrice": 1950000,
+    "images": [
+      "/images/catalog-cutouts/arvian-orta-sehpa/01.png"
+    ],
+    "description": "Arvian Orta Sehpa. Salonun merkezinde kahveye, kitaplara ve sevdiğin objelere yer açar. Oturma alanının düzenini kendi yaşam ritmine göre tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/arvian-orta-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p201",
+    "sku": "QN-C177",
+    "slug": "milven-orta-sehpa",
+    "name": "Milven Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 2275000,
+    "previousPrice": 2575000,
+    "images": [
+      "/images/catalog-cutouts/milven-orta-sehpa/01.png"
+    ],
+    "description": "Milven Orta Sehpa. Günlük kullanım alanını salonun ortasında bir araya getirir. Kahve molalarından akşam sohbetlerine, evindeki anlara eşlik eder. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/milven-orta-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p202",
+    "sku": "QN-C197",
+    "slug": "sorelio-orta-sehpa",
+    "name": "Sorelio Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 2950000,
+    "previousPrice": 3375000,
+    "images": [
+      "/images/catalog-cutouts/sorelio-orta-sehpa/01.png"
+    ],
+    "description": "Sorelio Orta Sehpa. Oturma alanını tamamlamak ve sevdiğin detayları bir arada tutmak için bir seçenek. Salonuna, senin kullanım alışkanlıklarınla anlam kazanacak bir köşe ekle. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/sorelio-orta-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p203",
+    "sku": "QN-C262",
+    "slug": "omelia-orta-sehpa",
+    "name": "Omelia Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 4450000,
+    "previousPrice": 5150000,
+    "images": [
+      "/images/catalog-cutouts/omelia-orta-sehpa/01.png"
+    ],
+    "description": "Omelia Orta Sehpa. Kahveni, okuduğun kitabı ve dekoratif parçalarını bir araya getirebileceğin bir merkez oluşturur. Salon düzenini kişisel seçimlerinle tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/omelia-orta-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p204",
+    "sku": "QN-Y010",
+    "slug": "corena-yan-sehpa",
+    "name": "Corena Yan Sehpa",
+    "category": "Yan sehpalar",
+    "categorySlug": "yan-sehpa",
+    "price": 1150000,
+    "previousPrice": 1325000,
+    "images": [
+      "/images/catalog-cutouts/corena-yan-sehpa/01.png"
+    ],
+    "description": "Corena Yan Sehpa. Koltuk veya berjer yanında günlük ihtiyaçlarını yakında tutmak için bir alan oluşturur. Kahve kupana, kitabına ya da sevdiğin bir objeye yer ayır. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 100,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/corena-yan-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p205",
+    "sku": "QN-D712",
+    "slug": "evelio-dresuar",
+    "name": "Evelio Dresuar",
+    "category": "Dresuarlar",
+    "categorySlug": "dresuar",
+    "price": 2150000,
+    "previousPrice": 2450000,
+    "images": [
+      "/images/catalog-cutouts/evelio-dresuar/01.png"
+    ],
+    "description": "Evelio Dresuar. Evinin girişine veya tamamlamak istediğin bir duvara eşlik eder. Kişisel objelerinle, sana ait bir karşılama köşesi oluşturabilirsin. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 100,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/evelio-dresuar/01.jpeg"
+    ]
+  },
+  {
+    "id": "p206",
+    "sku": "QN-D713",
+    "slug": "avelio-dresuar",
+    "name": "Avelio Dresuar",
+    "category": "Dresuarlar",
+    "categorySlug": "dresuar",
+    "price": 2150000,
+    "previousPrice": 2450000,
+    "images": [
+      "/images/catalog-cutouts/avelio-dresuar/01.png"
+    ],
+    "description": "Avelio Dresuar. Antrede veya yaşam alanında dekoratif objelerin için bir odak noktası oluşturur. Bir ayna, aydınlatma ya da sevdiğin aksesuarlarla kendi düzenini kur. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 100,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/avelio-dresuar/01.jpeg"
+    ]
+  },
+  {
+    "id": "p207",
+    "sku": "QN-K601",
+    "slug": "nareva-dekoratif-kitaplik",
+    "name": "Nareva Dekoratif Kitaplık",
+    "category": "Raf ve kitaplıklar",
+    "categorySlug": "raf-kitaplik",
+    "price": 2575000,
+    "previousPrice": 3000000,
+    "images": [
+      "/images/catalog-cutouts/nareva-dekoratif-kitaplik/01.png",
+      "/images/catalog-cutouts/nareva-dekoratif-kitaplik/02.png"
+    ],
+    "description": "Nareva Dekoratif Kitaplık. Kitaplarla dekoratif parçaları bir araya getirebileceğin bir alan oluşturur. İçeriğini kendi seçtiklerinle doldur, evinde sana ait bir köşe kur. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 100,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/nareva-dekoratif-kitaplik/01.jpeg",
+      "/images/catalog/nareva-dekoratif-kitaplik/02.jpeg"
+    ]
+  },
+  {
+    "id": "p208",
+    "sku": "QN-Y012",
+    "slug": "delvia-yan-sehpa",
+    "name": "Delvia Yan Sehpa",
+    "category": "Yan sehpalar",
+    "categorySlug": "yan-sehpa",
+    "price": 875000,
+    "previousPrice": 1125000,
+    "images": [
+      "/images/catalog-cutouts/delvia-yan-sehpa/01.png"
+    ],
+    "description": "Delvia Yan Sehpa. Oturma köşene eşlik eden bir tamamlayıcı. Yanına almak istediğin eşyaları, evindeki kullanım düzenine göre bir araya getir. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 50,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/delvia-yan-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p209",
+    "sku": "QN-Y013",
+    "slug": "kavira-yan-sehpa",
+    "name": "Kavira Yan Sehpa",
+    "category": "Yan sehpalar",
+    "categorySlug": "yan-sehpa",
+    "price": 1100000,
+    "previousPrice": 1325000,
+    "images": [
+      "/images/catalog-cutouts/kavira-yan-sehpa/01.png"
+    ],
+    "description": "Kavira Yan Sehpa. Kahve molalarında ve okuma köşesinde elinin altında bir alan sunar. Evindeki yerleşimi, kendi ihtiyaçlarına göre tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 100,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/kavira-yan-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p210",
+    "sku": "QN-Y015",
+    "slug": "morvia-yan-sehpa",
+    "name": "Morvia Yan Sehpa",
+    "category": "Yan sehpalar",
+    "categorySlug": "yan-sehpa",
+    "price": 1300000,
+    "previousPrice": 1525000,
+    "images": [
+      "/images/catalog-cutouts/morvia-yan-sehpa/01.png",
+      "/images/catalog-cutouts/morvia-yan-sehpa/02.png",
+      "/images/catalog-cutouts/morvia-yan-sehpa/03-clean.png",
+      "/images/catalog-cutouts/morvia-yan-sehpa/04-clean.png",
+      "/images/catalog-cutouts/morvia-yan-sehpa/05.png"
+    ],
+    "description": "Morvia Yan Sehpa. Koltuk veya berjer yanında günlük ihtiyaçlarını yakında tutmak için bir alan oluşturur. Kahve kupana, kitabına ya da sevdiğin bir objeye yer ayır. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/morvia-yan-sehpa/01.jpg",
+      "/images/catalog/morvia-yan-sehpa/02.jpg",
+      "/images/catalog/morvia-yan-sehpa/03.jpg",
+      "/images/catalog/morvia-yan-sehpa/04.jpg",
+      "/images/catalog/morvia-yan-sehpa/05.jpg"
+    ]
+  },
+  {
+    "id": "p211",
+    "sku": "QN-Y016",
+    "slug": "olvian-yan-sehpa",
+    "name": "Olvian Yan Sehpa",
+    "category": "Yan sehpalar",
+    "categorySlug": "yan-sehpa",
+    "price": 550000,
+    "previousPrice": 725000,
+    "images": [
+      "/images/catalog-cutouts/olvian-yan-sehpa/01.png"
+    ],
+    "description": "Olvian Yan Sehpa. Oturma köşene eşlik eden bir tamamlayıcı. Yanına almak istediğin eşyaları, evindeki kullanım düzenine göre bir araya getir. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 50,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/olvian-yan-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p212",
+    "sku": "QN-Y017",
+    "slug": "marevo-yan-sehpa",
+    "name": "Marevo Yan Sehpa",
+    "category": "Yan sehpalar",
+    "categorySlug": "yan-sehpa",
+    "price": 1150000,
+    "previousPrice": 1400000,
+    "images": [
+      "/images/catalog-cutouts/marevo-yan-sehpa/01.png"
+    ],
+    "description": "Marevo Yan Sehpa. Kahve molalarında ve okuma köşesinde elinin altında bir alan sunar. Evindeki yerleşimi, kendi ihtiyaçlarına göre tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 100,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/marevo-yan-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p213",
+    "sku": "QN-Y018",
+    "slug": "arevio-yan-sehpa",
+    "name": "Arevio Yan Sehpa",
+    "category": "Yan sehpalar",
+    "categorySlug": "yan-sehpa",
+    "price": 1150000,
+    "previousPrice": 1375000,
+    "images": [
+      "/images/catalog-cutouts/arevio-yan-sehpa/01.png"
+    ],
+    "description": "Arevio Yan Sehpa. Koltuk veya berjer yanında günlük ihtiyaçlarını yakında tutmak için bir alan oluşturur. Kahve kupana, kitabına ya da sevdiğin bir objeye yer ayır. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 100,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/arevio-yan-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p214",
+    "sku": "QN-Y019",
+    "slug": "soreno-yan-sehpa",
+    "name": "Soreno Yan Sehpa",
+    "category": "Yan sehpalar",
+    "categorySlug": "yan-sehpa",
+    "price": 1300000,
+    "previousPrice": 1600000,
+    "images": [
+      "/images/catalog-cutouts/soreno-yan-sehpa/01.png"
+    ],
+    "description": "Soreno Yan Sehpa. Oturma köşene eşlik eden bir tamamlayıcı. Yanına almak istediğin eşyaları, evindeki kullanım düzenine göre bir araya getir. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 50,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/soreno-yan-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p215",
+    "sku": "QN-Y432",
+    "slug": "averio-yan-sehpa",
+    "name": "Averio Yan Sehpa",
+    "category": "Yan sehpalar",
+    "categorySlug": "yan-sehpa",
+    "price": 750000,
+    "previousPrice": 975000,
+    "images": [
+      "/images/catalog-cutouts/averio-yan-sehpa/01.png"
+    ],
+    "description": "Averio Yan Sehpa. Kahve molalarında ve okuma köşesinde elinin altında bir alan sunar. Evindeki yerleşimi, kendi ihtiyaçlarına göre tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 100,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/averio-yan-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p216",
+    "sku": "QN-YS436",
+    "slug": "ivenio-yan-sehpa",
+    "name": "Ivenio Yan Sehpa",
+    "category": "Yan sehpalar",
+    "categorySlug": "yan-sehpa",
+    "price": 875000,
+    "previousPrice": 1150000,
+    "images": [
+      "/images/catalog-cutouts/ivenio-yan-sehpa/01.png",
+      "/images/catalog-cutouts/ivenio-yan-sehpa/02.png"
+    ],
+    "description": "Ivenio Yan Sehpa. Koltuk veya berjer yanında günlük ihtiyaçlarını yakında tutmak için bir alan oluşturur. Kahve kupana, kitabına ya da sevdiğin bir objeye yer ayır. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/ivenio-yan-sehpa/01.png",
+      "/images/catalog/ivenio-yan-sehpa/02.jpg"
+    ]
+  },
+  {
+    "id": "p217",
+    "sku": "QN-S500",
+    "slug": "sevria-yan-sehpa",
+    "name": "Sevria Yan Sehpa",
+    "category": "Yan sehpalar",
+    "categorySlug": "yan-sehpa",
+    "price": 750000,
+    "previousPrice": 975000,
+    "images": [
+      "/images/catalog-cutouts/sevria-yan-sehpa/01.png"
+    ],
+    "description": "Sevria Yan Sehpa. Oturma köşene eşlik eden bir tamamlayıcı. Yanına almak istediğin eşyaları, evindeki kullanım düzenine göre bir araya getir. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 100,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/sevria-yan-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p218",
+    "sku": "QN-S502",
+    "slug": "sorelio-yan-sehpa",
+    "name": "Sorelio Yan Sehpa",
+    "category": "Yan sehpalar",
+    "categorySlug": "yan-sehpa",
+    "price": 750000,
+    "previousPrice": 975000,
+    "images": [
+      "/images/catalog-cutouts/sorelio-yan-sehpa/01.png"
+    ],
+    "description": "Sorelio Yan Sehpa. Kahve molalarında ve okuma köşesinde elinin altında bir alan sunar. Evindeki yerleşimi, kendi ihtiyaçlarına göre tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 100,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/sorelio-yan-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p219",
+    "sku": "QN-S504",
+    "slug": "tereno-yan-sehpa",
+    "name": "Tereno Yan Sehpa",
+    "category": "Yan sehpalar",
+    "categorySlug": "yan-sehpa",
+    "price": 750000,
+    "previousPrice": 975000,
+    "images": [
+      "/images/catalog-cutouts/tereno-yan-sehpa/01.png"
+    ],
+    "description": "Tereno Yan Sehpa. Koltuk veya berjer yanında günlük ihtiyaçlarını yakında tutmak için bir alan oluşturur. Kahve kupana, kitabına ya da sevdiğin bir objeye yer ayır. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 100,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/tereno-yan-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p220",
+    "sku": "QN-S506",
+    "slug": "talino-yan-sehpa",
+    "name": "Talino Yan Sehpa",
+    "category": "Yan sehpalar",
+    "categorySlug": "yan-sehpa",
+    "price": 750000,
+    "previousPrice": 975000,
+    "images": [
+      "/images/catalog-cutouts/talino-yan-sehpa/01.png"
+    ],
+    "description": "Talino Yan Sehpa. Oturma köşene eşlik eden bir tamamlayıcı. Yanına almak istediğin eşyaları, evindeki kullanım düzenine göre bir araya getir. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 100,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/talino-yan-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p221",
+    "sku": "QN-S507",
+    "slug": "kelvia-yan-sehpa",
+    "name": "Kelvia Yan Sehpa",
+    "category": "Yan sehpalar",
+    "categorySlug": "yan-sehpa",
+    "price": 650000,
+    "previousPrice": 875000,
+    "images": [
+      "/images/catalog-cutouts/kelvia-yan-sehpa/01.png"
+    ],
+    "description": "Kelvia Yan Sehpa. Kahve molalarında ve okuma köşesinde elinin altında bir alan sunar. Evindeki yerleşimi, kendi ihtiyaçlarına göre tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 100,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/kelvia-yan-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p222",
+    "sku": "QN-YS439",
+    "slug": "calven-yan-sehpa",
+    "name": "Calven Yan Sehpa",
+    "category": "Yan sehpalar",
+    "categorySlug": "yan-sehpa",
+    "price": 750000,
+    "previousPrice": 975000,
+    "images": [
+      "/images/catalog-cutouts/calven-yan-sehpa/01-clean.png"
+    ],
+    "description": "Calven Yan Sehpa. Koltuk veya berjer yanında günlük ihtiyaçlarını yakında tutmak için bir alan oluşturur. Kahve kupana, kitabına ya da sevdiğin bir objeye yer ayır. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 100,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/calven-yan-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p223",
+    "sku": "QN-B108",
+    "slug": "larevo-ikili-yan-sehpa-seti",
+    "name": "Larevo İkili Yan Sehpa Seti",
+    "category": "Yan sehpalar",
+    "categorySlug": "yan-sehpa",
+    "price": 1150000,
+    "previousPrice": 1350000,
+    "images": [
+      "/images/catalog-cutouts/larevo-ikili-yan-sehpa-seti/01.png"
+    ],
+    "description": "Larevo İkili Yan Sehpa Seti. Oturma köşene eşlik eden bir tamamlayıcı. Yanına almak istediğin eşyaları, evindeki kullanım düzenine göre bir araya getir. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 100,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/larevo-ikili-yan-sehpa-seti/01.jpg"
+    ]
+  },
+  {
+    "id": "p224",
+    "sku": "QN-B111",
+    "slug": "carivo-ikili-yan-sehpa-seti",
+    "name": "Carivo İkili Yan Sehpa Seti",
+    "category": "Yan sehpalar",
+    "categorySlug": "yan-sehpa",
+    "price": 1150000,
+    "previousPrice": 1350000,
+    "images": [
+      "/images/catalog-cutouts/carivo-ikili-yan-sehpa-seti/01.png"
+    ],
+    "description": "Carivo İkili Yan Sehpa Seti. Kahve molalarında ve okuma köşesinde elinin altında bir alan sunar. Evindeki yerleşimi, kendi ihtiyaçlarına göre tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 100,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/carivo-ikili-yan-sehpa-seti/01.jpg"
+    ]
+  },
+  {
+    "id": "p225",
+    "sku": "QN-B112",
+    "slug": "omelia-ikili-yan-sehpa-seti",
+    "name": "Omelia İkili Yan Sehpa Seti",
+    "category": "Yan sehpalar",
+    "categorySlug": "yan-sehpa",
+    "price": 2850000,
+    "previousPrice": 3325000,
+    "images": [
+      "/images/catalog-cutouts/omelia-ikili-yan-sehpa-seti/01.png"
+    ],
+    "description": "Omelia İkili Yan Sehpa Seti. Koltuk veya berjer yanında günlük ihtiyaçlarını yakında tutmak için bir alan oluşturur. Kahve kupana, kitabına ya da sevdiğin bir objeye yer ayır. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 100,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/omelia-ikili-yan-sehpa-seti/01.jpg"
+    ]
+  },
+  {
+    "id": "p226",
+    "sku": "QN-Z013",
+    "slug": "ravia-zigon-sehpa-seti",
+    "name": "Ravia Zigon Sehpa Seti",
+    "category": "Zigon sehpalar",
+    "categorySlug": "zigon-sehpa",
+    "price": 1150000,
+    "previousPrice": 1425000,
+    "images": [
+      "/images/catalog-cutouts/ravia-zigon-sehpa-seti/01.png",
+      "/images/catalog-cutouts/ravia-zigon-sehpa-seti/02.png",
+      "/images/catalog-cutouts/ravia-zigon-sehpa-seti/03.png"
+    ],
+    "description": "Ravia Zigon Sehpa Seti. Salonunda farklı noktalara eşlik eden bir sehpa seti. Kahve ve servis alanlarını, evindeki düzene göre birlikte planla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 100,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/ravia-zigon-sehpa-seti/01.jpg",
+      "/images/catalog/ravia-zigon-sehpa-seti/02.jpg",
+      "/images/catalog/ravia-zigon-sehpa-seti/03.jpg"
+    ]
+  },
+  {
+    "id": "p227",
+    "sku": "QN-Z017",
+    "slug": "revalio-zigon-sehpa-seti",
+    "name": "Revalio Zigon Sehpa Seti",
+    "category": "Zigon sehpalar",
+    "categorySlug": "zigon-sehpa",
+    "price": 1450000,
+    "previousPrice": 1775000,
+    "images": [
+      "/images/catalog-cutouts/revalio-zigon-sehpa-seti/01.png"
+    ],
+    "description": "Revalio Zigon Sehpa Seti. Günlük kullanım ve sunum için bir arada düşünülen parçalar. Oturma alanını, ihtiyaç duyduğun noktalarda kullanabileceğin bir setle tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 100,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/revalio-zigon-sehpa-seti/01.jpg"
+    ]
+  },
+  {
+    "id": "p228",
+    "sku": "QN-Z314",
+    "slug": "mevian-zigon-sehpa-seti",
+    "name": "Mevian Zigon Sehpa Seti",
+    "category": "Zigon sehpalar",
+    "categorySlug": "zigon-sehpa",
+    "price": 1475000,
+    "previousPrice": 1750000,
+    "images": [
+      "/images/catalog-cutouts/mevian-zigon-sehpa-seti/01.png"
+    ],
+    "description": "Mevian Zigon Sehpa Seti. Sehpa setiyle oturma alanında birden fazla kullanım noktası oluşturabilirsin. Günlük yerleşimden misafir ağırlamaya, parçaları ihtiyacına göre değerlendir. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 100,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/mevian-zigon-sehpa-seti/01.jpg"
+    ]
+  },
+  {
+    "id": "p229",
+    "sku": "QN-Z316",
+    "slug": "alviro-zigon-sehpa-seti",
+    "name": "Alviro Zigon Sehpa Seti",
+    "category": "Zigon sehpalar",
+    "categorySlug": "zigon-sehpa",
+    "price": 1150000,
+    "previousPrice": 1425000,
+    "images": [
+      "/images/catalog-cutouts/alviro-zigon-sehpa-seti/01.png"
+    ],
+    "description": "Alviro Zigon Sehpa Seti. Salonunda farklı noktalara eşlik eden bir sehpa seti. Kahve ve servis alanlarını, evindeki düzene göre birlikte planla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 100,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": true,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/alviro-zigon-sehpa-seti/01.jpg"
+    ]
+  },
+  {
+    "id": "p230",
+    "sku": "QN-B011",
+    "slug": "nevio-ikili-yan-sehpa-seti",
+    "name": "Nevio İkili Yan Sehpa Seti",
+    "category": "Yan sehpalar",
+    "categorySlug": "yan-sehpa",
+    "price": 1675000,
+    "previousPrice": 1925000,
+    "images": [
+      "/images/catalog-cutouts/nevio-ikili-yan-sehpa-seti/01.png",
+      "/images/catalog-cutouts/nevio-ikili-yan-sehpa-seti/02.png",
+      "/images/catalog-cutouts/nevio-ikili-yan-sehpa-seti/03.png"
+    ],
+    "description": "Nevio İkili Yan Sehpa Seti. Kahve molalarında ve okuma köşesinde elinin altında bir alan sunar. Evindeki yerleşimi, kendi ihtiyaçlarına göre tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/nevio-ikili-yan-sehpa-seti/01.jpg",
+      "/images/catalog/nevio-ikili-yan-sehpa-seti/02.jpg",
+      "/images/catalog/nevio-ikili-yan-sehpa-seti/03.jpg"
+    ]
+  },
+  {
+    "id": "p231",
+    "sku": "QN-Z320",
+    "slug": "berivo-zigon-sehpa-seti",
+    "name": "Berivo Zigon Sehpa Seti",
+    "category": "Zigon sehpalar",
+    "categorySlug": "zigon-sehpa",
+    "price": 1300000,
+    "previousPrice": 1700000,
+    "images": [
+      "/images/catalog-cutouts/berivo-zigon-sehpa-seti/01.png",
+      "/images/catalog-cutouts/berivo-zigon-sehpa-seti/02.png"
+    ],
+    "description": "Berivo Zigon Sehpa Seti. Sehpa setiyle oturma alanında birden fazla kullanım noktası oluşturabilirsin. Günlük yerleşimden misafir ağırlamaya, parçaları ihtiyacına göre değerlendir. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 100,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/berivo-zigon-sehpa-seti/01.jpg",
+      "/images/catalog/berivo-zigon-sehpa-seti/02.jpg"
+    ]
+  },
+  {
+    "id": "p232",
+    "sku": "QN-T016",
+    "slug": "serivo-tv-sehpasi",
+    "name": "Serivo TV Sehpası",
+    "category": "TV sehpaları",
+    "categorySlug": "tv-sehpasi",
+    "price": 4550000,
+    "previousPrice": 5100000,
+    "images": [
+      "/images/catalog-cutouts/serivo-tv-sehpasi/01.png",
+      "/images/catalog-cutouts/serivo-tv-sehpasi/02.png",
+      "/images/catalog-cutouts/serivo-tv-sehpasi/03.png",
+      "/images/catalog-cutouts/serivo-tv-sehpasi/04.png"
+    ],
+    "description": "Serivo TV Sehpası. Televizyon çevresindeki yerleşimi tamamlayan bir tasarım. Ekran alanını, odanın diğer parçalarıyla birlikte planlamak için değerlendirebilirsin. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 100,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": true,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/serivo-tv-sehpasi/01.jpeg",
+      "/images/catalog/serivo-tv-sehpasi/02.jpeg",
+      "/images/catalog/serivo-tv-sehpasi/03.jpeg",
+      "/images/catalog/serivo-tv-sehpasi/04.jpeg"
+    ]
+  },
+  {
+    "id": "p233",
+    "sku": "QN-T012",
+    "slug": "alvero-tv-sehpasi",
+    "name": "Alvero TV Sehpası",
+    "category": "TV sehpaları",
+    "categorySlug": "tv-sehpasi",
+    "price": 4150000,
+    "previousPrice": 4850000,
+    "images": [
+      "/images/catalog-cutouts/alvero-tv-sehpasi/01.png",
+      "/images/catalog-cutouts/alvero-tv-sehpasi/02.png"
+    ],
+    "description": "Alvero TV Sehpası. Ekran köşesine kendi düzenini kurabileceğin bir zemin ekler. Televizyon ve çevresindeki objeleri, alanının ölçülerine göre birlikte değerlendir. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 100,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/alvero-tv-sehpasi/01.png",
+      "/images/catalog/alvero-tv-sehpasi/02.jpeg"
+    ]
+  },
+  {
+    "id": "p234",
+    "sku": "QN-T158",
+    "slug": "solvero-tv-sehpasi",
+    "name": "Solvero TV Sehpası",
+    "category": "TV sehpaları",
+    "categorySlug": "tv-sehpasi",
+    "price": 4550000,
+    "previousPrice": 5100000,
+    "images": [
+      "/images/catalog-cutouts/solvero-tv-sehpasi/01.png",
+      "/images/catalog-cutouts/solvero-tv-sehpasi/02.png",
+      "/images/catalog-cutouts/solvero-tv-sehpasi/03.png",
+      "/images/catalog-cutouts/solvero-tv-sehpasi/04.png"
+    ],
+    "description": "Solvero TV Sehpası. Televizyon çevresindeki yerleşimi tamamlayan bir tasarım. Ekran alanını, odanın diğer parçalarıyla birlikte planlamak için değerlendirebilirsin. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/solvero-tv-sehpasi/01.jpeg",
+      "/images/catalog/solvero-tv-sehpasi/02.jpeg",
+      "/images/catalog/solvero-tv-sehpasi/03.jpeg",
+      "/images/catalog/solvero-tv-sehpasi/04.jpeg"
+    ]
+  },
+  {
+    "id": "p235",
+    "sku": "QN-Z339",
+    "slug": "tolvia-zigon-sehpa-seti",
+    "name": "Tolvia Zigon Sehpa Seti",
+    "category": "Zigon sehpalar",
+    "categorySlug": "zigon-sehpa",
+    "price": 1450000,
+    "previousPrice": 1750000,
+    "images": [
+      "/images/catalog-cutouts/tolvia-zigon-sehpa-seti/01.png"
+    ],
+    "description": "Tolvia Zigon Sehpa Seti. Salonunda farklı noktalara eşlik eden bir sehpa seti. Kahve ve servis alanlarını, evindeki düzene göre birlikte planla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 100,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/tolvia-zigon-sehpa-seti/01.jpeg"
+    ]
+  },
+  {
+    "id": "p236",
+    "sku": "QN-Y020",
+    "slug": "iveris-yan-sehpa",
+    "name": "Iveris Yan Sehpa",
+    "category": "Yan sehpalar",
+    "categorySlug": "yan-sehpa",
+    "price": 850000,
+    "previousPrice": 1100000,
+    "images": [
+      "/images/catalog-cutouts/iveris-yan-sehpa/01.png"
+    ],
+    "description": "Iveris Yan Sehpa. Kahve molalarında ve okuma köşesinde elinin altında bir alan sunar. Evindeki yerleşimi, kendi ihtiyaçlarına göre tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 100,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/iveris-yan-sehpa/01.jpg"
+    ]
+  },
+  {
+    "id": "p237",
+    "sku": "QN-Z106",
+    "slug": "orelio-zigon-sehpa-seti",
+    "name": "Orelio Zigon Sehpa Seti",
+    "category": "Zigon sehpalar",
+    "categorySlug": "zigon-sehpa",
+    "price": 1475000,
+    "previousPrice": 1750000,
+    "images": [
+      "/images/catalog-cutouts/orelio-zigon-sehpa-seti/01.png"
+    ],
+    "description": "Orelio Zigon Sehpa Seti. Sehpa setiyle oturma alanında birden fazla kullanım noktası oluşturabilirsin. Günlük yerleşimden misafir ağırlamaya, parçaları ihtiyacına göre değerlendir. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/orelio-zigon-sehpa-seti/01.jpg"
+    ]
+  },
+  {
+    "id": "p238",
+    "sku": "QN-C042",
+    "slug": "cevira-orta-sehpa",
+    "name": "Cevira Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 4850000,
+    "previousPrice": 5450000,
+    "images": [
+      "/images/catalog-cutouts/cevira-orta-sehpa/01.png"
+    ],
+    "description": "Cevira Orta Sehpa. Oturma alanını tamamlamak ve sevdiğin detayları bir arada tutmak için bir seçenek. Salonuna, senin kullanım alışkanlıklarınla anlam kazanacak bir köşe ekle. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 150,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/cevira-orta-sehpa/01.jpeg"
+    ]
+  },
+  {
+    "id": "p239",
+    "sku": "QN-C125A",
+    "slug": "torvia-orta-sehpa",
+    "name": "Torvia Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 4650000,
+    "previousPrice": 5250000,
+    "images": [
+      "/images/catalog-cutouts/torvia-orta-sehpa/01.png"
+    ],
+    "description": "Torvia Orta Sehpa. Kahveni, okuduğun kitabı ve dekoratif parçalarını bir araya getirebileceğin bir merkez oluşturur. Salon düzenini kişisel seçimlerinle tamamla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 100,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/torvia-orta-sehpa/01.jpeg"
+    ]
+  },
+  {
+    "id": "p240",
+    "sku": "QN-D014",
+    "slug": "selvia-dresuar",
+    "name": "Selvia Dresuar",
+    "category": "Dresuarlar",
+    "categorySlug": "dresuar",
+    "price": 2750000,
+    "previousPrice": 3250000,
+    "images": [
+      "/images/catalog-cutouts/selvia-dresuar/01-clean.png"
+    ],
+    "description": "Selvia Dresuar. Antrede veya yaşam alanında dekoratif objelerin için bir odak noktası oluşturur. Bir ayna, aydınlatma ya da sevdiğin aksesuarlarla kendi düzenini kur. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 50,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/selvia-dresuar/01.jpeg"
+    ]
+  },
+  {
+    "id": "p241",
+    "sku": "QN-S001",
+    "slug": "tavira-servis-arabasi",
+    "name": "Tavira Servis Arabası",
+    "category": "Servis arabaları",
+    "categorySlug": "servis-arabasi",
+    "price": 1575000,
+    "previousPrice": 2100000,
+    "images": [
+      "/images/catalog-cutouts/tavira-servis-arabasi/01.png"
+    ],
+    "description": "Tavira Servis Arabası. İçecek ve sunum parçalarını bir arada düzenlemek için bir seçenek. Kahve köşesinden misafir ağırlamaya, kullanımını kendi ihtiyaçlarına göre planla. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 50,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": true,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/tavira-servis-arabasi/01.jpeg"
+    ]
+  },
+  {
+    "id": "p242",
+    "sku": "QN-C268",
+    "slug": "taveon-orta-sehpa",
+    "name": "Taveon Orta Sehpa",
+    "category": "Orta sehpalar",
+    "categorySlug": "orta-sehpa",
+    "price": 2975000,
+    "previousPrice": 3550000,
+    "images": [
+      "/images/catalog-cutouts/taveon-orta-sehpa/01.png",
+      "/images/catalog-cutouts/taveon-orta-sehpa/02.png",
+      "/images/catalog-cutouts/taveon-orta-sehpa/03.png",
+      "/images/catalog-cutouts/taveon-orta-sehpa/04.png"
+    ],
+    "description": "Taveon Orta Sehpa. Oturma alanını tamamlamak ve sevdiğin detayları bir arada tutmak için bir seçenek. Salonuna, senin kullanım alışkanlıklarınla anlam kazanacak bir köşe ekle. Siparişe özel üretimle hazırlanır.",
+    "material": "Malzeme ayrıntıları için bizimle iletişime geçin.",
+    "dimensions": "Ölçü bilgisi için bizimle iletişime geçin.",
+    "assembly": "Kurulum ayrıntıları için ürün bilgisi talep edebilirsiniz.",
+    "specifications": [],
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Standart model",
+        "stock": 100,
+        "leadDays": 14,
+        "leadDaysMin": 7,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": true,
+    "active": true,
+    "badge": "Özel üretim",
+    "catalogImported": true,
+    "originalImages": [
+      "/images/catalog/taveon-orta-sehpa/01.jpeg",
+      "/images/catalog/taveon-orta-sehpa/02.jpeg",
+      "/images/catalog/taveon-orta-sehpa/03.jpeg",
+      "/images/catalog/taveon-orta-sehpa/04.jpeg"
+    ]
+  }
+]
