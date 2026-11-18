@@ -48,8 +48,10 @@ for (const name of ["collection-sidebar", "store-page-transition", "product-card
 for (const name of ["tsconfig.json", "next-env.d.ts", "postcss.config.mjs", "package-lock.json"]) await copy(name);
 await copy("preview/store.ts", "src/lib/store.ts");
 await copy("preview/product-query.tsx", "src/components/product-query.tsx");
+await copy("preview/store-provider.tsx", "src/components/online-store-provider.tsx");
+await copy("preview/check-output.mjs", "scripts/check-output.mjs");
 const packageJson = JSON.parse(await read("package.json"));
-packageJson.scripts = { dev: "next dev --hostname 127.0.0.1 --port 3200", build: "next build", typecheck: "tsc --noEmit" };
+packageJson.scripts = { dev: "next dev --hostname 127.0.0.1 --port 3200", build: "next build", postbuild: "node scripts/check-output.mjs", typecheck: "tsc --noEmit" };
 await write("package.json", JSON.stringify(packageJson, null, 2) + "\n");
 await write(".gitignore", "node_modules/\n.next/\nout/\n.local/\n.env*\n*.tsbuildinfo\n.sites-runtime/\n");
 await write("next.config.mjs", 'export default { output: "export", trailingSlash: true, images: { unoptimized: true }, poweredByHeader: false };\n');
@@ -59,6 +61,13 @@ let layout = await read("src/app/layout.tsx");
 layout = replaceOnce(layout, /new URL\("http:\/\/127\.0\.0\.1:3100"\)/g, `new URL(${JSON.stringify(target.url)})`, "metadata origin");
 layout = replaceOnce(layout, /export const dynamic = "force-dynamic";\s*/g, "", "dynamic root");
 await write("src/app/layout.tsx", layout);
+
+let shopLayout = await read("src/app/(store)/layout.tsx");
+shopLayout = replaceOnce(shopLayout, /import \{ StoreProvider \} from "@\/components\/store-provider";/g, 'import { OnlineStoreProvider } from "@/components/online-store-provider";', "shared catalogue provider");
+shopLayout = replaceOnce(shopLayout, /  const \[products, settings\] = await Promise\.all\(\[[\s\S]*?  \]\);/g, "  const settings = await getPublicSettings();", "shared catalogue data");
+shopLayout = replaceOnce(shopLayout, /<StoreProvider products=\{products\} shipping=\{settings.shipping\}>/g, "<OnlineStoreProvider shipping={settings.shipping}>", "shared provider start");
+shopLayout = replaceOnce(shopLayout, /<\/StoreProvider>/g, "</OnlineStoreProvider>", "shared provider end");
+await write("src/app/(store)/layout.tsx", shopLayout);
 
 let collection = await read("src/app/(store)/koleksiyon/page.tsx");
 collection = replaceOnce(collection, /import \{ getProducts \} from "@\/lib\/store";/g, 'import catalogData from "@/data/catalog.json";\nimport { useSearchParams } from "next/navigation";', "collection data");
