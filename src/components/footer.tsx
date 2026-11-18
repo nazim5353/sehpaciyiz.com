@@ -20,7 +20,7 @@ export function Benefits() {
         {
           icon: Package,
           title: "Siparişe özel üretim",
-          text: "7–14 iş günü içerisinde teslim",
+          text: "Hazırlık süresi ürün detayında",
         },
         {
           icon: CreditCard,
@@ -56,11 +56,14 @@ export function Footer({
   phone: string;
 }) {
   return (
-    <footer className="site-footer">
+    <footer className="site-footer footer-formal">
+      <div className="container footer-opening">
+        <h2>Her açıdan özgün.</h2>
+        <Link href="/koleksiyon">Koleksiyonu incele</Link>
+      </div>
       <div className="container footer-grid">
         <div className="footer-brand">
-          <Logo name={name} inverted />
-          <span className="footer-tagline">Her açıdan özgün.</span>
+          <Logo name={name} />
           <p>{about}</p>
           <Link className="social-link" href="/bilgi/iletisim">
             <Armchair size={22} /> Koleksiyonu birlikte değerlendirelim{" "}

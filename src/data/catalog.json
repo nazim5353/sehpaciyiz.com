@@ -4970,5 +4970,3365 @@
       "/images/catalog/taveon-orta-sehpa/03.jpeg",
       "/images/catalog/taveon-orta-sehpa/04.jpeg"
     ]
+  },
+  {
+    "id": "poy-pyp-0830",
+    "sku": "PYP-0830",
+    "slug": "linda-puf-pyp-0830",
+    "name": "Linda Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 1100000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0830/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0830/01.jpg"
+    ],
+    "description": "Linda Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 48 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "LİNDA"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0830"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "1,6 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0831",
+    "sku": "PYP-0831",
+    "slug": "sakura-puf-pyp-0831",
+    "name": "Sakura Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 965000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0831/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0831/01.jpg"
+    ],
+    "description": "Sakura Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 38 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "SAKURA"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0831"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "0,8 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0832",
+    "sku": "PYP-0832",
+    "slug": "rosa-puf-pyp-0832",
+    "name": "Rosa Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 1035000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0832/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0832/01.jpg"
+    ],
+    "description": "Rosa Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 40 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "ROSA"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0832"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "1 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0833",
+    "sku": "PYP-0833",
+    "slug": "maya-puf-pyp-0833",
+    "name": "Maya Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 1035000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0833/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0833/01.jpg"
+    ],
+    "description": "Maya Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 34 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "MAYA"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0833"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "1 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0834",
+    "sku": "PYP-0834",
+    "slug": "linda-puf-pyp-0834",
+    "name": "Linda Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 965000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0834/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0834/01.jpg"
+    ],
+    "description": "Linda Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 48 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "LİNDA"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0834"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "1,6 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0835",
+    "sku": "PYP-0835",
+    "slug": "bonbon-puf-pyp-0835",
+    "name": "Bonbon Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 825000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0835/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0835/01.jpg"
+    ],
+    "description": "Bonbon Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 38 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "BONBON"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0835"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "1 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0836",
+    "sku": "PYP-0836",
+    "slug": "etipuf-puf-pyp-0836",
+    "name": "Etipuf Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 825000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0836/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0836/01.jpg"
+    ],
+    "description": "Etipuf Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 40 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "ETİPUF"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0836"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "0,5 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0837",
+    "sku": "PYP-0837",
+    "slug": "lupa-puf-pyp-0837",
+    "name": "Lupa Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 785000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0837/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0837/01.jpg"
+    ],
+    "description": "Lupa Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "40 × 40 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "LUPA"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0837"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "0,8 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0838",
+    "sku": "PYP-0838",
+    "slug": "lilium-puf-pyp-0838",
+    "name": "Lilium Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 785000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0838/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0838/01.jpg"
+    ],
+    "description": "Lilium Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 38 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "LİLİUM"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0838"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "1 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0839",
+    "sku": "PYP-0839",
+    "slug": "sakura-puf-pyp-0839",
+    "name": "Sakura Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 825000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0839/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0839/01.jpg"
+    ],
+    "description": "Sakura Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 38 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "SAKURA"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0839"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "0,8 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0840",
+    "sku": "PYP-0840",
+    "slug": "bonita-puf-pyp-0840",
+    "name": "Bonita Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 965000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0840/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0840/01.jpg"
+    ],
+    "description": "Bonita Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "60 × 40 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "BONİTA"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0840"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "1 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0841",
+    "sku": "PYP-0841",
+    "slug": "maypuf-puf-pyp-0841",
+    "name": "Maypuf Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 825000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0841/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0841/01.jpg"
+    ],
+    "description": "Maypuf Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "40 × 40 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "MAYPUF"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0841"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "1 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0842",
+    "sku": "PYP-0842",
+    "slug": "prada-puf-pyp-0842",
+    "name": "Prada Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 965000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0842/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0842/01.jpg"
+    ],
+    "description": "Prada Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "60 × 40 × 43 cm (ölçü teyidi gerekir)",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "PRADA"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0842"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "1 m"
+      },
+      {
+        "label": "Ölçü teyidi",
+        "value": "Bu modelin ölçüleri sipariş öncesinde teyit edilir."
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0843",
+    "sku": "PYP-0843",
+    "slug": "yonca-puf-pyp-0843",
+    "name": "Yonca Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 965000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0843/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0843/01.jpg"
+    ],
+    "description": "Yonca Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 45 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "YONCA"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0843"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "1,2 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0844",
+    "sku": "PYP-0844",
+    "slug": "jolly-puf-pyp-0844",
+    "name": "Jolly Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 825000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0844/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0844/01.jpg"
+    ],
+    "description": "Jolly Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 38 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "JOLLY"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0844"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "0,8 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0845",
+    "sku": "PYP-0845",
+    "slug": "star-tornali-puf-pyp-0845",
+    "name": "Star (Tornalı) Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 1650000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0845/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0845/01.jpg"
+    ],
+    "description": "Star (Tornalı) Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 55 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "STAR (TORNALI)"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0845"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "1 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0846",
+    "sku": "PYP-0846",
+    "slug": "felix-puf-pyp-0846",
+    "name": "Felix Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 1035000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0846/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0846/01.jpg"
+    ],
+    "description": "Felix Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 38 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "FELİX"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0846"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "1 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0847",
+    "sku": "PYP-0847",
+    "slug": "canta-puf-pyp-0847",
+    "name": "Çanta Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 965000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0847/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0847/01.jpg"
+    ],
+    "description": "Çanta Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "42 × 32 × 35 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "ÇANTA"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0847"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "0,8 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0848",
+    "sku": "PYP-0848",
+    "slug": "bodrum-puf-pyp-0848",
+    "name": "Bodrum Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 1240000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0848/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0848/01.jpg"
+    ],
+    "description": "Bodrum Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 40 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "BODRUM"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0848"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "1,8 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0849",
+    "sku": "PYP-0849",
+    "slug": "two-kare-puf-pyp-0849",
+    "name": "Two (Kare) Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 1035000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0849/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0849/01.jpg"
+    ],
+    "description": "Two (Kare) Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "40 × 40 × 43 cm (ölçü teyidi gerekir)",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "TWO (KARE)"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0849"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "1 m"
+      },
+      {
+        "label": "Ölçü teyidi",
+        "value": "Bu modelin ölçüleri sipariş öncesinde teyit edilir."
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0850",
+    "sku": "PYP-0850",
+    "slug": "two-yuvarlak-puf-pyp-0850",
+    "name": "Two (Yuvarlak) Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 1035000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0850/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0850/01.jpg"
+    ],
+    "description": "Two (Yuvarlak) Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 40 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "TWO (YUVARLAK)"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0850"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "1 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0851",
+    "sku": "PYP-0851",
+    "slug": "freesia-puf-pyp-0851",
+    "name": "Freesia Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 785000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0851/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0851/01.jpg"
+    ],
+    "description": "Freesia Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 40 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "FREESİA"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0851"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "0,8 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0852",
+    "sku": "PYP-0852",
+    "slug": "serra-puf-pyp-0852",
+    "name": "Serra Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 785000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0852/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0852/01.jpg"
+    ],
+    "description": "Serra Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 40 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "SERRA"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0852"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "0,8 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0853",
+    "sku": "PYP-0853",
+    "slug": "papatya-puf-pyp-0853",
+    "name": "Papatya Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 825000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0853/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0853/01.jpg"
+    ],
+    "description": "Papatya Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 40 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "PAPATYA"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0853"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "1 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0854",
+    "sku": "PYP-0854",
+    "slug": "mozaik-puf-pyp-0854",
+    "name": "Mozaik Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 785000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0854/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0854/01.jpg"
+    ],
+    "description": "Mozaik Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "40 × 40 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "MOZAİK"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0854"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "1 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0855",
+    "sku": "PYP-0855",
+    "slug": "alba-puf-pyp-0855",
+    "name": "Alba Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 785000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0855/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0855/01.jpg"
+    ],
+    "description": "Alba Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 40 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "ALBA"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0855"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "0,8 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0856",
+    "sku": "PYP-0856",
+    "slug": "melis-puf-pyp-0856",
+    "name": "Melis Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 690000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0856/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0856/01.jpg"
+    ],
+    "description": "Melis Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 40 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "MELİS"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0856"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "0,8 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0857-1",
+    "sku": "PYP-0857-1",
+    "slug": "sandikli-puf-pyp-0857-1",
+    "name": "Sandıklı Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 1650000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0857-1/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0857-1/01.jpg"
+    ],
+    "description": "Sandıklı Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "60 × 40 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "SANDIKLI"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0857-1"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "2 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0858",
+    "sku": "PYP-0858",
+    "slug": "kanguru-puf-pyp-0858",
+    "name": "Kanguru Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 1035000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0858/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0858/01.jpg"
+    ],
+    "description": "Kanguru Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 40 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "KANGURU"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0858"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "1 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0859",
+    "sku": "PYP-0859",
+    "slug": "cezve-puf-pyp-0859",
+    "name": "Cezve Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 1035000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0859/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0859/01.jpg"
+    ],
+    "description": "Cezve Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 40 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "CEZVE"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0859"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "1 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0860",
+    "sku": "PYP-0860",
+    "slug": "line-puf-pyp-0860",
+    "name": "Line Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 1035000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0860/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0860/01.jpg"
+    ],
+    "description": "Line Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 40 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "LİNE"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0860"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "1,5 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0861",
+    "sku": "PYP-0861",
+    "slug": "piyon-puf-pyp-0861",
+    "name": "Piyon Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 1170000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0861/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0861/01.jpg"
+    ],
+    "description": "Piyon Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 43 × 45 cm (ölçü teyidi gerekir)",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "PİYON"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0861"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "1,5 m"
+      },
+      {
+        "label": "Ölçü teyidi",
+        "value": "Bu modelin ölçüleri sipariş öncesinde teyit edilir."
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0862",
+    "sku": "PYP-0862",
+    "slug": "mira-puf-pyp-0862",
+    "name": "Mira Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 1515000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0862/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0862/01.jpg"
+    ],
+    "description": "Mira Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 40 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "MİRA"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0862"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "0,8 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0863",
+    "sku": "PYP-0863",
+    "slug": "stella-puf-pyp-0863",
+    "name": "Stella Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 1240000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0863/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0863/01.jpg"
+    ],
+    "description": "Stella Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 40 × 43 cm (ölçü teyidi gerekir)",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "STELLA"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0863"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "1,5 m"
+      },
+      {
+        "label": "Ölçü teyidi",
+        "value": "Bu modelin ölçüleri sipariş öncesinde teyit edilir."
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0864",
+    "sku": "PYP-0864",
+    "slug": "diamond-puf-pyp-0864",
+    "name": "Diamond Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 965000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0864/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0864/01.jpg"
+    ],
+    "description": "Diamond Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "40 × 40 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "DİAMOND"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0864"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "1 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0865",
+    "sku": "PYP-0865",
+    "slug": "texas-puf-pyp-0865",
+    "name": "Texas Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 1445000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0865/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0865/01.jpg"
+    ],
+    "description": "Texas Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 38 × 28 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "TEXAS"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0865"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "0,5 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0866",
+    "sku": "PYP-0866",
+    "slug": "scarlet-puf-pyp-0866",
+    "name": "Scarlet Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 1515000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0866/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0866/01.jpg"
+    ],
+    "description": "Scarlet Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 38 × 40 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "SCARLET"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0866"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "1 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0867-1",
+    "sku": "PYP-0867-1",
+    "slug": "standart-puf-bazali-pyp-0867-1",
+    "name": "Standart Puf ( Bazalı )",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 825000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0867-1/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0867-1/01.jpg"
+    ],
+    "description": "Standart Puf ( Bazalı ). Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 38 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "STANDART PUF ( BAZALI )"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0867-1"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "0,8 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0635",
+    "sku": "PYP-0635",
+    "slug": "erciyes-puf-pyp-0635",
+    "name": "Erciyes Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 1240000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0635/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0635/01.jpg"
+    ],
+    "description": "Erciyes Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 60 × 40 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "ERCİYES"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0635"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "2 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0636",
+    "sku": "PYP-0636",
+    "slug": "amazon-puf-pyp-0636",
+    "name": "Amazon Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 1240000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0636/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0636/01.jpg"
+    ],
+    "description": "Amazon Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 60 × 40 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "AMAZON"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0636"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "2 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0637",
+    "sku": "PYP-0637",
+    "slug": "prime-puf-pyp-0637",
+    "name": "Prime Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 2065000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0637/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0637/01.jpg"
+    ],
+    "description": "Prime Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 60 × 40 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "PRİME"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0637"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "2 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0638",
+    "sku": "PYP-0638",
+    "slug": "bukle-puf-pyp-0638",
+    "name": "Bukle Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 1240000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0638/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0638/01.jpg"
+    ],
+    "description": "Bukle Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 60 × 40 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "BUKLE"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0638"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "2 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0639",
+    "sku": "PYP-0639",
+    "slug": "noya-puf-pyp-0639",
+    "name": "Noya Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 1240000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0639/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0639/01.jpg"
+    ],
+    "description": "Noya Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 60 × 40 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "NOYA"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0639"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "2 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0640",
+    "sku": "PYP-0640",
+    "slug": "cappy-puf-pyp-0640",
+    "name": "Cappy Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 1925000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0640/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0640/01.jpg"
+    ],
+    "description": "Cappy Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 45 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "CAPPY"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0640"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "2 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0641-1",
+    "sku": "PYP-0641-1",
+    "slug": "hera-donerli-puf-pyp-0641-1",
+    "name": "Hera (Dönerli) Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 1790000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0641-1/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0641-1/01.jpg"
+    ],
+    "description": "Hera (Dönerli) Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 52 × 43 × 63 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "HERA (DÖNERLİ)"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0641-1"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "2 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0642",
+    "sku": "PYP-0642",
+    "slug": "nova-puf-pyp-0642",
+    "name": "Nova Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 1240000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0642/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0642/01.jpg"
+    ],
+    "description": "Nova Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "60 × 40 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "NOVA"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0642"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "1,8 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0643",
+    "sku": "PYP-0643",
+    "slug": "u-puf-pyp-0643",
+    "name": "U Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 1650000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0643/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0643/01.jpg"
+    ],
+    "description": "U Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "60 × 40 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "U PUF"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0643"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "1,8 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0644",
+    "sku": "PYP-0644",
+    "slug": "riva-puf-pyp-0644",
+    "name": "Riva Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 1515000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0644/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0644/01.jpg"
+    ],
+    "description": "Riva Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "60 × 40 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "RİVA"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0644"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "1,4 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0645",
+    "sku": "PYP-0645",
+    "slug": "assos-puf-pyp-0645",
+    "name": "Assos Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 1515000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0645/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0645/01.jpg"
+    ],
+    "description": "Assos Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "60 × 40 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "ASSOS"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0645"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "1,4 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0646",
+    "sku": "PYP-0646",
+    "slug": "x-puf-pyp-0646",
+    "name": "X Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 2200000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0646/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0646/01.jpg"
+    ],
+    "description": "X Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "60 × 40 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "X PUF"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0646"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "2 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0647",
+    "sku": "PYP-0647",
+    "slug": "etnik-puf-pyp-0647",
+    "name": "Etnik Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 1035000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0647/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0647/01.jpg"
+    ],
+    "description": "Etnik Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "34 × 40 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "ETNİK"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0647"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "0,8 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0648-1",
+    "sku": "PYP-0648-1",
+    "slug": "lotus-puf-pyp-0648-1",
+    "name": "Lotus Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 2135000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0648-1/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0648-1/01.jpg"
+    ],
+    "description": "Lotus Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 55 × 43 × 65 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "LOTUS"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0648-1"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "2,5 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0649",
+    "sku": "PYP-0649",
+    "slug": "luna-puf-pyp-0649",
+    "name": "Luna Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 2475000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0649/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0649/01.jpg"
+    ],
+    "description": "Luna Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "60 × 60 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "LUNA"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0649"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "2,5 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0650",
+    "sku": "PYP-0650",
+    "slug": "odessa-puf-pyp-0650",
+    "name": "Odessa Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 1240000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0650/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0650/01.jpg"
+    ],
+    "description": "Odessa Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 60 × 40 cm (ölçü teyidi gerekir)",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "ODESSA"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0650"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "2 m"
+      },
+      {
+        "label": "Ölçü teyidi",
+        "value": "Bu modelin ölçüleri sipariş öncesinde teyit edilir."
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0651",
+    "sku": "PYP-0651",
+    "slug": "verona-puf-pyp-0651",
+    "name": "Verona Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 1100000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0651/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0651/01.jpg"
+    ],
+    "description": "Verona Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 60 × 40 cm (ölçü teyidi gerekir)",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "VERONA"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0651"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "2 m"
+      },
+      {
+        "label": "Ölçü teyidi",
+        "value": "Bu modelin ölçüleri sipariş öncesinde teyit edilir."
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0652",
+    "sku": "PYP-0652",
+    "slug": "arven-kapitone-puf-pyp-0652",
+    "name": "Arven (Kapitone) Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 2200000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0652/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0652/01.jpg"
+    ],
+    "description": "Arven (Kapitone) Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 60 × 45 cm (ölçü teyidi gerekir)",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "ARVEN (KAPİTONE)"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0652"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "2 m"
+      },
+      {
+        "label": "Ölçü teyidi",
+        "value": "Bu modelin ölçüleri sipariş öncesinde teyit edilir."
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0653-1",
+    "sku": "PYP-0653-1",
+    "slug": "sultan-puf-pyp-0653-1",
+    "name": "Sultan Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 2135000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0653-1/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0653-1/01.jpg"
+    ],
+    "description": "Sultan Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 55 × 43 × 68 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "SULTAN"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0653-1"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "2,5 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0654",
+    "sku": "PYP-0654",
+    "slug": "gondol-puf-pyp-0654",
+    "name": "Gondol Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 2750000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0654/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0654/01.jpg"
+    ],
+    "description": "Gondol Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "87 × 48 × 60 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "GONDOL"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0654"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "2 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0655",
+    "sku": "PYP-0655",
+    "slug": "d-puf-pyp-0655",
+    "name": "D Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 2475000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0655/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0655/01.jpg"
+    ],
+    "description": "D Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "60 × 40 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "D PUF"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0655"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "1,8 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0656",
+    "sku": "PYP-0656",
+    "slug": "serenay-puf-pyp-0656",
+    "name": "Serenay Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 1790000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0656/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0656/01.jpg"
+    ],
+    "description": "Serenay Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 55 × 45 × 68 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "SERENAY"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0656"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "2 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0657",
+    "sku": "PYP-0657",
+    "slug": "bicirik-puf-pyp-0657",
+    "name": "Bicirik Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 1375000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0657/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0657/01.jpg"
+    ],
+    "description": "Bicirik Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "Ø 42 × 45 × 68 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "BİCİRİK"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0657"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "1 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0658",
+    "sku": "PYP-0658",
+    "slug": "nostalji-puf-pyp-0658",
+    "name": "Nostalji Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 1240000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0658/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0658/01.jpg"
+    ],
+    "description": "Nostalji Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "60 × 40 × 43 cm (ölçü teyidi gerekir)",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "NOSTALJİ"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0658"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "1 m"
+      },
+      {
+        "label": "Ölçü teyidi",
+        "value": "Bu modelin ölçüleri sipariş öncesinde teyit edilir."
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0659",
+    "sku": "PYP-0659",
+    "slug": "x-puf-kapitone-pyp-0659",
+    "name": "X Puf ( Kapitone )",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 2475000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0659/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0659/01.jpg"
+    ],
+    "description": "X Puf ( Kapitone ). Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "60 × 40 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "X PUF ( KAPİTONE )"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0659"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "2,5 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
+  },
+  {
+    "id": "poy-pyp-0660",
+    "sku": "PYP-0660",
+    "slug": "venus-puf-pyp-0660",
+    "name": "Venüs Puf",
+    "category": "Puflar",
+    "categorySlug": "puf",
+    "price": 1790000,
+    "images": [
+      "/images/catalog-cutouts/poy-pyp-0660/01.png"
+    ],
+    "originalImages": [
+      "/images/catalog/poy-pyp-0660/01.jpg"
+    ],
+    "description": "Venüs Puf. Kumaş döşeme ve 32 DNS sünger. Siparişe özel hazırlanır.",
+    "material": "Kumaş döşeme, 32 DNS sünger. İskelet ve ayak malzemesi sipariş öncesinde teyit edilir.",
+    "dimensions": "65 × 45 × 43 cm",
+    "assembly": "Montaj ve teslim şekli sipariş öncesinde teyit edilir.",
+    "specifications": [
+      {
+        "label": "Model",
+        "value": "VENÜS"
+      },
+      {
+        "label": "Ürün kodu",
+        "value": "PYP-0660"
+      },
+      {
+        "label": "Sünger",
+        "value": "32 DNS"
+      },
+      {
+        "label": "Kumaş metrajı",
+        "value": "2 m"
+      }
+    ],
+    "colorNote": "Görseldeki kumaş ve desen esas alınır. Özel kumaş talepleri sipariş öncesinde teyit edilir.",
+    "variants": [
+      {
+        "id": "standart",
+        "name": "Görseldeki model",
+        "stock": 0,
+        "leadDays": 15,
+        "leadDaysMin": 15,
+        "madeToOrder": true,
+        "surcharge": 0
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "catalogImported": true
   }
 ]

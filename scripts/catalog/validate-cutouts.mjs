@@ -21,8 +21,8 @@ async function assertUsableAlpha(input, label) {
 }
 
 /** Refuse unprocessed originals or broken cutouts before changing the catalogue. */
-export async function validateProductCutouts(products, { root = defaultRoot, categories = [] } = {}) {
-  const records = JSON.parse(await fs.readFile(path.join(root, "src/data/catalog-cutouts.json"), "utf8"));
+export async function validateProductCutouts(products, { root = defaultRoot, categories = [], cutoutRecords } = {}) {
+  const records = cutoutRecords ?? JSON.parse(await fs.readFile(path.join(root, "src/data/catalog-cutouts.json"), "utf8"));
   const byLocal = new Map(records.map(record => [record.local, record]));
   const checked = new Set();
   for (const product of products) {

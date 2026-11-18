@@ -19,7 +19,7 @@ Kurulum betiği yeni rastgele oturum ve şifreleme anahtarları üretir. Mevcut 
 ## Devralınan durum
 
 - Next.js App Router, React ve TypeScript; paket sürümleri `package-lock.json` ile sabittir.
-- Vitrin, ürün detayları, koleksiyon filtreleri, arama, favoriler ve yerel sepet çalışır. Katalog: 133 ürün, 7 kategori, 194 dekupe galeri fotoğrafı.
+- Vitrin, ürün detayları, koleksiyon filtreleri, arama, favoriler ve yerel sepet çalışır. Katalog: 197 ürün, 8 kategori, 258 dekupe galeri fotoğrafı. Puf kaynağı ve fiyatlandırma: [PUF-IMPORT.md](PUF-IMPORT.md).
 - Kurumsal kimlik: onaylanan Form logo geometrisi, “Her açıdan özgün.” sloganı; güncel antrasit, kırık beyaz, sıcak taş ve şampanya paleti.
 - Renklerin kaynağı `src/data/brand-palette.json`, ortak marka metinleri `src/lib/brand.ts`, vitrin stilleri `src/app/(store)/form-brand.css` içindedir. Önceki renkleri anlatan tasarım belgeleri tarihsel notlardır.
 - Logo ana SVG dosyaları `assets/brand/form-master/` içindedir. `node scripts/prepare-form-assets.mjs` web logoları, ikonlar ve paylaşım görselini üretir; proje dışındaki dosyalara ihtiyaç duymaz.

@@ -7,18 +7,22 @@ import { createRequire } from "node:module";
 import { fileURLToPath } from "node:url";
 import sharp from "sharp";
 
-const root = fileURLToPath(new URL("../../", import.meta.url));
-const require = createRequire(import.meta.url);
-const ort = require(
-  path.join(root, ".local/cutout-tools/node_modules/onnxruntime-node"),
-);
+const projectRoot = fileURLToPath(new URL("../../", import.meta.url));
 const option = (name) => {
   const i = process.argv.indexOf(`--${name}`);
   return i < 0 ? undefined : process.argv[i + 1];
 };
+// Prepare a new supplier catalogue in isolation before any storefront import.
+const root = option("root") ? path.resolve(option("root")) : projectRoot;
+const require = createRequire(import.meta.url);
+const ort = require(
+  path.join(projectRoot, ".local/cutout-tools/node_modules/onnxruntime-node"),
+);
 const modelName = option("model") ?? "isnet-general-use";
 const provider = option("provider") ?? "cpu";
-const modelFile = path.join(root, `.local/cutout-models/${modelName}.onnx`);
+const focusSettings = option("focus-file") ? JSON.parse(await fs.readFile(path.resolve(option("focus-file")), "utf8")) : {};
+const focusByProduct = focusSettings.modelFocus ?? focusSettings;
+const modelFile = path.join(projectRoot, `.local/cutout-models/${modelName}.onnx`);
 const provenance = JSON.parse(
   await fs.readFile(
     path.join(root, "src/data/catalog-provenance.json"),
@@ -58,6 +62,7 @@ let session;
 const records = [];
 const started = Date.now();
 for (const [index, asset] of assets.entries()) {
+  const modelFocus = focusByProduct[owners.get(asset.local).id] ?? null;
   const originalFile = path.join(root, "public", asset.local);
   const destination = asset.local
     .replace("/images/catalog/", "/images/catalog-cutouts/")
@@ -69,7 +74,7 @@ for (const [index, asset] of assets.entries()) {
   );
   try {
     const cached = JSON.parse(await fs.readFile(jobFile, "utf8"));
-    if (cached.model === modelName && cached.sourceSha256 === asset.sha256) {
+    if (cached.model === modelName && cached.sourceSha256 === asset.sha256 && JSON.stringify(cached.modelFocus ?? null) === JSON.stringify(modelFocus)) {
       await fs.access(targetFile);
       records.push(cached);
       continue;
@@ -101,8 +106,9 @@ for (const [index, asset] of assets.entries()) {
     .toBuffer({ resolveWithObject: true });
   const size = 1024,
     area = size * size;
-  const pixels = await sharp(originalBytes)
-    .rotate()
+  let modelInput = sharp(originalBytes).rotate();
+  if (modelFocus) modelInput = modelInput.extract(modelFocus);
+  const pixels = await modelInput
     .removeAlpha()
     .toColourspace("srgb")
     .resize(size, size, { fit: "fill", kernel: "lanczos3" })
@@ -147,17 +153,21 @@ for (const [index, asset] of assets.entries()) {
     maskBytes[i] = Math.floor(
       (255 * (probabilities[i] - minimum)) / (maxProbability - minimum),
     );
-  const mask = await sharp(maskBytes, {
+  const focusedMask = await sharp(maskBytes, {
     raw: {
       width: prediction.dims.at(-1),
       height: prediction.dims.at(-2),
       channels: 1,
     },
   })
-    .resize(info.width, info.height, { kernel: "lanczos3", fit: "fill" })
+    .resize(modelFocus?.width ?? info.width, modelFocus?.height ?? info.height, { kernel: "lanczos3", fit: "fill" })
     .toColourspace("b-w")
     .raw()
     .toBuffer();
+  const mask = modelFocus ? Buffer.alloc(info.width * info.height) : focusedMask;
+  if (modelFocus) for (let y = 0; y < modelFocus.height; y++) {
+    focusedMask.copy(mask, (modelFocus.top + y) * info.width + modelFocus.left, y * modelFocus.width, (y + 1) * modelFocus.width);
+  }
   const rgba = Buffer.from(original);
   let transparent = 0,
     foreground = 0;
@@ -212,6 +222,7 @@ for (const [index, asset] of assets.entries()) {
     width: info.width,
     height: info.height,
     model: modelName,
+    ...(modelFocus ? { modelFocus } : {}),
     rgbPreserved: true,
     transparentFraction,
     foregroundFraction,
@@ -228,11 +239,19 @@ for (const [index, asset] of assets.entries()) {
     }),
   );
 }
-if (assets.length === provenance.assets.length)
+if (assets.length === provenance.assets.length) {
+  // A supplier-specific run must retain verified cutouts from other suppliers.
+  const manifestFile = path.join(root, "src/data/catalog-cutouts.json");
+  let existing = [];
+  try { existing = JSON.parse(await fs.readFile(manifestFile, "utf8")); }
+  catch (error) { if (error.code !== "ENOENT") throw error; }
+  const merged = new Map(existing.map(record => [record.local, record]));
+  for (const record of records) merged.set(record.local, record);
   await fs.writeFile(
-    path.join(root, "src/data/catalog-cutouts.json"),
-    JSON.stringify(records, null, 2) + "\n",
+    manifestFile,
+    JSON.stringify([...merged.values()], null, 2) + "\n",
   );
+}
 if (session) await session.release();
 console.log(
   JSON.stringify({

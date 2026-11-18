@@ -44,7 +44,7 @@ const validation = await validateProductCutouts(products, { root, categories });
 for (const name of ["src/app/(store)", "src/data", "public/brand", "public/design", "public/fonts", "public/images/catalog-cutouts", "public/images/categories"]) await copy(name);
 for (const name of ["layout.tsx", "globals.css", "icon.svg", "error.tsx", "not-found.tsx"]) await copy(`src/app/${name}`);
 for (const name of ["catalog.ts", "brand.ts", "settings.ts", "commerce.ts"]) await copy(`src/lib/${name}`);
-for (const name of ["collection-sidebar", "store-page-transition", "product-card", "product-detail", "home-products", "header", "footer", "storefront-motion", "store-provider"]) await copy(`src/components/${name}.tsx`);
+for (const name of ["collection-sidebar", "store-page-transition", "product-card", "product-detail", "home-products", "hero-showcase", "header", "footer", "storefront-motion", "store-provider"]) await copy(`src/components/${name}.tsx`);
 for (const name of ["tsconfig.json", "next-env.d.ts", "postcss.config.mjs", "package-lock.json"]) await copy(name);
 await copy("preview/store.ts", "src/lib/store.ts");
 await copy("preview/product-query.tsx", "src/components/product-query.tsx");

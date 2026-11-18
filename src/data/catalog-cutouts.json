@@ -5254,5 +5254,2495 @@
       255,
       255
     ]
+  },
+  {
+    "productId": "poy-pyp-0830",
+    "source": "/images/catalog/poy-pyp-0830/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0830/01.png",
+    "sourceSha256": "6fd61c245db8fd7dcafeb49855fde11ee613481bfd35b9dc4aa52d19b63423ca",
+    "sha256": "74ac77773e264adb7a3341ec5a98fb553cd7dcd75317caf2fce3cdb6e09c82f7",
+    "width": 427,
+    "height": 443,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.3363431151241535,
+    "foregroundFraction": 0.6550451731593722,
+    "foregroundBox": [
+      31,
+      31,
+      396,
+      412
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      435,
+      685,
+      800,
+      1066
+    ],
+    "sourceWidth": 1229,
+    "sourceHeight": 1229,
+    "sourceCrop": {
+      "left": 404,
+      "top": 654,
+      "width": 427,
+      "height": 443
+    }
+  },
+  {
+    "productId": "poy-pyp-0831",
+    "source": "/images/catalog/poy-pyp-0831/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0831/01.png",
+    "sourceSha256": "a9950a24ccef18b080d41fcb6423fc1d02d55fd9adf8b791b50ffefc771c55c5",
+    "sha256": "341075d5abf396d3aebd7222950ddc8a7a066560f94025d8190f0c837c9e10d4",
+    "width": 430,
+    "height": 500,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.4852232558139535,
+    "foregroundFraction": 0.5047627906976744,
+    "foregroundBox": [
+      35,
+      35,
+      395,
+      465
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      452,
+      356,
+      812,
+      786
+    ],
+    "sourceWidth": 1264,
+    "sourceHeight": 848,
+    "sourceCrop": {
+      "left": 417,
+      "top": 321,
+      "width": 430,
+      "height": 500
+    }
+  },
+  {
+    "productId": "poy-pyp-0832",
+    "source": "/images/catalog/poy-pyp-0832/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0832/01.png",
+    "sourceSha256": "a4e1a98b955d20543da11f23cb5ee3ef538290498e08809d57c4074bbbb7ba66",
+    "sha256": "8d195b15ba385959bc3d98197670262be427ae5339bfabccb59550b813655e51",
+    "width": 474,
+    "height": 530,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.35011543666905504,
+    "foregroundFraction": 0.6385956532123238,
+    "foregroundBox": [
+      37,
+      37,
+      437,
+      493
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      315,
+      159,
+      715,
+      615
+    ],
+    "sourceWidth": 1012,
+    "sourceHeight": 679,
+    "sourceCrop": {
+      "left": 278,
+      "top": 122,
+      "width": 474,
+      "height": 530
+    }
+  },
+  {
+    "productId": "poy-pyp-0833",
+    "source": "/images/catalog/poy-pyp-0833/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0833/01.png",
+    "sourceSha256": "de8a9f6d6d8edf7f0bd6f3e955b22d72269c9bd39983c448c96de0d51891e964",
+    "sha256": "d3a323bb9a64ab776ddfbea756c70d589feb04596c7f417a1f2eae1a7dd0fbcd",
+    "width": 394,
+    "height": 544,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.5487412287249925,
+    "foregroundFraction": 0.44183898178560765,
+    "foregroundBox": [
+      38,
+      38,
+      356,
+      506
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      474,
+      638,
+      792,
+      1106
+    ],
+    "sourceWidth": 1229,
+    "sourceHeight": 1229,
+    "sourceCrop": {
+      "left": 436,
+      "top": 600,
+      "width": 394,
+      "height": 544
+    }
+  },
+  {
+    "productId": "poy-pyp-0834",
+    "source": "/images/catalog/poy-pyp-0834/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0834/01.png",
+    "sourceSha256": "ead066b80daa7907552119efbb392f82f5aa6c28a943f4d4b4cb25f5c7f3ccd9",
+    "sha256": "1362e0a934cc4349a8e7e9124f0d53b5d34f98f2a3a8d53a2942a351d64f4e6d",
+    "width": 400,
+    "height": 425,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.3422058823529412,
+    "foregroundFraction": 0.6482,
+    "foregroundBox": [
+      30,
+      30,
+      370,
+      395
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      461,
+      352,
+      801,
+      717
+    ],
+    "sourceWidth": 1264,
+    "sourceHeight": 848,
+    "sourceCrop": {
+      "left": 431,
+      "top": 322,
+      "width": 400,
+      "height": 425
+    }
+  },
+  {
+    "productId": "poy-pyp-0835",
+    "source": "/images/catalog/poy-pyp-0835/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0835/01.png",
+    "sourceSha256": "d91670f6a1075e5d6e56de27f38a5596e35d1a21d0155c711e4e2ee68d944c3b",
+    "sha256": "b2208634f59295ae4c172bd8e3bb43d105a28152ff7bc1be8bc17ebde28d15a8",
+    "width": 471,
+    "height": 512,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.3768618962314225,
+    "foregroundFraction": 0.615665638269639,
+    "foregroundBox": [
+      36,
+      36,
+      435,
+      476
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      439,
+      301,
+      838,
+      741
+    ],
+    "sourceWidth": 1264,
+    "sourceHeight": 848,
+    "sourceCrop": {
+      "left": 403,
+      "top": 265,
+      "width": 471,
+      "height": 512
+    }
+  },
+  {
+    "productId": "poy-pyp-0836",
+    "source": "/images/catalog/poy-pyp-0836/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0836/01.png",
+    "sourceSha256": "8a2845136b0d5fe99fcf9a0001f8314a9854c23226fb82fa1dac667bb1fca44c",
+    "sha256": "e4e94883cbd70005808b3d6640161b8bc83265fd7ea82470073a279b9ba59050",
+    "width": 450,
+    "height": 486,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.5234522176497485,
+    "foregroundFraction": 0.4635482395976223,
+    "foregroundBox": [
+      34,
+      34,
+      416,
+      452
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      389,
+      236,
+      771,
+      654
+    ],
+    "backgroundExclusions": [
+      [
+        [
+          330,
+          360
+        ],
+        [
+          418,
+          360
+        ],
+        [
+          418,
+          410
+        ],
+        [
+          330,
+          396
+        ]
+      ]
+    ],
+    "sourceWidth": 1138,
+    "sourceHeight": 764,
+    "sourceCrop": {
+      "left": 355,
+      "top": 202,
+      "width": 450,
+      "height": 486
+    }
+  },
+  {
+    "productId": "poy-pyp-0837",
+    "source": "/images/catalog/poy-pyp-0837/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0837/01.png",
+    "sourceSha256": "8847f95560165972565855c9d6208142521eaf23a1151b068a99fc84ea9c888b",
+    "sha256": "9881885df5cc36e1474ac57e129a5494c1b319b671249b004286d21ab8c0ef3c",
+    "width": 352,
+    "height": 357,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.5407992742551566,
+    "foregroundFraction": 0.44816335625159154,
+    "foregroundBox": [
+      25,
+      25,
+      327,
+      332
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      406,
+      319,
+      708,
+      626
+    ],
+    "sourceWidth": 1012,
+    "sourceHeight": 679,
+    "sourceCrop": {
+      "left": 381,
+      "top": 294,
+      "width": 352,
+      "height": 357
+    }
+  },
+  {
+    "productId": "poy-pyp-0838",
+    "source": "/images/catalog/poy-pyp-0838/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0838/01.png",
+    "sourceSha256": "adbdb7a6ab14cbb76a7b1496859ef7f9a417c783dfa4ad663a79393df4b1e138",
+    "sha256": "f659c6944a78f0767fccd2078796a6028e279373ab6d98e1fdda01d76b0a52bc",
+    "width": 321,
+    "height": 389,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.5225075879521739,
+    "foregroundFraction": 0.46588024249413384,
+    "foregroundBox": [
+      27,
+      27,
+      294,
+      362
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      378,
+      245,
+      645,
+      580
+    ],
+    "sourceWidth": 1012,
+    "sourceHeight": 679,
+    "sourceCrop": {
+      "left": 351,
+      "top": 218,
+      "width": 321,
+      "height": 389
+    }
+  },
+  {
+    "productId": "poy-pyp-0839",
+    "source": "/images/catalog/poy-pyp-0839/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0839/01.png",
+    "sourceSha256": "ed246e01a6026ea508a891578fac93d2b88e1c392f2878df2945a875693cffde",
+    "sha256": "7dccb5566df236bd440c3d72a1347349e43acf4119bb76953f69e2e2d7ac8105",
+    "width": 395,
+    "height": 467,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.5069145908437915,
+    "foregroundFraction": 0.4757271027024097,
+    "foregroundBox": [
+      33,
+      33,
+      362,
+      434
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      340,
+      198,
+      669,
+      599
+    ],
+    "sourceWidth": 1012,
+    "sourceHeight": 679,
+    "sourceCrop": {
+      "left": 307,
+      "top": 165,
+      "width": 395,
+      "height": 467
+    }
+  },
+  {
+    "productId": "poy-pyp-0840",
+    "source": "/images/catalog/poy-pyp-0840/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0840/01.png",
+    "sourceSha256": "2305cae50c4d6e80b32c377eee27380a870cd88ae7d1f1eb97da47ad5c968152",
+    "sha256": "c3fd118efe91ec909ceec930d4aa9ebdcd8a8044c60a685c4eb9e556f257f0ab",
+    "width": 578,
+    "height": 455,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.5602722536978593,
+    "foregroundFraction": 0.42511882581086735,
+    "foregroundBox": [
+      40,
+      40,
+      538,
+      415
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      240,
+      219,
+      738,
+      594
+    ],
+    "backgroundExclusions": [
+      [
+        [
+          370,
+          440
+        ],
+        [
+          630,
+          440
+        ],
+        [
+          670,
+          620
+        ],
+        [
+          350,
+          620
+        ]
+      ]
+    ],
+    "sourceWidth": 1012,
+    "sourceHeight": 679,
+    "sourceCrop": {
+      "left": 200,
+      "top": 179,
+      "width": 578,
+      "height": 455
+    }
+  },
+  {
+    "productId": "poy-pyp-0841",
+    "source": "/images/catalog/poy-pyp-0841/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0841/01.png",
+    "sourceSha256": "345046f56bad36c87af3a9095748c9212a9460f0e1a4a0a0aba6ffe2c8748594",
+    "sha256": "8b6745f15a63f2ea1c969df11452c3703f06b284d7b86d56297c5d02bf7bdc2a",
+    "width": 370,
+    "height": 382,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.34778548181689545,
+    "foregroundFraction": 0.6419980189613698,
+    "foregroundBox": [
+      27,
+      27,
+      343,
+      355
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      411,
+      304,
+      727,
+      632
+    ],
+    "sourceWidth": 1138,
+    "sourceHeight": 764,
+    "sourceCrop": {
+      "left": 384,
+      "top": 277,
+      "width": 370,
+      "height": 382
+    }
+  },
+  {
+    "productId": "poy-pyp-0842",
+    "source": "/images/catalog/poy-pyp-0842/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0842/01.png",
+    "sourceSha256": "6cb98da7284dac9dd096e212bf83a59b8d0e741b71bd619578106d94a108224e",
+    "sha256": "6e96f443d6abf44324a51075556a80ec79332c7b57b85490ba8a32b064340ec9",
+    "width": 423,
+    "height": 405,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.5605638735662376,
+    "foregroundFraction": 0.4311064413507282,
+    "foregroundBox": [
+      30,
+      30,
+      393,
+      375
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      389,
+      299,
+      752,
+      644
+    ],
+    "sourceWidth": 1138,
+    "sourceHeight": 764,
+    "sourceCrop": {
+      "left": 359,
+      "top": 269,
+      "width": 423,
+      "height": 405
+    }
+  },
+  {
+    "productId": "poy-pyp-0843",
+    "source": "/images/catalog/poy-pyp-0843/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0843/01.png",
+    "sourceSha256": "52619be100d84d3a47615ec73da67732fdf1e5a19c9285b21eb84f23055bca4c",
+    "sha256": "7fea134cbe5dc741bff47c97c085cb6281e6dee61bf31d200fbc7511b6c6562a",
+    "width": 328,
+    "height": 384,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.4194137449186992,
+    "foregroundFraction": 0.5723291412601627,
+    "foregroundBox": [
+      27,
+      27,
+      301,
+      357
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      367,
+      247,
+      641,
+      577
+    ],
+    "sourceWidth": 1012,
+    "sourceHeight": 679,
+    "sourceCrop": {
+      "left": 340,
+      "top": 220,
+      "width": 328,
+      "height": 384
+    }
+  },
+  {
+    "productId": "poy-pyp-0844",
+    "source": "/images/catalog/poy-pyp-0844/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0844/01.png",
+    "sourceSha256": "6b669161e1cba955599d09ef0444df1bed892a5b237b03313ed7789dc5272c09",
+    "sha256": "77e332d3d6eacdfc71ade0e810ce197d0edb50fcda054b69833c415c427b1ae7",
+    "width": 338,
+    "height": 403,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.4961971603506248,
+    "foregroundFraction": 0.484355499434713,
+    "foregroundBox": [
+      28,
+      28,
+      310,
+      375
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      368,
+      238,
+      650,
+      585
+    ],
+    "sourceWidth": 1012,
+    "sourceHeight": 679,
+    "sourceCrop": {
+      "left": 340,
+      "top": 210,
+      "width": 338,
+      "height": 403
+    }
+  },
+  {
+    "productId": "poy-pyp-0845",
+    "source": "/images/catalog/poy-pyp-0845/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0845/01.png",
+    "sourceSha256": "184c5dd74e084cc5e8e5373230d26928159519fb9382f404e90553e22593fd4d",
+    "sha256": "3f95ee24791e454a791a083cbe8a891efae840a2a77c681963792a50a3521d52",
+    "width": 441,
+    "height": 371,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.6326163888736087,
+    "foregroundFraction": 0.3577265587277139,
+    "foregroundBox": [
+      31,
+      31,
+      410,
+      340
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      307,
+      283,
+      686,
+      592
+    ],
+    "sourceWidth": 1012,
+    "sourceHeight": 679,
+    "sourceCrop": {
+      "left": 276,
+      "top": 252,
+      "width": 441,
+      "height": 371
+    }
+  },
+  {
+    "productId": "poy-pyp-0846",
+    "source": "/images/catalog/poy-pyp-0846/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0846/01.png",
+    "sourceSha256": "f0baa1da472b6c72b01df48cd8dd54685d49f8c41dd18554ba5f6c3cca1f406f",
+    "sha256": "5cbb83c6577ad5470acac3c24f8ccf427b9e8404e39fd2daaffab4d3365fd1cc",
+    "width": 391,
+    "height": 491,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.348591787728994,
+    "foregroundFraction": 0.6426729728462712,
+    "foregroundBox": [
+      34,
+      34,
+      357,
+      457
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      353,
+      405,
+      676,
+      828
+    ],
+    "sourceWidth": 1024,
+    "sourceHeight": 1024,
+    "sourceCrop": {
+      "left": 319,
+      "top": 371,
+      "width": 391,
+      "height": 491
+    }
+  },
+  {
+    "productId": "poy-pyp-0847",
+    "source": "/images/catalog/poy-pyp-0847/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0847/01.png",
+    "sourceSha256": "25e5ddefcd21375e8b458b6f707b2d162f152fee8391946f66a9ac0900f939b8",
+    "sha256": "6f87b618db571e9310ad851a83aa093172c3b1cedc1a0f69ed72647cbdbe27f9",
+    "width": 438,
+    "height": 372,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.5433851328128836,
+    "foregroundFraction": 0.4467275494672755,
+    "foregroundBox": [
+      31,
+      31,
+      407,
+      341
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      379,
+      336,
+      755,
+      646
+    ],
+    "sourceWidth": 1138,
+    "sourceHeight": 764,
+    "sourceCrop": {
+      "left": 348,
+      "top": 305,
+      "width": 438,
+      "height": 372
+    }
+  },
+  {
+    "productId": "poy-pyp-0848",
+    "source": "/images/catalog/poy-pyp-0848/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0848/01.png",
+    "sourceSha256": "9008d97cf4a53311f6311d5f962fc68da821a15744592acf64dac38e18a2dc39",
+    "sha256": "6cb3cf0541c846b00cf66a8e2321032380f88aaa242b3b036b12b4de2369c1e3",
+    "width": 383,
+    "height": 406,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.37437137455144115,
+    "foregroundFraction": 0.5986057698491299,
+    "foregroundBox": [
+      28,
+      28,
+      355,
+      378
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      344,
+      222,
+      671,
+      572
+    ],
+    "sourceWidth": 1012,
+    "sourceHeight": 679,
+    "sourceCrop": {
+      "left": 316,
+      "top": 194,
+      "width": 383,
+      "height": 406
+    }
+  },
+  {
+    "productId": "poy-pyp-0849",
+    "source": "/images/catalog/poy-pyp-0849/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0849/01.png",
+    "sourceSha256": "ec99f44c6165026c27242aa3d273db17c89f115a7087dffda1d8707eabf064ef",
+    "sha256": "550a2e9c21b8b3bf0dd3ca72c76d9a72177da652ac45e1ddea4003f71ed51228",
+    "width": 951,
+    "height": 685,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.5581032643318213,
+    "foregroundFraction": 0.34228741163738513,
+    "foregroundBox": [
+      67,
+      67,
+      902,
+      618
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      380,
+      197,
+      1210,
+      748
+    ],
+    "sourceWidth": 1264,
+    "sourceHeight": 848,
+    "sourceCrop": {
+      "left": 313,
+      "top": 130,
+      "width": 951,
+      "height": 685
+    }
+  },
+  {
+    "productId": "poy-pyp-0850",
+    "source": "/images/catalog/poy-pyp-0850/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0850/01.png",
+    "sourceSha256": "040d2c91c987468369bc798c08211d80cbffd75be3125227f7c8defc6b73d9dc",
+    "sha256": "86744db29c9e9c31b0f987ddfa4ab44b5c74a284d5a0d5972852b1462c24719e",
+    "width": 434,
+    "height": 520,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.38176178660049626,
+    "foregroundFraction": 0.6068459766040412,
+    "foregroundBox": [
+      36,
+      36,
+      398,
+      484
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      328,
+      154,
+      690,
+      602
+    ],
+    "sourceWidth": 1012,
+    "sourceHeight": 679,
+    "sourceCrop": {
+      "left": 292,
+      "top": 118,
+      "width": 434,
+      "height": 520
+    }
+  },
+  {
+    "productId": "poy-pyp-0851",
+    "source": "/images/catalog/poy-pyp-0851/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0851/01.png",
+    "sourceSha256": "1d7f175bc2acf0c491f542c583223af61206f690e91e9e38b18e0076ba7f4fb3",
+    "sha256": "5d8c3c0f2a1ca22bf97c889b780ac0e1461bee272a31ace3a129fc8cafb8f2c9",
+    "width": 410,
+    "height": 472,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.3267362546506821,
+    "foregroundFraction": 0.6631924348904505,
+    "foregroundBox": [
+      33,
+      33,
+      377,
+      439
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      338,
+      219,
+      682,
+      625
+    ],
+    "sourceWidth": 1012,
+    "sourceHeight": 679,
+    "sourceCrop": {
+      "left": 305,
+      "top": 186,
+      "width": 410,
+      "height": 472
+    }
+  },
+  {
+    "productId": "poy-pyp-0852",
+    "source": "/images/catalog/poy-pyp-0852/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0852/01.png",
+    "sourceSha256": "76d0f7018f7ffc751b039b6615530e8a88fc5ad46cacfc96f0be68c43eeac151",
+    "sha256": "3feff8c22e8e124ff375faf387f60e510e3f2e0edaf15f7bcef3152ecd0ad772",
+    "width": 448,
+    "height": 505,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.3294200848656294,
+    "foregroundFraction": 0.6588843705799151,
+    "foregroundBox": [
+      35,
+      35,
+      413,
+      470
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      317,
+      141,
+      695,
+      576
+    ],
+    "sourceWidth": 1012,
+    "sourceHeight": 679,
+    "sourceCrop": {
+      "left": 282,
+      "top": 106,
+      "width": 448,
+      "height": 505
+    }
+  },
+  {
+    "productId": "poy-pyp-0853",
+    "source": "/images/catalog/poy-pyp-0853/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0853/01.png",
+    "sourceSha256": "3f1bf95f5122b54084e0f1e4b942c7a1ae1b9182abe182a06b4fbd1b83bfd1bf",
+    "sha256": "92d7a9aa8d80a94daaaa50521ac3aaca3b941e13c9ee02eb51af05ae71f01c2c",
+    "width": 410,
+    "height": 472,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.39464654816039685,
+    "foregroundFraction": 0.594553534518396,
+    "foregroundBox": [
+      33,
+      33,
+      377,
+      439
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      399,
+      218,
+      743,
+      624
+    ],
+    "sourceWidth": 1138,
+    "sourceHeight": 764,
+    "sourceCrop": {
+      "left": 366,
+      "top": 185,
+      "width": 410,
+      "height": 472
+    }
+  },
+  {
+    "productId": "poy-pyp-0854",
+    "source": "/images/catalog/poy-pyp-0854/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0854/01.png",
+    "sourceSha256": "888db3e9e2d1a56b37f39e90244a917ffcbf263ed9224763032b610fa1ffeee7",
+    "sha256": "d6a79c97532fab0410274eefd6650b7cab264ac33b0f2121116210eb0123b4c8",
+    "width": 356,
+    "height": 419,
+    "model": "isnet-general-use",
+    "modelFocus": {
+      "left": 390,
+      "top": 315,
+      "width": 360,
+      "height": 420
+    },
+    "rgbPreserved": true,
+    "transparentFraction": 0.3156659783862058,
+    "foregroundFraction": 0.6681169719235204,
+    "foregroundBox": [
+      29,
+      29,
+      327,
+      390
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      421,
+      339,
+      719,
+      700
+    ],
+    "sourceWidth": 1138,
+    "sourceHeight": 764,
+    "sourceCrop": {
+      "left": 392,
+      "top": 310,
+      "width": 356,
+      "height": 419
+    }
+  },
+  {
+    "productId": "poy-pyp-0855",
+    "source": "/images/catalog/poy-pyp-0855/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0855/01.png",
+    "sourceSha256": "78e538be6aac44afd02787ee617a35edd9062df113dc95f9eecd30b6bfd1c5fa",
+    "sha256": "cc6bc8f2a321087cff790e1f606b670f471bdd7112a27520640009343a4ca91e",
+    "width": 382,
+    "height": 410,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.45377984931681775,
+    "foregroundFraction": 0.5348039841654961,
+    "foregroundBox": [
+      29,
+      29,
+      353,
+      381
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      348,
+      231,
+      672,
+      583
+    ],
+    "sourceWidth": 1012,
+    "sourceHeight": 679,
+    "sourceCrop": {
+      "left": 319,
+      "top": 202,
+      "width": 382,
+      "height": 410
+    }
+  },
+  {
+    "productId": "poy-pyp-0856",
+    "source": "/images/catalog/poy-pyp-0856/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0856/01.png",
+    "sourceSha256": "d7e1a3dca51bcac5b2e14cd9052588d7d4850a1562000575d709607d99b843a9",
+    "sha256": "3d727a0adeef8e59f84e9f8a182b476943417dd83d2abe8fb67ce78352927ae6",
+    "width": 414,
+    "height": 462,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.3136227701445093,
+    "foregroundFraction": 0.6772016228537968,
+    "foregroundBox": [
+      32,
+      32,
+      382,
+      430
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      355,
+      224,
+      705,
+      622
+    ],
+    "sourceWidth": 1024,
+    "sourceHeight": 687,
+    "sourceCrop": {
+      "left": 323,
+      "top": 192,
+      "width": 414,
+      "height": 462
+    }
+  },
+  {
+    "productId": "poy-pyp-0857-1",
+    "source": "/images/catalog/poy-pyp-0857-1/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0857-1/01.png",
+    "sourceSha256": "c9821934b44a2f28392fa54e617ab39374a5c027c184c2495b52ddd127ffe040",
+    "sha256": "5215b3222efdc26c27df61c54f346d6e202d0daa579bcd7cea9d2936625f0a18",
+    "width": 458,
+    "height": 360,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.47365963124696747,
+    "foregroundFraction": 0.5162663755458515,
+    "foregroundBox": [
+      32,
+      32,
+      426,
+      328
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      371,
+      353,
+      765,
+      649
+    ],
+    "sourceWidth": 1138,
+    "sourceHeight": 764,
+    "sourceCrop": {
+      "left": 339,
+      "top": 321,
+      "width": 458,
+      "height": 360
+    }
+  },
+  {
+    "productId": "poy-pyp-0858",
+    "source": "/images/catalog/poy-pyp-0858/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0858/01.png",
+    "sourceSha256": "31b6f458e4f9ef202262a3de25fbeb27d89a8b256753e4c57a5880fbe42798f2",
+    "sha256": "3b5aca8be000df028b4d2abcc95f485811ad0836f72d9625e5863b81bd324b9b",
+    "width": 504,
+    "height": 655,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.44793105537380346,
+    "foregroundFraction": 0.5275505876650914,
+    "foregroundBox": [
+      46,
+      46,
+      458,
+      609
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      314,
+      55,
+      726,
+      618
+    ],
+    "sourceWidth": 1012,
+    "sourceHeight": 679,
+    "sourceCrop": {
+      "left": 268,
+      "top": 9,
+      "width": 504,
+      "height": 655
+    }
+  },
+  {
+    "productId": "poy-pyp-0859",
+    "source": "/images/catalog/poy-pyp-0859/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0859/01.png",
+    "sourceSha256": "c191cb098878ee23331671caa80322dc907442752f273df4852ef3c4ffa642e9",
+    "sha256": "b4118a2c4e3c827295e3d68b2ae57d4e495ca2e4817bbaab8830ed1c432c2e9e",
+    "width": 427,
+    "height": 496,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.407333610334668,
+    "foregroundFraction": 0.5840872176475033,
+    "foregroundBox": [
+      35,
+      35,
+      392,
+      461
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      324,
+      175,
+      681,
+      601
+    ],
+    "sourceWidth": 1012,
+    "sourceHeight": 679,
+    "sourceCrop": {
+      "left": 289,
+      "top": 140,
+      "width": 427,
+      "height": 496
+    }
+  },
+  {
+    "productId": "poy-pyp-0860",
+    "source": "/images/catalog/poy-pyp-0860/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0860/01.png",
+    "sourceSha256": "2f10970c464a73a29198b1ecb45f1bd9574cf501574de5e4d783db1a903da823",
+    "sha256": "716e6e34a404b0b32a7c7c1e5c640587c8bada08200562723e0ac6d71e9206d4",
+    "width": 323,
+    "height": 367,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.3560371517027864,
+    "foregroundFraction": 0.6349279995950768,
+    "foregroundBox": [
+      26,
+      26,
+      297,
+      341
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      399,
+      303,
+      670,
+      618
+    ],
+    "sourceWidth": 1012,
+    "sourceHeight": 679,
+    "sourceCrop": {
+      "left": 373,
+      "top": 277,
+      "width": 323,
+      "height": 367
+    }
+  },
+  {
+    "productId": "poy-pyp-0861",
+    "source": "/images/catalog/poy-pyp-0861/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0861/01.png",
+    "sourceSha256": "07a20f5d8d56b9497caec9d37c1eaf632d6d18539f694e84d558daccaff6f9e4",
+    "sha256": "cc3cf8e896127292f019bd7a030d0bcb79510fb9c038dfc72cfc429cd204fae3",
+    "width": 385,
+    "height": 462,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.43770731433069093,
+    "foregroundFraction": 0.555641760836566,
+    "foregroundBox": [
+      32,
+      32,
+      353,
+      430
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      346,
+      198,
+      667,
+      596
+    ],
+    "sourceWidth": 1012,
+    "sourceHeight": 679,
+    "sourceCrop": {
+      "left": 314,
+      "top": 166,
+      "width": 385,
+      "height": 462
+    }
+  },
+  {
+    "productId": "poy-pyp-0862",
+    "source": "/images/catalog/poy-pyp-0862/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0862/01.png",
+    "sourceSha256": "9a06f665322a1a71de3138eaab512a7e931f60f1636d3838dc8bbfe78fc1b182",
+    "sha256": "469f1f5547d9283872c40b2921b5a96e5e0e43886482b39ad2b1120d6d137c68",
+    "width": 340,
+    "height": 406,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.40341929875398436,
+    "foregroundFraction": 0.5849898580121704,
+    "foregroundBox": [
+      28,
+      28,
+      312,
+      378
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      478,
+      459,
+      762,
+      809
+    ],
+    "sourceWidth": 1264,
+    "sourceHeight": 848,
+    "sourceCrop": {
+      "left": 450,
+      "top": 431,
+      "width": 340,
+      "height": 406
+    }
+  },
+  {
+    "productId": "poy-pyp-0863",
+    "source": "/images/catalog/poy-pyp-0863/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0863/01.png",
+    "sourceSha256": "bf05b953d7f5864b6664325093f9790d084e5e434592041220c176b1fc710bf2",
+    "sha256": "913bfc183b4b97df355a4f90d5b901cfea7cc342cbb1b05852c8a39d035665bf",
+    "width": 380,
+    "height": 428,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.33127766847024104,
+    "foregroundFraction": 0.6606369896704378,
+    "foregroundBox": [
+      30,
+      30,
+      350,
+      398
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      261,
+      244,
+      581,
+      612
+    ],
+    "sourceWidth": 1012,
+    "sourceHeight": 679,
+    "sourceCrop": {
+      "left": 231,
+      "top": 214,
+      "width": 380,
+      "height": 428
+    }
+  },
+  {
+    "productId": "poy-pyp-0864",
+    "source": "/images/catalog/poy-pyp-0864/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0864/01.png",
+    "sourceSha256": "9a143b973fbb6698a3371b65a0cb1bb9dd5aadba79ff6d94a9e3ad125952e21a",
+    "sha256": "9517b5f7c48fa7e5a53b9fb0fd18e33d102ae6449dbd216498e80168ef0f9e1b",
+    "width": 422,
+    "height": 423,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.40676503871018344,
+    "foregroundFraction": 0.5851343932416837,
+    "foregroundBox": [
+      30,
+      30,
+      392,
+      393
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      327,
+      245,
+      689,
+      608
+    ],
+    "sourceWidth": 1012,
+    "sourceHeight": 679,
+    "sourceCrop": {
+      "left": 297,
+      "top": 215,
+      "width": 422,
+      "height": 423
+    }
+  },
+  {
+    "productId": "poy-pyp-0865",
+    "source": "/images/catalog/poy-pyp-0865/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0865/01.png",
+    "sourceSha256": "1c9a4c2663ee078992d5b04fef1dcd1edcab52b15b279a84000fb7406c34f6bb",
+    "sha256": "039153b022413167fe9813408901c65fd26fa221f2785abf5df4697ee13e40d6",
+    "width": 288,
+    "height": 232,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.5217462883141762,
+    "foregroundFraction": 0.4611320641762452,
+    "foregroundBox": [
+      20,
+      20,
+      268,
+      212
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.28,
+      0.73
+    ],
+    "subjectCoreBox": [
+      514,
+      538,
+      762,
+      730
+    ],
+    "sourceWidth": 1264,
+    "sourceHeight": 848,
+    "sourceCrop": {
+      "left": 494,
+      "top": 518,
+      "width": 288,
+      "height": 232
+    }
+  },
+  {
+    "productId": "poy-pyp-0866",
+    "source": "/images/catalog/poy-pyp-0866/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0866/01.png",
+    "sourceSha256": "8bba67e1e5c71412508218b2057cf6b684c003939cf759b99c18c60bc15cb17f",
+    "sha256": "b3a382779709205d61fb5c93c7a4866606d091444fecab2b5a7499910cf1c6c1",
+    "width": 334,
+    "height": 374,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.5465672932210446,
+    "foregroundFraction": 0.4346841077203881,
+    "foregroundBox": [
+      26,
+      26,
+      308,
+      348
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      518,
+      370,
+      800,
+      692
+    ],
+    "sourceWidth": 1138,
+    "sourceHeight": 764,
+    "sourceCrop": {
+      "left": 492,
+      "top": 344,
+      "width": 334,
+      "height": 374
+    }
+  },
+  {
+    "productId": "poy-pyp-0867-1",
+    "source": "/images/catalog/poy-pyp-0867-1/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0867-1/01.png",
+    "sourceSha256": "b91f410686db206d2e0597ac058f0528341ba4481bd6023c004b300294718d9e",
+    "sha256": "0010270660c2e605ace662237fadc59181f2be12705c189916fc17176dc071ff",
+    "width": 372,
+    "height": 415,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.31218422075398367,
+    "foregroundFraction": 0.6781318823681824,
+    "foregroundBox": [
+      29,
+      29,
+      343,
+      386
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      476,
+      406,
+      790,
+      763
+    ],
+    "sourceWidth": 1264,
+    "sourceHeight": 848,
+    "sourceCrop": {
+      "left": 447,
+      "top": 377,
+      "width": 372,
+      "height": 415
+    }
+  },
+  {
+    "productId": "poy-pyp-0635",
+    "source": "/images/catalog/poy-pyp-0635/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0635/01.png",
+    "sourceSha256": "25243acc09f049c8466ffba043423df416f9091f557493fab5194d8189599795",
+    "sha256": "e562ef9efb8aa8fee412d7d07c7e406833e30836db15f8b274d55f211c80aff9",
+    "width": 557,
+    "height": 456,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.3381248228290655,
+    "foregroundFraction": 0.6534812120066774,
+    "foregroundBox": [
+      39,
+      39,
+      518,
+      417
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      305,
+      344,
+      784,
+      722
+    ],
+    "sourceWidth": 1264,
+    "sourceHeight": 848,
+    "sourceCrop": {
+      "left": 266,
+      "top": 305,
+      "width": 557,
+      "height": 456
+    }
+  },
+  {
+    "productId": "poy-pyp-0636",
+    "source": "/images/catalog/poy-pyp-0636/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0636/01.png",
+    "sourceSha256": "a2d9337525e692bbfcce00211112526b115613b80be44b9409cc7856d585a8d6",
+    "sha256": "bf1e3bbed3658d052c3e2c89c4d2c5156bb25589ad2253a6fa044833d303e3bf",
+    "width": 583,
+    "height": 479,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.34310688720425986,
+    "foregroundFraction": 0.649333767819607,
+    "foregroundBox": [
+      41,
+      41,
+      542,
+      438
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      326,
+      258,
+      827,
+      655
+    ],
+    "sourceWidth": 1138,
+    "sourceHeight": 764,
+    "sourceCrop": {
+      "left": 285,
+      "top": 217,
+      "width": 583,
+      "height": 479
+    }
+  },
+  {
+    "productId": "poy-pyp-0637",
+    "source": "/images/catalog/poy-pyp-0637/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0637/01.png",
+    "sourceSha256": "433546c7b29ccce70fbe7c547eb97f9999480d74ba47f74e767b1dc496edad37",
+    "sha256": "71d5ce63d0d14c725f0dcb230a9336b15c1ed08a464b8d2e51be34c9d3239741",
+    "width": 527,
+    "height": 485,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.3976760108765821,
+    "foregroundFraction": 0.5716387253271777,
+    "foregroundBox": [
+      37,
+      37,
+      490,
+      448
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      346,
+      233,
+      799,
+      644
+    ],
+    "sourceWidth": 1138,
+    "sourceHeight": 764,
+    "sourceCrop": {
+      "left": 309,
+      "top": 196,
+      "width": 527,
+      "height": 485
+    }
+  },
+  {
+    "productId": "poy-pyp-0638",
+    "source": "/images/catalog/poy-pyp-0638/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0638/01.png",
+    "sourceSha256": "ca6e721212ea38d44c06af0cb5da2b0515391dda8140e46170694206af662d4b",
+    "sha256": "6d89699154a71e47272377efc5b4eb4a1b907324db6db95551a3499a75e4a35e",
+    "width": 623,
+    "height": 497,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.37462334197803193,
+    "foregroundFraction": 0.6192112546870306,
+    "foregroundBox": [
+      43,
+      43,
+      580,
+      454
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      247,
+      206,
+      784,
+      617
+    ],
+    "sourceWidth": 1012,
+    "sourceHeight": 679,
+    "sourceCrop": {
+      "left": 204,
+      "top": 163,
+      "width": 623,
+      "height": 497
+    }
+  },
+  {
+    "productId": "poy-pyp-0639",
+    "source": "/images/catalog/poy-pyp-0639/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0639/01.png",
+    "sourceSha256": "9cf70c5a6f423e88f157d3193348798f672975e8325aee33fe4067c5fdab321b",
+    "sha256": "e18225b50050b97bf3b5c7d18957b8b9d59d2e0728327d93a0b780be1e45b5b4",
+    "width": 548,
+    "height": 436,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.3603428647960892,
+    "foregroundFraction": 0.6314873099845979,
+    "foregroundBox": [
+      38,
+      38,
+      510,
+      398
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      347,
+      313,
+      819,
+      673
+    ],
+    "sourceWidth": 1138,
+    "sourceHeight": 764,
+    "sourceCrop": {
+      "left": 309,
+      "top": 275,
+      "width": 548,
+      "height": 436
+    }
+  },
+  {
+    "productId": "poy-pyp-0640",
+    "source": "/images/catalog/poy-pyp-0640/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0640/01.png",
+    "sourceSha256": "e4333289d36ded13e91142e1232c407a16222258ee70baa5658cd85d81801ac6",
+    "sha256": "7ab06c3a051adf8e9595e5795eee7a9005f134e2c97f1782e5dd8c4578fd1fee",
+    "width": 432,
+    "height": 489,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.3525571839733394,
+    "foregroundFraction": 0.6398451109596304,
+    "foregroundBox": [
+      34,
+      34,
+      398,
+      455
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      378,
+      262,
+      742,
+      683
+    ],
+    "sourceWidth": 1138,
+    "sourceHeight": 764,
+    "sourceCrop": {
+      "left": 344,
+      "top": 228,
+      "width": 432,
+      "height": 489
+    }
+  },
+  {
+    "productId": "poy-pyp-0641-1",
+    "source": "/images/catalog/poy-pyp-0641-1/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0641-1/01.png",
+    "sourceSha256": "36ea464b7d4df039f60e79c7b43bb7db87deb103994f4e028bff96fb1da7dabb",
+    "sha256": "737a536d19c81619eb25dc8bae9829cc5b6e384237c663373da413f349e6e561",
+    "width": 390,
+    "height": 456,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.3600314889788574,
+    "foregroundFraction": 0.631517094017094,
+    "foregroundBox": [
+      32,
+      32,
+      358,
+      424
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      341,
+      172,
+      667,
+      564
+    ],
+    "sourceWidth": 1012,
+    "sourceHeight": 679,
+    "sourceCrop": {
+      "left": 309,
+      "top": 140,
+      "width": 390,
+      "height": 456
+    }
+  },
+  {
+    "productId": "poy-pyp-0642",
+    "source": "/images/catalog/poy-pyp-0642/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0642/01.png",
+    "sourceSha256": "d7677a5b5e14184fddcd9da81f0644a683494544fcc364e1bbad1702fe051972",
+    "sha256": "7873cd1e2796f3490d076dc17a7e9035ab24474342cce1535760e40e15e28473",
+    "width": 558,
+    "height": 424,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.32019256779603705,
+    "foregroundFraction": 0.6696887468722527,
+    "foregroundBox": [
+      39,
+      39,
+      519,
+      385
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      551,
+      525,
+      1031,
+      871
+    ],
+    "sourceWidth": 1517,
+    "sourceHeight": 1018,
+    "sourceCrop": {
+      "left": 512,
+      "top": 486,
+      "width": 558,
+      "height": 424
+    }
+  },
+  {
+    "productId": "poy-pyp-0643",
+    "source": "/images/catalog/poy-pyp-0643/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0643/01.png",
+    "sourceSha256": "0f9416c21e43e49394af5229fee70dc399a8306d569ef8b663c5fb27be4dd743",
+    "sha256": "a06252031aad72b36c3ed7ce48c598ad50e99a8184085e9dd8e9a9dc95c8565e",
+    "width": 546,
+    "height": 390,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.4951911336526721,
+    "foregroundFraction": 0.49478726401803325,
+    "foregroundBox": [
+      38,
+      38,
+      508,
+      352
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      404,
+      332,
+      874,
+      646
+    ],
+    "sourceWidth": 1138,
+    "sourceHeight": 764,
+    "sourceCrop": {
+      "left": 366,
+      "top": 294,
+      "width": 546,
+      "height": 390
+    }
+  },
+  {
+    "productId": "poy-pyp-0644",
+    "source": "/images/catalog/poy-pyp-0644/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0644/01.png",
+    "sourceSha256": "2bc26c6fa1519ddc03808c91d5f5f0016c40761161bba687137c0556d0c15294",
+    "sha256": "d603d10138e9ddc6c107ede05f69490ef2362239bdc63ca5ef0a9ba14dab9b36",
+    "width": 778,
+    "height": 630,
+    "model": "isnet-general-use",
+    "modelFocus": {
+      "left": 230,
+      "top": 650,
+      "width": 750,
+      "height": 620
+    },
+    "rgbPreserved": true,
+    "transparentFraction": 0.4120639001101726,
+    "foregroundFraction": 0.5805994205737136,
+    "foregroundBox": [
+      54,
+      54,
+      724,
+      576
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      267,
+      684,
+      937,
+      1206
+    ],
+    "sourceWidth": 1076,
+    "sourceHeight": 1434,
+    "sourceCrop": {
+      "left": 213,
+      "top": 630,
+      "width": 778,
+      "height": 630
+    }
+  },
+  {
+    "productId": "poy-pyp-0645",
+    "source": "/images/catalog/poy-pyp-0645/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0645/01.png",
+    "sourceSha256": "37729d6036b5fb33dd8b2b5b39cfc717f99dfdfa15384751b4fa56a65d062523",
+    "sha256": "109344b1173cc1ed870b1788c40ce768c838fd7c03c8b456230582f4f90b561e",
+    "width": 381,
+    "height": 362,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.40864401618306,
+    "foregroundFraction": 0.5729325270805238,
+    "foregroundBox": [
+      27,
+      27,
+      354,
+      335
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      551,
+      468,
+      878,
+      776
+    ],
+    "sourceWidth": 1264,
+    "sourceHeight": 848,
+    "sourceCrop": {
+      "left": 524,
+      "top": 441,
+      "width": 381,
+      "height": 362
+    }
+  },
+  {
+    "productId": "poy-pyp-0646",
+    "source": "/images/catalog/poy-pyp-0646/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0646/01.png",
+    "sourceSha256": "721a9f7efb8ded239c37f4e1afa3c9d09062a6b80b5ec59bfab583fd3353ee56",
+    "sha256": "c804f2c6b6e6b9317e06d84f1b64cb286e518586079ec0ded9ae441c6e9da5a2",
+    "width": 483,
+    "height": 412,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.5946903455345837,
+    "foregroundFraction": 0.39414862610303725,
+    "foregroundBox": [
+      34,
+      34,
+      449,
+      378
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      359,
+      290,
+      774,
+      634
+    ],
+    "sourceWidth": 1012,
+    "sourceHeight": 679,
+    "sourceCrop": {
+      "left": 325,
+      "top": 256,
+      "width": 483,
+      "height": 412
+    }
+  },
+  {
+    "productId": "poy-pyp-0647",
+    "source": "/images/catalog/poy-pyp-0647/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0647/01.png",
+    "sourceSha256": "0686fc64a45de080d206cbf06dcc0327f7ce8d1c8f2383cfc551fb6f84abc210",
+    "sha256": "8e0f4b4ade4167e88d1eb50cafdf8afb5e25092c2899e59b40d5e1231d723c3e",
+    "width": 613,
+    "height": 434,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.6299230948496853,
+    "foregroundFraction": 0.3630742514339841,
+    "foregroundBox": [
+      43,
+      43,
+      570,
+      391
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      197,
+      282,
+      724,
+      630
+    ],
+    "sourceWidth": 1012,
+    "sourceHeight": 679,
+    "sourceCrop": {
+      "left": 154,
+      "top": 239,
+      "width": 613,
+      "height": 434
+    }
+  },
+  {
+    "productId": "poy-pyp-0648-1",
+    "source": "/images/catalog/poy-pyp-0648-1/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0648-1/01.png",
+    "sourceSha256": "29bf9731e37b409e672c56d7f3aad9b3afb6b8688440b9e4575dfc4b43096d42",
+    "sha256": "8f20d1ba01286cd637b58280762c4b36fb9714751807c8e47c79382edc8973ae",
+    "width": 453,
+    "height": 503,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.3900613976187028,
+    "foregroundFraction": 0.6031449273454198,
+    "foregroundBox": [
+      35,
+      35,
+      418,
+      468
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      376,
+      224,
+      759,
+      657
+    ],
+    "sourceWidth": 1138,
+    "sourceHeight": 764,
+    "sourceCrop": {
+      "left": 341,
+      "top": 189,
+      "width": 453,
+      "height": 503
+    }
+  },
+  {
+    "productId": "poy-pyp-0649",
+    "source": "/images/catalog/poy-pyp-0649/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0649/01.png",
+    "sourceSha256": "eb463657408d8ec5a2024a7df87ac706ec4ea6cb1f7b439529dbdf8a884f834d",
+    "sha256": "430b5164aa0b93b5b347b3fbcf6ff5ac767ca232d8229e9f99c760684c10baf4",
+    "width": 519,
+    "height": 334,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.3629503997784777,
+    "foregroundFraction": 0.6290367242393825,
+    "foregroundBox": [
+      36,
+      36,
+      483,
+      298
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      285,
+      340,
+      732,
+      602
+    ],
+    "sourceWidth": 1012,
+    "sourceHeight": 679,
+    "sourceCrop": {
+      "left": 249,
+      "top": 304,
+      "width": 519,
+      "height": 334
+    }
+  },
+  {
+    "productId": "poy-pyp-0650",
+    "source": "/images/catalog/poy-pyp-0650/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0650/01.png",
+    "sourceSha256": "e835f984c76bfeb5aff3e2b83873c8cee978a02f3b2f401ad0100bfc007e83d2",
+    "sha256": "1b1fa6faba966fba16c0b12e6f24fcb7d22396dfc5bf37d8e98f177ddce45e91",
+    "width": 551,
+    "height": 388,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.37014706157501825,
+    "foregroundFraction": 0.6206803001103898,
+    "foregroundBox": [
+      38,
+      38,
+      513,
+      350
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      230,
+      276,
+      705,
+      588
+    ],
+    "sourceWidth": 928,
+    "sourceHeight": 730,
+    "sourceCrop": {
+      "left": 192,
+      "top": 238,
+      "width": 551,
+      "height": 388
+    }
+  },
+  {
+    "productId": "poy-pyp-0651",
+    "source": "/images/catalog/poy-pyp-0651/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0651/01.png",
+    "sourceSha256": "03e84064c96a8a5504f94bb61e38ba97f10b2f81f9ea86502296962755095087",
+    "sha256": "8cdee6e505627972488bb622ff84bcb63f72be077c397772a5f02b2966b33197",
+    "width": 564,
+    "height": 422,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.36455917448153,
+    "foregroundFraction": 0.6295376625995764,
+    "foregroundBox": [
+      39,
+      39,
+      525,
+      383
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      261,
+      258,
+      747,
+      602
+    ],
+    "sourceWidth": 1012,
+    "sourceHeight": 679,
+    "sourceCrop": {
+      "left": 222,
+      "top": 219,
+      "width": 564,
+      "height": 422
+    }
+  },
+  {
+    "productId": "poy-pyp-0652",
+    "source": "/images/catalog/poy-pyp-0652/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0652/01.png",
+    "sourceSha256": "c65bb9f71767489adbd4b539bb27975004a43e05664cfd64da2a6cce75bc9163",
+    "sha256": "9e496524ca9ab43e033dc7e4692050acd2984c1278529ae122e488091ea9be7e",
+    "width": 418,
+    "height": 361,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.3761547535421278,
+    "foregroundFraction": 0.6150512266564169,
+    "foregroundBox": [
+      29,
+      29,
+      389,
+      332
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      469,
+      477,
+      829,
+      780
+    ],
+    "sourceWidth": 1264,
+    "sourceHeight": 848,
+    "sourceCrop": {
+      "left": 440,
+      "top": 448,
+      "width": 418,
+      "height": 361
+    }
+  },
+  {
+    "productId": "poy-pyp-0653-1",
+    "source": "/images/catalog/poy-pyp-0653-1/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0653-1/01.png",
+    "sourceSha256": "2a942683d9e02a975c1a4eab5faab5c0b84830e9812ccb4e5a6d20263c44380b",
+    "sha256": "23e26070e9bae5f25059917ab5480670e41a9bbc4304fe1b3d084cbfa97b420f",
+    "width": 395,
+    "height": 485,
+    "model": "isnet-general-use",
+    "modelFocus": {
+      "left": 300,
+      "top": 450,
+      "width": 420,
+      "height": 490
+    },
+    "rgbPreserved": true,
+    "transparentFraction": 0.42598982121884377,
+    "foregroundFraction": 0.5634346861542476,
+    "foregroundBox": [
+      34,
+      34,
+      361,
+      451
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      341,
+      487,
+      668,
+      904
+    ],
+    "sourceWidth": 1024,
+    "sourceHeight": 1024,
+    "sourceCrop": {
+      "left": 307,
+      "top": 453,
+      "width": 395,
+      "height": 485
+    }
+  },
+  {
+    "productId": "poy-pyp-0654",
+    "source": "/images/catalog/poy-pyp-0654/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0654/01.png",
+    "sourceSha256": "9910721e201cd89ededd800cd8fb38d89ac883bf3ee9748d73ca8f45498e7995",
+    "sha256": "414dfc8c58b3b25af9917dd3c939d53fc0aeefaef432ab33765adb05af223109",
+    "width": 636,
+    "height": 457,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.6716829748290052,
+    "foregroundFraction": 0.29899329782695455,
+    "foregroundBox": [
+      44,
+      44,
+      592,
+      420
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      309,
+      351,
+      857,
+      727
+    ],
+    "sourceWidth": 1138,
+    "sourceHeight": 764,
+    "sourceCrop": {
+      "left": 265,
+      "top": 307,
+      "width": 636,
+      "height": 457
+    }
+  },
+  {
+    "productId": "poy-pyp-0655",
+    "source": "/images/catalog/poy-pyp-0655/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0655/01.png",
+    "sourceSha256": "32e290f1cc8d0d52734c503bea289f4e8470ac3d3465675576fdf40a7c65d30d",
+    "sha256": "07861bd282970b5ba06c8a38c92a434dde0c055068fe00635a8726e7cd91c0ff",
+    "width": 382,
+    "height": 329,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.5353204220309044,
+    "foregroundFraction": 0.445225099062684,
+    "foregroundBox": [
+      27,
+      27,
+      355,
+      302
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      343,
+      336,
+      671,
+      611
+    ],
+    "sourceWidth": 1012,
+    "sourceHeight": 679,
+    "sourceCrop": {
+      "left": 316,
+      "top": 309,
+      "width": 382,
+      "height": 329
+    }
+  },
+  {
+    "productId": "poy-pyp-0656",
+    "source": "/images/catalog/poy-pyp-0656/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0656/01.png",
+    "sourceSha256": "e99c3daa499f50512de7f62c3fe33f45a72089546dc7aad150a544cc77fee56a",
+    "sha256": "e7021e5998edc2bdacb53f1e523427ab464d273310e953498191273b3b34dbc6",
+    "width": 356,
+    "height": 438,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.5182520137499359,
+    "foregroundFraction": 0.4707557334154225,
+    "foregroundBox": [
+      31,
+      31,
+      325,
+      407
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      450,
+      309,
+      744,
+      685
+    ],
+    "sourceWidth": 1138,
+    "sourceHeight": 764,
+    "sourceCrop": {
+      "left": 419,
+      "top": 278,
+      "width": 356,
+      "height": 438
+    }
+  },
+  {
+    "productId": "poy-pyp-0657",
+    "source": "/images/catalog/poy-pyp-0657/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0657/01.png",
+    "sourceSha256": "72abd2dae31cb41fa4b98e8f6994913f7231683c7037d226e84436ff8590a423",
+    "sha256": "24917c2496f69551772a42756374f7c1ae3a005d1b58cbf36c082d14d4f0b544",
+    "width": 370,
+    "height": 514,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.6585550531075823,
+    "foregroundFraction": 0.3277947207908297,
+    "foregroundBox": [
+      36,
+      36,
+      334,
+      478
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      453,
+      269,
+      751,
+      711
+    ],
+    "sourceWidth": 1138,
+    "sourceHeight": 764,
+    "sourceCrop": {
+      "left": 417,
+      "top": 233,
+      "width": 370,
+      "height": 514
+    }
+  },
+  {
+    "productId": "poy-pyp-0658",
+    "source": "/images/catalog/poy-pyp-0658/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0658/01.png",
+    "sourceSha256": "3c4d8319777fc7b1885d2fe3c5f9dedfed0f45797e5dc0f5f754b8dc0b08220b",
+    "sha256": "51ca4932d0e29d780f98a3c93a04cd7a12e27dd0b71ba862f36ee17fcb4d515e",
+    "width": 561,
+    "height": 383,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.6241279326826862,
+    "foregroundFraction": 0.35011146637624907,
+    "foregroundBox": [
+      39,
+      39,
+      522,
+      344
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      320,
+      353,
+      803,
+      658
+    ],
+    "sourceWidth": 1138,
+    "sourceHeight": 764,
+    "sourceCrop": {
+      "left": 281,
+      "top": 314,
+      "width": 561,
+      "height": 383
+    }
+  },
+  {
+    "productId": "poy-pyp-0659",
+    "source": "/images/catalog/poy-pyp-0659/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0659/01.png",
+    "sourceSha256": "318a1b1ea1eb96430f0c88b7e300cb3888da98c9e225b4bb804279b7fdbbff1d",
+    "sha256": "f16e2da31956ba6bb1dacc3c8b1a4ef1e4994671ac347e12560ae01e24181249",
+    "width": 531,
+    "height": 475,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.5699950441074437,
+    "foregroundFraction": 0.39554366141342057,
+    "foregroundBox": [
+      37,
+      37,
+      494,
+      438
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      410,
+      345,
+      867,
+      746
+    ],
+    "sourceWidth": 1264,
+    "sourceHeight": 848,
+    "sourceCrop": {
+      "left": 373,
+      "top": 308,
+      "width": 531,
+      "height": 475
+    }
+  },
+  {
+    "productId": "poy-pyp-0660",
+    "source": "/images/catalog/poy-pyp-0660/01.jpg",
+    "local": "/images/catalog-cutouts/poy-pyp-0660/01.png",
+    "sourceSha256": "b2504f7d55b2235d6d02d39aa8ec5546222de0bd784446bc5d774d9a6f4368fd",
+    "sha256": "67b7ff4f42285a9930439c16ab7b5dde530c747a542bcd88d031a8f50469c017",
+    "width": 791,
+    "height": 741,
+    "model": "isnet-general-use",
+    "rgbPreserved": true,
+    "transparentFraction": 0.33023504984380625,
+    "foregroundFraction": 0.6631128536112234,
+    "foregroundBox": [
+      55,
+      55,
+      736,
+      686
+    ],
+    "refinement": "transparent-border-crop",
+    "subjectAnchor": [
+      0.5,
+      0.62
+    ],
+    "subjectCoreBox": [
+      312,
+      160,
+      993,
+      791
+    ],
+    "sourceWidth": 1264,
+    "sourceHeight": 848,
+    "sourceCrop": {
+      "left": 257,
+      "top": 105,
+      "width": 791,
+      "height": 741
+    }
   }
 ]

@@ -23,3 +23,9 @@ This block is written and re-added by `next dev` — verify at `node_modules/nex
 - Hosting target: `preview/hosting-target.json`. Reuse this Site identity and URL; do not create a new Site for routine updates. Preserve the current private audience unless the user asks to change sharing.
 - Prepare a separate, sanitized Sites source checkout with `node scripts/prepare-online-preview.mjs --destination <checkout>`, then use the Sites skill workflow to build and publish that same Site.
 - The online preview includes versioned storefront/catalogue data only. Never copy `.env.local`, `.local`, company records, accounts, secret settings or database files into it. The full local application remains in this repository.
+
+## Puf supplier pricing (user instruction)
+
+- For the Kataloqp/Poy puf import, use the source menu's VAT-inclusive `TOPLAM`, multiply by 2.5, then round upward to the next TRY 50. Final prices end in 00 or 50 and already include VAT; never add VAT again. This rule applies to this supplier import, not the existing sehpa catalogue.
+- Preserve the 64 pictured model names, exact `PYP-...` codes and source product pixels. Store original photos unchanged; cropped cutout frames must record `sourceCrop` and retain exact source RGB at that offset. Never erode pale fabric, thin legs, open frames, metal rings or storage lids to remove room props.
+- Keep supplier passwords and downloaded price PDFs out of Git and published assets. Source measurement discrepancies must remain recorded and be flagged for confirmation.

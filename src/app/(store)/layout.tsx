@@ -6,6 +6,7 @@ import { StorefrontMotion } from "@/components/storefront-motion";
 import "./storefront.css";
 import "./catalog.css";
 import "./form-brand.css";
+import "./gallery.css";
 export default async function ShopLayout({
   children,
 }: {

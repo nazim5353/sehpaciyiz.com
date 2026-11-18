@@ -47,5 +47,12 @@
     "subtitle": "Sunumlarına eşlik eden tasarımlar",
     "image": "/images/catalog-cutouts/tavira-servis-arabasi/01.png",
     "navigationImage": "/images/categories/servis-arabasi-cutout.png"
+  },
+  {
+    "name": "Puflar",
+    "slug": "puf",
+    "subtitle": "Kumaş, desen ve form bir arada",
+    "image": "/images/catalog-cutouts/poy-pyp-0830/01.png",
+    "navigationImage": "/images/categories/puf-cutout.png"
   }
 ]

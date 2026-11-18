@@ -97,6 +97,6 @@ Bu bilgisayarda bağımlılıklar hazırken `pnpm dev` ile http://127.0.0.1:3100
 
 ## Güncel ürün kataloğu
 
-Yergin Design kaynağından 133 ürün ve 194 görsel aktarıldı. 116 seri için yeni isimler kullanılır. Yedi kategori, 24 ürünlük koleksiyon sayfaları ve 8 ürünlük ana sayfa seçkisi vardır. Ürünlerde “Stok var”, özel üretim ve 7–14 iş günü teslim bilgisi gösterilir.
+Toplam 197 ürün ve 258 dekupe görsel vardır. Yergin Design kaynağından gelen 133 ürün korunur; Kataloqp/Poy'un PUF 01 ve PUF 02 kataloglarından 64 görselli model özgün isim ve kodlarıyla “Puflar” kategorisine eklendi. Sekiz kategori, 24 ürünlük koleksiyon sayfaları ve 8 ürünlük ana sayfa seçkisi vardır. Puf fiyatları kaynak KDV dahil toplamın 2,5 katı alınarak yukarı doğru 50 TL'ye yuvarlanır; yeniden KDV eklenmez. Puflarda kaynak üretim süresi 15 iş günüdür ve hazır stok iddiası yoktur. Ayrıntılar: [docs/PUF-IMPORT.md](docs/PUF-IMPORT.md).
 
 Kaynak/yeni isim eşleştirmeleri, veri sınırları, yedekler ve doğrulama: [docs/CATALOG-IMPORT.md](docs/CATALOG-IMPORT.md). Üretim veritabanı ve ödeme bağlantısı tamamlanana kadar yerel önizleme sürümüdür.

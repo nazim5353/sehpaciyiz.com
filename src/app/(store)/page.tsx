@@ -15,16 +15,20 @@ import { categories, money } from "@/lib/catalog";
 import { Benefits } from "@/components/footer";
 import { HomeProducts } from "@/components/home-products";
 import { StorePageTransition } from "@/components/store-page-transition";
+import { HeroShowcase } from "@/components/hero-showcase";
+import heroSelection from "@/data/hero-selection.json";
 export default async function Home() {
   const [products, settings] = await Promise.all([
     getProducts(),
     getPublicSettings(),
   ]);
   const active = products.filter((p) => p.active);
-  const heroProduct =
-    active.find((p) => p.id === "p242") ??
-    active.find((p) => p.featured) ??
-    active[0];
+  const heroProducts = heroSelection.productIds.flatMap(id => {
+    const product = active.find(product => product.id === id);
+    return product ? [product] : [];
+  });
+  const showcaseProducts = heroProducts.length ? heroProducts : active.slice(0, 3);
+  const heroProduct = showcaseProducts[0];
   const title = String(settings.content.heroTitle);
   const sale = active.filter(
     (p) => p.previousPrice && p.previousPrice > p.price,
@@ -36,56 +40,7 @@ export default async function Home() {
   return (
     <StorePageTransition>
       <main id="main" className="store-home">
-        <section className="hero container" data-enter>
-          <div className="hero-copy">
-            <span className="eyebrow">Sehpa ve yaşam alanı koleksiyonu</span>
-            <h1>{title}</h1>
-            <p>{String(settings.content.heroDescription)}</p>
-            <div className="hero-actions">
-              <Link
-                className="button primary btn btn--primary"
-                href="/koleksiyon"
-              >
-                Koleksiyonu keşfet <ArrowUpRight size={21} />
-              </Link>
-              <Link className="hero-secondary" href="/bilgi/hakkimizda">
-                Sehpacıyız hakkında
-              </Link>
-            </div>
-            <div className="hero-facts">
-              <span>
-                <Check size={15} /> Siparişe özel üretim
-              </span>
-              <span>
-                <Check size={15} /> 7–14 iş günü içerisinde teslim
-              </span>
-            </div>
-            <span className="hero-edition">
-              {active.length} tasarım, {categories.length} kategori.
-            </span>
-          </div>
-          <div className="hero-image" data-enter-media="">
-            <Image
-              src={heroProduct.images[0]}
-              alt={heroProduct.name}
-              fill
-              sizes="(max-width: 900px) 100vw, 60vw"
-              loading="eager"
-              fetchPriority="high"
-            />
-            {heroProduct && (
-              <Link className="hero-product" href={`/urun/${heroProduct.slug}`}>
-                <span>
-                  <strong>{heroProduct.name}</strong>
-                  <b>{money(heroProduct.price)}</b>
-                </span>
-                <span className="hero-product-arrow">
-                  <ArrowUpRight size={22} />
-                </span>
-              </Link>
-            )}
-          </div>
-        </section>
+        <HeroShowcase products={showcaseProducts} heading={title} description={String(settings.content.heroDescription)} productCount={active.length} categoryCount={categories.length} intervalMs={heroSelection.intervalMs} />
         <Benefits />
         <section
           className="shop-section container categories-section"
@@ -248,8 +203,8 @@ export default async function Home() {
                 <CaretDown size={19} />
               </summary>
               <p>
-                Ürünlerimiz siparişe özel üretilir. Teslim süresi 7–14 iş günü
-                içerisindedir. Özel renk ve yüzey taleplerini üretim öncesinde
+                Ürünlerimiz siparişe özel üretilir. Hazırlık süresi ürün detayında
+                belirtilir; puf modellerinde 15 iş günüdür. Özel renk ve yüzey taleplerini üretim öncesinde
                 bizimle paylaşabilirsiniz.
               </p>
             </details>
@@ -267,7 +222,7 @@ export default async function Home() {
             </details>
             <details>
               <summary>
-                Sehpanın ölçülerini nerede bulabilirim?
+                Ürünün ölçülerini nerede bulabilirim?
                 <CaretDown size={19} />
               </summary>
               <p>

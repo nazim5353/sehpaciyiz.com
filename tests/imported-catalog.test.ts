@@ -3,7 +3,7 @@ import assert from "node:assert/strict";
 import { readFile, access } from "node:fs/promises";
 import path from "node:path";
 import { createHash } from "node:crypto";
-import products from "../src/data/catalog.json";
+import catalogProducts from "../src/data/catalog.json";
 import provenance from "../src/data/catalog-provenance.json";
 import {
   categories,
@@ -12,6 +12,8 @@ import {
   type Product,
 } from "../src/lib/catalog";
 import { calculateCart } from "../src/lib/commerce";
+const sourceIds = new Set(provenance.products.map(product => product.id));
+const products = catalogProducts.filter(product => sourceIds.has(product.id));
 
 test("opportunities require a discount strictly above 20 percent", () => {
   assert.equal(isOpportunity({ price: 8000, previousPrice: 10000 }), false);
@@ -27,7 +29,7 @@ test("the import contains every source product once with renamed series and seve
   assert.equal(new Set(products.map((p) => p.id)).size, products.length);
   assert.equal(new Set(products.map((p) => p.slug)).size, products.length);
   assert.equal(new Set(products.map((p) => p.name)).size, products.length);
-  assert.equal(categories.length, 7);
+  assert.equal(new Set(products.map(product => product.categorySlug)).size, 7);
   assert.equal(
     provenance.categories.reduce((n, c) => n + c.count, 0),
     products.length,
@@ -46,6 +48,7 @@ test("the import contains every source product once with renamed series and seve
       !Object.hasOwn(product, "creditCardPrice"),
       "One price for card and bank transfer",
     );
+    assert.ok(product.previousPrice !== undefined);
     assert.ok(product.previousPrice > product.price);
     assert.ok(product.description.includes(product.name));
     assert.ok(product.active);

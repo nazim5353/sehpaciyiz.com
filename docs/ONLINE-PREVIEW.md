@@ -17,6 +17,6 @@ Site kimliği `preview/hosting-target.json` içindedir. Yeni Site oluşturmayın
 
 ## Kapsam
 
-Vitrin, 133 ürün, 7 kategori, 194 dekupe fotoğraf, arama, filtreler, ürün galerileri, varyant seçimi ve tarayıcıdaki favori/sepet önizlemesi dahildir. Statik önizlemede sepet hesabı tarayıcıda katalogdan yapılır; sipariş veya tahsilat oluşturmaz. Tam yerel uygulamanın sunucuda sepet doğrulaması ve şirket paneli korunur.
+Vitrin, 197 ürün, 8 kategori, 258 dekupe fotoğraf, arama, filtreler, ürün galerileri, varyant seçimi ve tarayıcıdaki favori/sepet önizlemesi dahildir. Statik önizlemede sepet hesabı tarayıcıda katalogdan yapılır; sipariş veya tahsilat oluşturmaz. Tam yerel uygulamanın sunucuda sepet doğrulaması ve şirket paneli korunur.
 
 `.env.local`, `.local/`, şirket kayıtları, kullanıcılar, yönetim API'leri ve kaynak ürün fotoğrafları bu yayın kaynağına kopyalanmaz. Gösterilen katalog ve marka ayarları Git'teki sürümden alınır. Canlı ticaret ve üretim veri altyapısının tamamlanması ayrı iştir.
