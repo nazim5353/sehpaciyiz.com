@@ -2,6 +2,8 @@
 
 Özgün modelleri ve kaliteyi odağına alan sehpa ve yaşam alanı markası. Form logosu; mat antrasit, kırık beyaz, sıcak taş ve şampanya renkleriyle uygulanır. Slogan: **Her açıdan özgün.** TypeScript, Next.js App Router, React ve Tailwind CSS ile yerel geliştirme sürümü.
 
+**[Çevrimiçi tasarım önizlemesi](https://sehpaciyiz-onizleme.bee-organiza-3097.chatgpt.site)** — aynı ChatGPT hesabıyla farklı cihaz ve internet bağlantılarından açılır. Güncelleme iş akışı: [docs/ONLINE-PREVIEW.md](docs/ONLINE-PREVIEW.md).
+
 ## Form kurumsal kimliği
 
 18 Kasım 2026 renk revizyonu: Kullanıcının Yergin Design referansına göre antrasit ve şampanya paleti uygulanmıştır. Güncel renk kaynağı `src/data/brand-palette.json` dosyasıdır. Logo, favicon, paylaşım görseli ve tarayıcı tema rengi bu paletle uyumludur; logo geometrisi korunur. `node scripts/prepare-form-assets.mjs` güncel web varlıklarını yeniden üretir. Önceki renk sunumları geçmiş tasarım aşamalarına aittir.

@@ -2,6 +2,8 @@
 
 ## Temiz kurulum
 
+Kullanıcıya teslim edilecek sabit çevrimiçi bağlantı ve yayınlama iş akışı [ONLINE-PREVIEW.md](ONLINE-PREVIEW.md) belgesindedir. Her web sitesi güncellemesinde aynı önizlemeyi de yayınlayın; localhost'u nihai teslim bağlantısı olarak kullanmayın.
+
 Node.js 24 LTS ve npm kullanın. Depo kökü doğrudan Next.js projesidir; ek bir alt klasöre girilmez.
 
 ```sh

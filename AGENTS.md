@@ -16,3 +16,10 @@ This block is written and re-added by `next dev` — verify at `node_modules/nex
 - Render with ordinary alpha compositing (`mix-blend-mode: normal`). Never use multiply, filters or white-removal CSS as a substitute for a cutout, and never tint the product to match a colored surface.
 - Before applying catalogue changes, run the cutout validation. Missing, opaque or mismatched assets must stop the import; prepare and review the cutout first.
 - For visual QA, inspect at least a light product, a reflective/metal product and thin legs or open-frame details on the actual page backgrounds.
+
+## Online preview handoff (user instruction)
+
+- At the end of website work, update the hosted design preview and share its stable HTTPS link. The user switches internet providers during the day; localhost or a LAN address is not an acceptable final preview link.
+- Hosting target: `preview/hosting-target.json`. Reuse this Site identity and URL; do not create a new Site for routine updates. Preserve the current private audience unless the user asks to change sharing.
+- Prepare a separate, sanitized Sites source checkout with `node scripts/prepare-online-preview.mjs --destination <checkout>`, then use the Sites skill workflow to build and publish that same Site.
+- The online preview includes versioned storefront/catalogue data only. Never copy `.env.local`, `.local`, company records, accounts, secret settings or database files into it. The full local application remains in this repository.
