@@ -292,7 +292,7 @@ html:focus-within { scroll-behavior: auto; }
     .collection-count { font-size: 30px; }
     .product-purchase h1 { font-size: 36px; }
     .product-intro, .product-disclosures details p { font-size: 15px; }
-    .info-page .prose { font-size: 15px; }
+    .info-page .prose { font-size: 16px; }
   }
 }
 @media (max-width: 360px) {

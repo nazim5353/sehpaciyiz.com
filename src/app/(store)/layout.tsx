@@ -7,6 +7,7 @@ import "./storefront.css";
 import "./catalog.css";
 import "./form-brand.css";
 import "./gallery.css";
+import "./completion.css";
 export default async function ShopLayout({
   children,
 }: {

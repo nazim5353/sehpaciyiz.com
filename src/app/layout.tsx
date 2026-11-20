@@ -3,6 +3,7 @@ import localFont from "next/font/local";
 import Script from "next/script";
 import "./globals.css";
 import { brand, brandPalette } from "@/lib/brand";
+import { siteUrl, indexable } from "@/lib/site";
 const manrope = localFont({
   src: [
     {
@@ -34,9 +35,9 @@ export const metadata: Metadata = {
     icon: { url: "/brand/favicon.svg", type: "image/svg+xml" },
     apple: "/brand/apple-touch-icon.png",
   },
-  robots: { index: false, follow: false },
+  robots: { index: indexable, follow: indexable },
   other: { "page-type": "product", "site-kind": "other" },
-  metadataBase: new URL("http://127.0.0.1:3100"),
+  metadataBase: siteUrl,
   openGraph: {
     title: brand.title,
     description:

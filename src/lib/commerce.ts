@@ -32,7 +32,7 @@ export function calculateCart(
     const variant = product?.variants.find((v) => v.id === line.variantId);
     if (!product || !variant)
       throw new Error("Sepetteki ürün veya seçenek artık satışta değil.");
-    if (variant.stock > 0 && line.quantity > variant.stock)
+    if (variant.stock > 0 && !variant.madeToOrder && line.quantity > variant.stock)
       throw new Error(`${product.name} için yeterli hazır stok yok.`);
     const price = variantPrice(product, variant);
     subtotal += price * line.quantity;

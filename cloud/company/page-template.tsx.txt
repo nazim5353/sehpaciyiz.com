@@ -1,0 +1,18 @@
+import {redirect,notFound} from "next/navigation";
+import {requireChatGPTUser} from "@/app/chatgpt-auth";
+import {AdminShell} from "@/components/admin-shell";
+import {CompanyWorkspace,type CompanyView} from "@/components/company-workspace";
+import {operationFilters} from "@/lib/operations/filters";
+import {withCompany} from "@/lib/company/persistence";
+import {selectData} from "@/lib/company/selectors";
+import {companyDB,cloudCatalog} from "@/lib/company/runtime";
+export async function CloudCompanyPage({view,searchParams}:{view:string;searchParams:Promise<Record<string,string|string[]|undefined>>}){
+ const views=["ozet","satislar","alimlar","giderler","vergiler","kasa","takvim","raporlar","maliyetler","ekip","onaylar"];
+ if(view==="giris")redirect("/yonetim");if(!views.includes(view))notFound();
+ const identity=await requireChatGPTUser(view==="ozet"?"/yonetim":`/yonetim/${view}`),params=new URLSearchParams();for(const [key,value]of Object.entries(await searchParams))if(typeof value==="string")params.set(key,value);
+ const kind=view==="satislar"?"SALE":view==="giderler"?"EXPENSE":view==="vergiler"?"TAX":view==="alimlar"?(params.get("kind")==="MATERIAL_PURCHASE"?"MATERIAL_PURCHASE":"PRODUCT_PURCHASE"):null;if(kind)params.set("kind",kind);
+ let filters;try{filters=operationFilters(params);if(filters.from>filters.to)throw new Error();}catch{return <main><h1>Filtre bilgileri geçerli değil.</h1><a href="/yonetim">Filtreleri sıfırla</a></main>;}
+ const data=await withCompany(companyDB(),identity,(state,actor)=>selectData(state,actor,cloudCatalog,filters,view==="takvim"?"due":"record"));
+ if(data.user.role!=="OWNER"&&["kasa","raporlar","maliyetler","ekip"].includes(view))redirect("/yonetim");
+ return <AdminShell user={data.user}><CompanyWorkspace key={view+JSON.stringify(filters)} view={view as CompanyView} data={data}/></AdminShell>;
+}

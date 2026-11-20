@@ -14,7 +14,13 @@ import {
 } from "@phosphor-icons/react";
 import { useStore } from "./store-provider";
 import { categories } from "@/lib/catalog";
-export function Logo({ name = "Sehpacıyız", inverted = false }: { name?: string; inverted?: boolean }) {
+export function Logo({
+  name = "Sehpacıyız",
+  inverted = false,
+}: {
+  name?: string;
+  inverted?: boolean;
+}) {
   return (
     <Link href="/" className="logo" aria-label={`${name} ana sayfa`}>
       <Image
@@ -38,28 +44,56 @@ export function Header({
   const store = useStore();
   const [menu, setMenu] = useState(false);
   const menuButton = useRef<HTMLButtonElement>(null);
+  const navigation = useRef<HTMLElement>(null);
   const pathname = usePathname();
   useEffect(() => {
     setMenu(false);
   }, [pathname]);
   useEffect(() => {
     if (!menu) return;
+    const media = window.matchMedia("(max-width: 640px)");
+    if (!media.matches) return;
+    const overflow = document.body.style.overflow;
+    document.body.style.overflow = "hidden";
+    navigation.current?.querySelector<HTMLElement>("a,button")?.focus();
+    const resize = () => {
+      if (!media.matches) setMenu(false);
+    };
     const onKey = (event: KeyboardEvent) => {
       if (event.key === "Escape") {
         setMenu(false);
         menuButton.current?.focus();
       }
+      if (event.key === "Tab") {
+        const controls = [
+          menuButton.current,
+          ...Array.from(
+            navigation.current?.querySelectorAll<HTMLElement>(
+              "a[href],button:not(:disabled)",
+            ) ?? [],
+          ),
+        ].filter(
+          (el): el is HTMLElement => !!el && el.getClientRects().length > 0,
+        );
+        if (!controls.length) return;
+        const index = controls.indexOf(document.activeElement as HTMLElement);
+        event.preventDefault();
+        controls[(index + (event.shiftKey ? -1 : 1) + controls.length) % controls.length]?.focus();
+      }
     };
     document.addEventListener("keydown", onKey);
-    return () => document.removeEventListener("keydown", onKey);
+    media.addEventListener("change", resize);
+    return () => {
+      document.removeEventListener("keydown", onKey);
+      media.removeEventListener("change", resize);
+      document.body.style.overflow = overflow;
+    };
   }, [menu]);
   return (
     <>
       <div className="announcement">
         <div className="container announcement-inner">
-          <span>
-            {announcement}
-          </span>
+          <span>{announcement}</span>
           <Link href="/bilgi/teslimat">
             Teslimat hakkında <ArrowUpRight size={14} />
           </Link>
@@ -78,7 +112,13 @@ export function Header({
             {menu ? <X size={24} /> : <List size={24} />}
           </button>
           <Logo name={storeName} />
-          <button className="header-search" onClick={store.openSearch}>
+          <button
+            className="header-search"
+            onClick={() => {
+              setMenu(false);
+              store.openSearch();
+            }}
+          >
             <MagnifyingGlass size={21} />
             <span>Koleksiyonda arayın</span>
             <span className="search-hint">Ara</span>
@@ -87,14 +127,20 @@ export function Header({
             <button
               className="icon-button mobile-search"
               aria-label="Ürünlerde ara"
-              onClick={store.openSearch}
+              onClick={() => {
+                setMenu(false);
+                store.openSearch();
+              }}
             >
               <MagnifyingGlass size={23} />
             </button>
             <button
               className="header-action favorites-button"
               aria-label="Favorilerimi aç"
-              onClick={store.openFavorites}
+              onClick={() => {
+                setMenu(false);
+                store.openFavorites();
+              }}
             >
               <span className="action-icon">
                 <Heart size={23} />
@@ -107,7 +153,10 @@ export function Header({
             <button
               className="header-action cart-action"
               aria-label={`Sepeti aç, ${store.count} ürün`}
-              onClick={store.openCart}
+              onClick={() => {
+                setMenu(false);
+                store.openCart();
+              }}
             >
               <span className="action-icon">
                 <ShoppingBag size={23} />
@@ -120,6 +169,7 @@ export function Header({
         <div className="navigation-border">
           <div className="container navigation-row">
             <nav
+              ref={navigation}
               id="store-navigation"
               aria-label="Ana menü"
               className={`main-nav collection-nav ${menu ? "is-open" : ""}`}

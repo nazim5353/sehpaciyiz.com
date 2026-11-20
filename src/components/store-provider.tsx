@@ -23,6 +23,11 @@ import Image from "next/image";
 import Link from "next/link";
 import { type Product, money, leadTimeLabel } from "@/lib/catalog";
 import { type CartLine, calculateCart } from "@/lib/commerce";
+import {
+  matchesProduct,
+  quantityLimit,
+  restoreStorefront,
+} from "@/lib/storefront-state";
 type Quote = ReturnType<typeof calculateCart>;
 type StoreContextValue = {
   add: (productId: string, variantId: string, quantity: number) => void;
@@ -62,36 +67,9 @@ export function StoreProvider({
   useEffect(() => {
     try {
       const data = JSON.parse(localStorage.getItem("sehpa-store-v1") ?? "{}");
-      if (Array.isArray(data.cart))
-        setCart(
-          data.cart
-            .filter(
-              (item: CartLine) =>
-                item &&
-                typeof item.productId === "string" &&
-                typeof item.variantId === "string" &&
-                Number.isInteger(item.quantity) &&
-                item.quantity >= 1 &&
-                item.quantity <= 20 &&
-                products.some(
-                  (p) =>
-                    p.active &&
-                    p.id === item.productId &&
-                    p.variants.some((v) => v.id === item.variantId),
-                ),
-            )
-            .slice(0, 50),
-        );
-      if (Array.isArray(data.favorites))
-        setFavorites(
-          data.favorites
-            .filter(
-              (id: unknown) =>
-                typeof id === "string" &&
-                products.some((p) => p.active && p.id === id),
-            )
-            .slice(0, 100),
-        );
+      const restored = restoreStorefront(data, products);
+      setCart(restored.cart);
+      setFavorites(restored.favorites);
     } catch {}
     setReady(true);
   }, [products]);
@@ -108,6 +86,7 @@ export function StoreProvider({
     if (panel !== "cart") return;
     const controller = new AbortController();
     setLoading(true);
+    setQuote(null);
     setError("");
     fetch("/api/cart/quote", {
       method: "POST",
@@ -118,10 +97,10 @@ export function StoreProvider({
       .then(async (response) => {
         const data = await response.json();
         if (!response.ok) throw new Error(data.error);
-        setQuote(data);
+        if (!controller.signal.aborted) setQuote(data);
       })
       .catch((error) => {
-        if (error.name !== "AbortError") {
+        if (!controller.signal.aborted) {
           setError(error.message);
           setQuote(null);
         }
@@ -132,6 +111,11 @@ export function StoreProvider({
     return () => controller.abort();
   }, [cart, panel]);
   function add(productId: string, variantId: string, quantity: number) {
+    const variant = products
+      .find((p) => p.id === productId && p.active)
+      ?.variants.find((v) => v.id === variantId);
+    if (!variant || !Number.isInteger(quantity) || quantity < 1) return;
+    const limit = quantityLimit(variant);
     setCart((current) => {
       const found = current.find(
         (line) => line.productId === productId && line.variantId === variantId,
@@ -139,10 +123,15 @@ export function StoreProvider({
       return found
         ? current.map((line) =>
             line === found
-              ? { ...line, quantity: Math.min(20, line.quantity + quantity) }
+              ? { ...line, quantity: Math.min(limit, line.quantity + quantity) }
               : line,
           )
-        : [...current, { productId, variantId, quantity }];
+        : current.length < 50
+          ? [
+              ...current,
+              { productId, variantId, quantity: Math.min(limit, quantity) },
+            ]
+          : current;
     });
     setPanel("cart");
   }
@@ -153,7 +142,19 @@ export function StoreProvider({
           ? [line]
           : line.quantity + delta <= 0
             ? []
-            : [{ ...line, quantity: Math.min(20, line.quantity + delta) }],
+            : [
+                {
+                  ...line,
+                  quantity: Math.min(
+                    quantityLimit(
+                      products
+                        .find((p) => p.id === line.productId)!
+                        .variants.find((v) => v.id === line.variantId)!,
+                    ),
+                    line.quantity + delta,
+                  ),
+                },
+              ],
       ),
     );
   }
@@ -164,7 +165,10 @@ export function StoreProvider({
         setFavorites((current) =>
           current.includes(id)
             ? current.filter((v) => v !== id)
-            : [...current, id],
+            : products.some((p) => p.id === id && p.active) &&
+                current.length < 100
+              ? [...current, id]
+              : current,
         ),
       favorites,
       count: cart.reduce((total, line) => total + line.quantity, 0),
@@ -180,9 +184,7 @@ export function StoreProvider({
       product.active &&
       (panel === "favorites"
         ? favorites.includes(product.id)
-        : `${product.name} ${product.sku ?? ""}`
-            .toLocaleLowerCase("tr")
-            .includes(query.toLocaleLowerCase("tr"))),
+        : matchesProduct(product, query)),
   );
   return (
     <StoreContext.Provider value={value}>
@@ -215,7 +217,7 @@ export function StoreProvider({
               {panel === "cart"
                 ? "Seçtiğiniz ürünler ve sipariş özeti."
                 : panel === "search"
-                  ? "Ürün adını yazarak koleksiyonda arayın."
+                  ? "Ürün adı, kategori veya ürün koduyla arayın."
                   : "Beğendiğiniz ürünleri burada saklayın."}
             </Dialog.Description>
             {panel === "search" && (
@@ -224,11 +226,18 @@ export function StoreProvider({
                 <input
                   autoFocus
                   aria-label="Ürün ara"
-                  placeholder="Örneğin: Luna, orta sehpa..."
+                  maxLength={100}
+                  placeholder="Ürün adı, kategori veya ürün kodu"
                   value={query}
                   onChange={(event) => setQuery(event.target.value)}
                 />
               </div>
+            )}
+            {panel !== "cart" && (
+              <p className="drawer-result-count" role="status">
+                {results.length} ürün
+                {panel === "favorites" ? " favorilerinizde" : " bulundu"}.
+              </p>
             )}
             {panel === "cart" ? (
               <>
@@ -238,8 +247,10 @@ export function StoreProvider({
                       <ShoppingBag size={48} weight="light" />
                       <h3>Burada güzel şeylere yer var.</h3>
                       <p>Beğendiğiniz bir sehpayı seçerek başlayın.</p>
-                      <Dialog.Close className="button primary">
-                        Koleksiyona dön <ArrowRight size={18} />
+                      <Dialog.Close asChild>
+                        <Link className="button primary" href="/koleksiyon">
+                          Koleksiyonu incele <ArrowRight size={18} />
+                        </Link>
                       </Dialog.Close>
                     </div>
                   ) : (
@@ -266,9 +277,16 @@ export function StoreProvider({
                             )}
                           </div>
                           <div className="cart-line-info">
-                            <strong>
+                            <Link
+                              href={
+                                product
+                                  ? `/urun/${product.slug}`
+                                  : "/koleksiyon"
+                              }
+                              onClick={() => setPanel(null)}
+                            >
                               {product?.name ?? "Satışta olmayan ürün"}
-                            </strong>
+                            </Link>
                             <span>{variant?.name ?? "Seçenek bulunamadı"}</span>
                             <b>
                               {product && variant
@@ -285,6 +303,10 @@ export function StoreProvider({
                               <span>{line.quantity}</span>
                               <button
                                 onClick={() => change(index, 1)}
+                                disabled={
+                                  !variant ||
+                                  line.quantity >= quantityLimit(variant)
+                                }
                                 aria-label={`${product?.name} adet artır`}
                               >
                                 <Plus size={14} />
@@ -315,9 +337,16 @@ export function StoreProvider({
                       </p>
                     )}
                     {error && (
-                      <p className="form-error" role="alert">
+                      <div className="form-error" role="alert">
                         {error}
-                      </p>
+                        <button
+                          type="button"
+                          className="text-link"
+                          onClick={() => setCart((current) => [...current])}
+                        >
+                          Tekrar dene
+                        </button>
+                      </div>
                     )}
                     {quote && !loading && (
                       <>
@@ -348,9 +377,13 @@ export function StoreProvider({
                       Örnek mağaza: ödeme henüz açık değil. Sepetiniz bu
                       tarayıcıda saklanır.
                     </div>
-                    <button disabled className="button primary full">
-                      Ödeme bağlantısı hazırlanıyor
-                    </button>
+                    <Link
+                      href="/bilgi/iletisim"
+                      className="button primary full"
+                      onClick={() => setPanel(null)}
+                    >
+                      Seçimlerim hakkında bilgi al
+                    </Link>
                     <small>
                       {money(shipping.freeThreshold)} ve üzeri örnek
                       siparişlerde kargo ücretsiz.
@@ -361,28 +394,30 @@ export function StoreProvider({
             ) : (
               <div className="drawer-scroll">
                 {results.length ? (
-                  results.map((product) => (
-                    <Link
-                      key={product.id}
-                      href={`/urun/${product.slug}`}
-                      className="search-result"
-                      onClick={() => setPanel(null)}
-                    >
-                      <div className="cart-image">
-                        <Image
-                          src={product.images[0]}
-                          alt={product.name}
-                          fill
-                          sizes="90px"
-                        />
-                      </div>
-                      <div>
-                        <strong>{product.name}</strong>
-                        <span>{money(product.price)}</span>
-                      </div>
-                      <ArrowRight size={20} />
-                    </Link>
-                  ))
+                  (panel === "favorites" ? results : results.slice(0, 50)).map(
+                    (product) => (
+                      <Link
+                        key={product.id}
+                        href={`/urun/${product.slug}`}
+                        className="search-result"
+                        onClick={() => setPanel(null)}
+                      >
+                        <div className="cart-image">
+                          <Image
+                            src={product.images[0]}
+                            alt={product.name}
+                            fill
+                            sizes="90px"
+                          />
+                        </div>
+                        <div>
+                          <strong>{product.name}</strong>
+                          <span>{money(product.price)}</span>
+                        </div>
+                        <ArrowRight size={20} />
+                      </Link>
+                    ),
+                  )
                 ) : (
                   <div className="empty-state">
                     <Heart size={42} weight="light" />
@@ -397,6 +432,15 @@ export function StoreProvider({
                         : "Daha kısa bir ürün adı deneyin."}
                     </p>
                   </div>
+                )}
+                {panel === "search" && results.length > 50 && (
+                  <Link
+                    className="button secondary full"
+                    href={`/koleksiyon?q=${encodeURIComponent(query)}`}
+                    onClick={() => setPanel(null)}
+                  >
+                    Tüm sonuçları koleksiyonda gör
+                  </Link>
                 )}
               </div>
             )}

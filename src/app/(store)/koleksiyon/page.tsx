@@ -8,6 +8,7 @@ import {
 } from "@phosphor-icons/react/dist/ssr";
 import { getProducts } from "@/lib/store";
 import { categories, isOpportunity } from "@/lib/catalog";
+import { matchesProduct, collectionQuery } from "@/lib/storefront-state";
 import { ProductCard } from "@/components/product-card";
 import { CollectionSidebar } from "@/components/collection-sidebar";
 import { StorePageTransition } from "@/components/store-page-transition";
@@ -15,9 +16,9 @@ export const metadata = { title: "Koleksiyon" };
 export default async function Collection({
   searchParams,
 }: {
-  searchParams: Promise<Record<string, string | undefined>>;
+  searchParams: Promise<Record<string, string | string[] | undefined>>;
 }) {
-  const query = await searchParams;
+  const query = collectionQuery(await searchParams);
   const category = categories.find((c) => c.slug === query.kategori);
   const all = (await getProducts()).filter((p) => p.active);
   const minimum = Number(query.min || 0);
@@ -27,6 +28,7 @@ export default async function Collection({
   const products = all.filter(
     (p) =>
       (!category || p.categorySlug === category.slug) &&
+      (!query.q || matchesProduct(p, query.q)) &&
       (query.indirim !== "1" || isOpportunity(p)) &&
       (query.uretim !== "1" || p.variants.some((v) => v.madeToOrder)) &&
       p.price >= min &&
@@ -64,6 +66,7 @@ export default async function Collection({
     return `/koleksiyon${suffix ? `?${suffix}` : ""}`;
   }
   const filtered = !!(
+    query.q ||
     query.min ||
     query.max ||
     query.indirim === "1" ||
@@ -129,6 +132,17 @@ export default async function Collection({
               ))}
             </nav>
             <form action="/koleksiyon" className="filter-form">
+              <div>
+                <label htmlFor="collection-search">Ürün adı veya kodu</label>
+                <input
+                  id="collection-search"
+                  name="q"
+                  type="search"
+                  defaultValue={query.q ?? ""}
+                  placeholder="Koleksiyonda ara"
+                  maxLength={100}
+                />
+              </div>
               {query.kategori && (
                 <input type="hidden" name="kategori" value={query.kategori} />
               )}
@@ -184,6 +198,7 @@ export default async function Collection({
                 <Link
                   className="reset-filters"
                   href={url({
+                    q: undefined,
                     min: undefined,
                     max: undefined,
                     indirim: undefined,
@@ -230,6 +245,11 @@ export default async function Collection({
             </div>
             {filtered && (
               <div className="active-filters" aria-label="Uygulanan filtreler">
+                {query.q && (
+                  <Link href={url({ q: undefined })}>
+                    Arama: {query.q} <X size={12} />
+                  </Link>
+                )}
                 {query.min && (
                   <Link href={url({ min: undefined })}>
                     {query.min} TL’den başlayan <X size={12} />

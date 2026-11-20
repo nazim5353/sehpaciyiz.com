@@ -1,5 +1,7 @@
 # Sehpacıyız
 
+20 Kasım 2026 teslimi: sepet stok sınırları ve kayıt onarımı, Türkçe/ürün kodu araması, koleksiyon araması, yardım içerikleri, ürün paylaşım bilgileri, sitemap/robots ve GitHub kontrolleri tamamlandı. Güncel doğrulama ve entegrasyon devri: [docs/SON-TESLIM.md](docs/SON-TESLIM.md). Ödeme, kargo, e-posta ve üretim barındırma bağlantıları kullanıcının diğer geliştiricisine bırakılmıştır; bu teslim canlı satış açmaz.
+
 Özgün modelleri ve kaliteyi odağına alan sehpa ve yaşam alanı markası. Form logosu; mat antrasit, kırık beyaz, sıcak taş ve şampanya renkleriyle uygulanır. Slogan: **Her açıdan özgün.** TypeScript, Next.js App Router, React ve Tailwind CSS ile yerel geliştirme sürümü.
 
 **[Çevrimiçi tasarım önizlemesi](https://sehpaciyiz-onizleme.bee-organiza-3097.chatgpt.site)** — aynı ChatGPT hesabıyla farklı cihaz ve internet bağlantılarından açılır. Güncelleme iş akışı: [docs/ONLINE-PREVIEW.md](docs/ONLINE-PREVIEW.md).

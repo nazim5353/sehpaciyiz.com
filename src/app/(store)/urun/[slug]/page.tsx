@@ -5,6 +5,7 @@ import { getProducts, getPublicSettings } from "@/lib/store";
 import { ProductDetail } from "@/components/product-detail";
 import { ProductCard } from "@/components/product-card";
 import { StorePageTransition } from "@/components/store-page-transition";
+import { absoluteUrl, jsonLd } from "@/lib/site";
 export async function generateMetadata({
   params,
 }: {
@@ -17,6 +18,17 @@ export async function generateMetadata({
   return {
     title: product?.name ?? "Ürün bulunamadı",
     description: product?.description,
+    alternates: { canonical: `/urun/${slug}` },
+    ...(product
+      ? {
+          openGraph: {
+            title: product.name,
+            description: product.description,
+            url: `/urun/${slug}`,
+            images: product.images.map((url) => ({ url, alt: product.name })),
+          },
+        }
+      : {}),
   };
 }
 export default async function ProductPage({
@@ -37,6 +49,21 @@ export default async function ProductPage({
   return (
     <StorePageTransition key={slug}>
       <main id="main" className="container product-page">
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: jsonLd({
+              "@context": "https://schema.org",
+              "@type": "Product",
+              name: product.name,
+              description: product.description,
+              sku: product.sku ?? product.id,
+              image: product.images.map(absoluteUrl),
+              url: absoluteUrl(`/urun/${product.slug}`),
+              category: product.category,
+            }),
+          }}
+        />
         <nav className="breadcrumbs" aria-label="Sayfa konumu">
           <Link href="/">Ana sayfa</Link>
           <CaretRight size={12} />
@@ -66,6 +93,11 @@ export default async function ProductPage({
           <div className="product-grid">
             {products
               .filter((p) => p.active && p.id !== product.id)
+              .sort(
+                (a, b) =>
+                  Number(b.categorySlug === product.categorySlug) -
+                  Number(a.categorySlug === product.categorySlug),
+              )
               .slice(0, 4)
               .map((p) => (
                 <ProductCard key={p.id} product={p} />

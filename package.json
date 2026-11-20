@@ -9,6 +9,7 @@
     "start": "next start --hostname 127.0.0.1 --port 3100",
     "typecheck": "tsc --noEmit",
     "test": "tsx --test tests/*.test.ts",
+    "verify:http": "node scripts/verify-storefront.mjs",
     "db:validate": "prisma validate",
     "images:validate": "node scripts/catalog/validate-cutouts.mjs"
   },

@@ -1,0 +1,54 @@
+.info-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 24px;
+  max-width: 780px;
+  border-top: 1px solid var(--line);
+  margin-top: 40px;
+  padding-top: 24px;
+}
+.info-links a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+.info-contact-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 28px;
+}
+.info-page .prose p + p {
+  margin-top: 20px;
+}
+.drawer-result-count {
+  margin: 8px 0 16px;
+  color: var(--muted);
+  font-size: 14px;
+}
+.cart-line-info > a {
+  font-weight: 600;
+  text-underline-offset: 3px;
+}
+.cart-line-info > a:hover {
+  text-decoration: underline;
+}
+.store-drawer .form-error .text-link {
+  display: block;
+  margin-top: 8px;
+  min-height: 44px;
+}
+.store-drawer .quantity button:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+.store-drawer .drawer-scroll {
+  overscroll-behavior: contain;
+}
+@media (max-width: 640px) {
+  .info-contact-actions .button {
+    width: 100%;
+  }
+}

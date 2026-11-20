@@ -26,6 +26,7 @@ import {
   leadTimeLabel,
 } from "@/lib/catalog";
 import { useStore } from "./store-provider";
+import { quantityLimit } from "@/lib/storefront-state";
 export function ProductDetail({
   product,
   freeThreshold,
@@ -49,7 +50,7 @@ export function ProductDetail({
   const price = variantPrice(product, variant);
   const store = useStore();
   const favorite = store.favorites.includes(product.id);
-  const max = Math.min(20, variant.stock > 0 ? variant.stock : 20);
+  const max = quantityLimit(variant);
   return (
     <>
       <div className="product-layout">

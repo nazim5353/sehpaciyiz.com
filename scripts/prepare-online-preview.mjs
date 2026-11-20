@@ -42,8 +42,10 @@ const products = JSON.parse(await read("src/data/catalog.json"));
 const categories = JSON.parse(await read("src/data/categories.json"));
 const validation = await validateProductCutouts(products, { root, categories });
 for (const name of ["src/app/(store)", "src/data", "public/brand", "public/design", "public/fonts", "public/images/catalog-cutouts", "public/images/categories"]) await copy(name);
-for (const name of ["layout.tsx", "globals.css", "icon.svg", "error.tsx", "not-found.tsx"]) await copy(`src/app/${name}`);
-for (const name of ["catalog.ts", "brand.ts", "settings.ts", "commerce.ts"]) await copy(`src/lib/${name}`);
+for (const name of ["layout.tsx", "globals.css", "icon.svg", "error.tsx", "not-found.tsx", "robots.ts", "sitemap.ts"]) await copy(`src/app/${name}`);
+for (const name of ["robots.ts", "sitemap.ts"]) await write(`src/app/${name}`, (await read(`src/app/${name}`)) + '\nexport const dynamic = "force-static";\n');
+for (const name of ["catalog.ts", "brand.ts", "settings.ts", "commerce.ts", "storefront-state.ts", "info-pages.ts", "site.ts"]) await copy(`src/lib/${name}`);
+await write("src/lib/site.ts", `export const siteUrl = new URL(${JSON.stringify(target.url)});\nexport const indexable = false;\nexport const absoluteUrl = (pathname: string) => new URL(pathname, siteUrl).href;\nexport const jsonLd = (value: unknown) => JSON.stringify(value).replace(/</g, "\\\\u003c");\n`);
 for (const name of ["collection-sidebar", "store-page-transition", "product-card", "product-detail", "home-products", "hero-showcase", "header", "footer", "storefront-motion", "store-provider"]) await copy(`src/components/${name}.tsx`);
 for (const name of ["tsconfig.json", "next-env.d.ts", "postcss.config.mjs", "package-lock.json"]) await copy(name);
 await copy("preview/store.ts", "src/lib/store.ts");
@@ -58,7 +60,6 @@ await write("next.config.mjs", 'export default { output: "export", trailingSlash
 await write(".openai/hosting.json", JSON.stringify({ ...hosting, static: { directory: "out" } }, null, 2) + "\n");
 
 let layout = await read("src/app/layout.tsx");
-layout = replaceOnce(layout, /new URL\("http:\/\/127\.0\.0\.1:3100"\)/g, `new URL(${JSON.stringify(target.url)})`, "metadata origin");
 layout = replaceOnce(layout, /export const dynamic = "force-dynamic";\s*/g, "", "dynamic root");
 await write("src/app/layout.tsx", layout);
 
@@ -72,7 +73,7 @@ await write("src/app/(store)/layout.tsx", shopLayout);
 let collection = await read("src/app/(store)/koleksiyon/page.tsx");
 collection = replaceOnce(collection, /import \{ getProducts \} from "@\/lib\/store";/g, 'import catalogData from "@/data/catalog.json";\nimport { useSearchParams } from "next/navigation";', "collection data");
 collection = replaceOnce(collection, /export const metadata = \{ title: "Koleksiyon" \};\s*/g, "", "collection metadata");
-collection = replaceOnce(collection, /export default async function Collection\(\{[\s\S]*?const query = await searchParams;/g, 'export default function Collection() {\n  const query = Object.fromEntries(useSearchParams().entries());', "collection query");
+collection = replaceOnce(collection, /export default async function Collection\(\{[\s\S]*?const query = collectionQuery\(await searchParams\);/g, 'export default function Collection() {\n  const search = useSearchParams();\n  const query = collectionQuery(Object.fromEntries(Array.from(search.keys(), key => [key, search.getAll(key)])));', "collection query");
 collection = replaceOnce(collection, /\(await getProducts\(\)\)\.filter/g, "catalogData.filter", "collection products");
 await write("src/components/online-collection.tsx", '"use client";\n' + collection);
 await write("src/app/(store)/koleksiyon/page.tsx", 'import { Suspense } from "react";\nimport Collection from "@/components/online-collection";\nexport const metadata = { title: "Koleksiyon" };\nexport default function Page() { return <Suspense fallback={<main id="main" className="container collection-page"><h1>Koleksiyon</h1><p>Tasarımlar yükleniyor…</p></main>}><Collection /></Suspense>; }\n');

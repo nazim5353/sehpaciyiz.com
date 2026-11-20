@@ -1,0 +1,8 @@
+import {env} from "cloudflare:workers";
+import catalog from "@/data/panel-catalog.json";
+import type {CloudDB} from "./persistence";
+import type {Identity} from "./model";
+import type {CatalogCost} from "../operations/types";
+export const cloudCatalog=catalog as CatalogCost[];
+export function companyDB(){if(!env.DB)throw new Error("Kalıcı veri alanı kullanılamıyor.");return env.DB as unknown as CloudDB;}
+export function requestIdentity(request:Request):Identity|null{const userId=request.headers.get("oai-authenticated-user-id"),email=request.headers.get("oai-authenticated-user-email");if(!userId||!email)return null;let name=request.headers.get("oai-authenticated-user-full-name")??email;if(request.headers.get("oai-authenticated-user-full-name-encoding")==="percent-encoded-utf-8")try{name=decodeURIComponent(name);}catch{name=email;}return {userId,email,displayName:name};}

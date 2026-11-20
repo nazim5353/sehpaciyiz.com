@@ -1,0 +1,11 @@
+import {z} from "zod";
+import {withCompany} from "@/lib/company/persistence";
+import {selectData} from "@/lib/company/selectors";
+import {runCommand} from "@/lib/company/commands";
+import {ownerOnly} from "@/lib/company/model";
+import {operationFilters} from "@/lib/operations/filters";
+import {companyDB,cloudCatalog,requestIdentity} from "@/lib/company/runtime";
+const noStore={"Cache-Control":"private, no-store"};
+function failure(error:unknown){if(error instanceof z.ZodError)return Response.json({error:error.issues[0]?.message??"Alanları kontrol edin."},{status:400,headers:noStore});const message=error instanceof Error?error.message:"İşlem tamamlanamadı.";if(/D1_|SQLITE|constraint|binding|fetch failed/i.test(message))return Response.json({error:"İşlem kaydedilemedi. Sayfayı yenileyip tekrar deneyin."},{status:503,headers:noStore});return Response.json({error:message},{status:/yetki|erişim|yalnızca şirket|etkin değil/.test(message)?403:400,headers:noStore});}
+export async function GET(request:Request){try{const identity=requestIdentity(request);if(!identity)return Response.json({error:"Oturum açın."},{status:401,headers:noStore});const params=new URL(request.url).searchParams;return Response.json(await withCompany(companyDB(),identity,(state,actor)=>{if(["raporlar","kasa","maliyetler","ekip"].includes(params.get("view")??""))ownerOnly(actor);return selectData(state,actor,cloudCatalog,operationFilters(params),params.get("view")==="takvim"?"due":"record");}),{headers:noStore});}catch(e){return failure(e);}}
+export async function POST(request:Request){try{if(request.headers.get("origin")!==new URL(request.url).origin)return Response.json({error:"İstek kaynağı doğrulanamadı."},{status:403});const identity=requestIdentity(request);if(!identity)return Response.json({error:"Oturum açın."},{status:401});const text=await request.text();if(new TextEncoder().encode(text).length>65536)return Response.json({error:"İstek çok büyük."},{status:413});const body=JSON.parse(text);const result=await withCompany(companyDB(),identity,(state,actor)=>runCommand(state,actor,cloudCatalog,body),true);return Response.json({ok:true,result},{headers:noStore});}catch(e){return failure(e);}}

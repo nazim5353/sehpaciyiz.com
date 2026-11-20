@@ -12,7 +12,7 @@ Sol hizalı başlık ve eylemler, sağda büyük ürün vitrini. Telefonda metni
     Koleksiyon / hakkında Ürün adı / KDV dahil fiyat
     Üretim / ürün sayısı   Seçim / önceki / duraklat / sonraki
 
-Sıradan masa yerine üç farklı form seçildi: Ravena Orta Sehpa, Nerova Orta Sehpa ve Lotus Puf. Seçim ve süre `src/data/hero-selection.json` dosyasından yönetilir. Önceki 133 ürün ve fiyatları korunur.
+Kullanıcının daha iddialı modeller talebiyle seçki Berova Orta Sehpa, Narelo Orta Sehpa ve Arvelo Dresuar olarak güncellendi. Berova'nın çok parçalı metal daireleri, Narelo'nun katmanlı kütlesi ve Arvelo'nun büyük siyah diski ile metal silindiri birbirinden ayrılan üç form sunar. Görsel ölçeği üst ayrıntılar kırpılmadan ürünü büyük gösterir. Seçim ve süre `src/data/hero-selection.json` dosyasından yönetilir. Ürünler ve fiyatları korunur.
 
 ## Hareket ve erişim
 
